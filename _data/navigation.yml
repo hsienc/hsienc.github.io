@@ -9,13 +9,13 @@ main:
     url: /files/EricHsienchenChu_CV.pdf
 
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Courses"
-    url: /Courses/  
+    url: /courses/  
     
   - title: "Cycling"
-    url: /portfolio/
+    url: /cycling/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
