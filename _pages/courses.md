@@ -13,7 +13,7 @@ A list of the relevant courses that I have taken/*audited at UW–Madison (with 
 
 ECON711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benjamin Bernard*
 
-ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (auction reading notes) (AS)
+ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  ([auction reading notes](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2759d5cd-52f1-4de6-824e-8f8605f6629d)) ([AS](https://acrobat.adobe.com/id/urn:aaid:sc:ap:5b7a73e2-ee62-413c-b884-1e29f0d6eaa7))
 
 ECON709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
 
