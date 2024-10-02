@@ -13,11 +13,11 @@ A list of the relevant courses that I have taken/"audited at UW–Madison (with 
 
 ECON711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benjamin Bernard*
 
-ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  ([auction reading notes](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2759d5cd-52f1-4de6-824e-8f8605f6629d)) ([AS](https://acrobat.adobe.com/id/urn:aaid:sc:ap:5b7a73e2-ee62-413c-b884-1e29f0d6eaa7))
+ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>)(<a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">AS</a>) 
 
 ECON709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
 
-ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* ([AN–GMM](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a1e0965e-c8a5-406b-9ddc-4bfa4ea24784)) ([nonparametrics](https://acrobat.adobe.com/id/urn:aaid:sc:AP:56072070-8110-4f96-b331-5869293286ce))
+ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (<a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>)(<a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>)
 
 ### 2nd-year PhD field courses: 
 
@@ -37,7 +37,7 @@ ECON580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon 
 
 ECON664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
 
-ECON699: Directed Study, Spring 2023, *with Prof. Matteo Camboni* ([game theory reading notes](https://acrobat.adobe.com/id/urn:aaid:sc:ap:ce2f9ded-8379-4257-b029-3ecb3d17cf94))
+ECON699: Directed Study, Spring 2023, *with Prof. Matteo Camboni* (<a href="/files/3_Eric_ECON699_Game_Theory_Notes.pdf" target="_blank">game theory reading notes</a>)
 
 ECON312: Intermediate Macroeconomic Theory (Honors), Spring 2023, *Prof. Simeon Alder*
 
