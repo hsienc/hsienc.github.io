@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Eric Hsienchen Chu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://hsienc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Eric Hsienchen Chu"
+description              : &description "Senior student in Economics"
+url                      : https://hsienc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsienc/hsienc.github.io"
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -72,7 +72,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  strava           : "https://www.strava.com/athletes/107318894" #
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
