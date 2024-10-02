@@ -22,11 +22,11 @@ repository               : "hsienc/hsienc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Eric Hsienchen Chu"
+  pronouns         : "he/him"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Madison, WI"
+  employer         : "University of Wisconsin–Madison"
   uri              : # URL
   email            : "none@example.org" 
 
