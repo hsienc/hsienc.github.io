@@ -13,34 +13,34 @@ A list of the relevant courses that I have taken/*audited at UW–Madison (with 
 
 ECON711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benjamin Bernard*
 
-ECON713: Microeconomic Theory II, Spring 2024, Prof. Lones Smith & Prof. Marzena Rostek  (auction reading notes) (AS)
+ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (auction reading notes) (AS)
 
-ECON709: Economic Statistics and Econometrics I, Fall 2023, Prof. Xiaoxia Shi & Prof. Jack Porter 
+ECON709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
 
-ECON710: Economic Statistics and Econometrics II, Spring 2024, Prof. Bruce Hansen & Prof. Harold Chiang (AN–GMM) (nonparametrics)
+ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (AN–GMM) (nonparametrics)
 
 #### 2nd-year PhD field courses: 
 
-ECON871: Advanced International Economics I (Trade), Fall 2024, Prof. Agustín Gutiérrez & Prof. Miguel Acosta 
+ECON871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta* 
 
-FINANCE920: Theory of Finance (Asset Pricing), Fall 2024. Prof. Hengjie Ai
+FINANCE920: Theory of Finance (Asset Pricing), Fall 2024. *Prof. Hengjie Ai*
 
-*ECON872: Advanced International Economics II (Finance), Spring 2024, Prof. Louphou Coulibaly & Prof. Charles Engel 
+*ECON872: Advanced International Economics II (Finance), Spring 2024, *Prof. Louphou Coulibaly & Prof. Charles Engel* 
 
-*ECON871: Advanced International Economics I (Trade), Fall 2023, second half by Prof. Lydia Cox 
+*ECON871: Advanced International Economics I (Trade), Fall 2023, *second half by Prof. Lydia Cox*
 
 #### Undergraduate courses:
 
-ECON699: Directed Study, Fall 2024, with Prof. Jesse Gregory & Sarah Bass 
+ECON699: Directed Study, Fall 2024, *with Prof. Jesse Gregory & Sarah Bass* 
 
-ECON580: Honors Tutorial in Research Project Design, Spring 2024, Prof. Simeon Alder & Prof. Corina Mommaerts
+ECON580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon Alder & Prof. Corina Mommaerts*
 
-ECON664: Issues in International Trade, Fall 2023, Prof. Lydia Cox 
+ECON664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
 
-ECON699: Directed Study, Spring 2023, with Prof. Matteo Camboni (game theory reading notes)
+ECON699: Directed Study, Spring 2023, *with Prof. Matteo Camboni* (game theory reading notes)
 
-ECON312: Intermediate Macroeconomic Theory (Honors), Spring 2023, Prof. Simeon Alder
+ECON312: Intermediate Macroeconomic Theory (Honors), Spring 2023, *Prof. Simeon Alder*
 
-ECON311: Intermediate Microeconomic Theory (Honors), Fall 2022, Prof. Matteo Camboni
+ECON311: Intermediate Microeconomic Theory (Honors), Fall 2022, *Prof. Matteo Camboni*
 
-ECON410: Introductory Econometrics, Summer 2022, Prof. Christopher McKelvey
+ECON410: Introductory Econometrics, Summer 2022, *Prof. Christopher McKelvey*
