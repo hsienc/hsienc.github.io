@@ -44,3 +44,31 @@ ECON312: Intermediate Macroeconomic Theory (Honors), Spring 2023, *Prof. Simeon 
 ECON311: Intermediate Microeconomic Theory (Honors), Fall 2022, *Prof. Matteo Camboni*
 
 ECON410: Introductory Econometrics, Summer 2022, *Prof. Christopher McKelvey*
+
+### Mathematics, Statistics, Computational/Programming
+
+COMP SCI 532: Matrix Methods in Machine Learning, Fall 2024
+
+MATH/STAT632: Introduction to Stochastic Processes, Spring 2024 
+
+MATH521: Analysis I, Summer 2023
+
+MATH/STAT431: Introduction to the Theory of Probability, Spring 2023
+
+MATH421: The Theory of Single Variable Calculus, Spring 2023
+
+STAT303: R for Statistics I, Spring 2023
+
+MATH340: Elementary Matrix and Linear Algebra, Summer 2022
+
+COMP SCI 220: Data Science Programming I (Python), Spring 2022
+
+STAT240: Data Science Modeling I (R), Fall 2022
+
+The Calcuclus I-II-III sequence, Fall 2021 - Fall 2022
+
+### Others
+
+2023 [LINKS Workshop on Social Network Analysis](https://www.linksworkshop.org/), Intermediate SNA (R) ([unfinished notes](https://github.com/hsienc/LINKS-Workshop-2023-Intrermediate-SNA/blob/991a219f5bb9a23e989bc09c902e89d1a4b88a42/Eric_LINKS_Workshop_2023_Intermediate_SNA.pdf))
+
+2023 [FODSI Summer School on Foundation of Data Science](https://fodsi.us/index.html), Bryn Mawr College, PA
