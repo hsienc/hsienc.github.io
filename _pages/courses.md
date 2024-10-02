@@ -13,11 +13,11 @@ A list of the relevant courses that I have taken/"audited at UW–Madison (with 
 
 ECON711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benjamin Bernard*
 
-ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>)(<a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">AS</a>) 
+ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>) (<a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">AS</a>) 
 
 ECON709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
 
-ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (<a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>)(<a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>)
+ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (<a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>) (<a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>)
 
 ### 2nd-year PhD field courses: 
 
