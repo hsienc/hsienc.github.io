@@ -17,7 +17,7 @@ ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzen
 
 ECON709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
 
-ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (AN–GMM) (nonparametrics)
+ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* ([AN–GMM](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a1e0965e-c8a5-406b-9ddc-4bfa4ea24784)) ([nonparametrics](https://acrobat.adobe.com/id/urn:aaid:sc:AP:56072070-8110-4f96-b331-5869293286ce))
 
 ### 2nd-year PhD field courses: 
 
@@ -37,7 +37,7 @@ ECON580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon 
 
 ECON664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
 
-ECON699: Directed Study, Spring 2023, *with Prof. Matteo Camboni* (game theory reading notes)
+ECON699: Directed Study, Spring 2023, *with Prof. Matteo Camboni* ([game theory reading notes](https://acrobat.adobe.com/id/urn:aaid:sc:ap:ce2f9ded-8379-4257-b029-3ecb3d17cf94))
 
 ECON312: Intermediate Macroeconomic Theory (Honors), Spring 2023, *Prof. Simeon Alder*
 
