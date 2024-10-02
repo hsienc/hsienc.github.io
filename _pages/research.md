@@ -9,7 +9,7 @@ author_profile: true
 
 ### Trade Exposures in Local Pricing
 
-Senior Honors Thesis. Advisor: Prof. Lydia Cox
+Senior Honors Thesis. Advisor: Prof. [Lydia Cox](https://coxlydia.com/)
 
 **Abstract.** (available soon)
 
