@@ -45,7 +45,7 @@ ECON311: Intermediate Microeconomic Theory (Honors), Fall 2022, *Prof. Matteo Ca
 
 ECON410: Introductory Econometrics, Summer 2022, *Prof. Christopher McKelvey*
 
-### Mathematics, Statistics, Computational/Programming
+## Mathematics, Statistics, Computational/Programming
 
 COMP SCI 532: Matrix Methods in Machine Learning, Fall 2024
 
