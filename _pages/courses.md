@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-A list of the relevant courses that I have taken/audited $^a$ at UW–Madison (with selected type-ups):
+A list of the relevant courses that I have taken/"audited at UW–Madison (with selected type-ups):
 
 ## Economics
 
@@ -25,9 +25,9 @@ ECON871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín 
 
 FINANCE920: Theory of Finance (Asset Pricing), Fall 2024. *Prof. Hengjie Ai*
 
-$^a$ ECON872: Advanced International Economics II (Finance), Spring 2024, *Prof. Louphou Coulibaly & Prof. Charles Engel* 
+"ECON872: Advanced International Economics II (Finance), Spring 2024, *Prof. Louphou Coulibaly & Prof. Charles Engel* 
 
-$^a$ ECON871: Advanced International Economics I (Trade), Fall 2023, *second half by Prof. Lydia Cox*
+"ECON871: Advanced International Economics I (Trade), Fall 2023, *the second half by Prof. Lydia Cox*
 
 ### Undergraduate courses:
 
