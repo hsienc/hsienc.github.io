@@ -9,7 +9,7 @@ I am an avid cyclist and ride with Brazen Dropouts Cycling Team <a href="https:/
 
 I also follow pro cycling races closely, especially for UAE Team Emirates & Tudor Pro Cycling.
 
-* Pro Cycling Stats <a href="https://www.procyclingstats.com/index.php" target="_blank">[pcs]</a>
-* First Cycling <a href="https://firstcycling.com/" target="_blank">[fc]</a>
+* Pro Cycling Stats [<a href="https://www.procyclingstats.com/index.php" target="_blank">pcs</a>]
+* First Cycling [<a href="https://firstcycling.com/" target="_blank">fc</a>]
 
 
