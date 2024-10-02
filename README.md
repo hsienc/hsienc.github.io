@@ -1,6 +1,10 @@
 # Eric Hsienchen Chu
 **Eric Hsienchen Chu**
 
+[https://hsienc.github.io/](https://hsienc.github.io/)
+
+- - - 
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
