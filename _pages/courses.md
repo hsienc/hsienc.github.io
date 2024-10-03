@@ -69,6 +69,6 @@ The Calcuclus I-II-III sequence, Fall 2021 - Fall 2022
 
 ### Others
 
-2023 [LINKS Workshop on Social Network Analysis](https://www.linksworkshop.org/), Intermediate SNA (R) ([unfinished notes](https://github.com/hsienc/LINKS-Workshop-2023-Intrermediate-SNA/blob/991a219f5bb9a23e989bc09c902e89d1a4b88a42/Eric_LINKS_Workshop_2023_Intermediate_SNA.pdf))
+2023 <a href="https://www.linksworkshop.org/" target="_blank">LINKS Workshop on Social Network Analysis</a>, Intermediate SNA (R) (<a href="/files/Eric_LINKS_Workshop_2023_Intermediate_SNA.pdf" target="_blank">unfinished notes</a>)
 
-2023 [FODSI Summer School on Foundation of Data Science](https://fodsi.us/index.html), Bryn Mawr College, PA
+2023 <a href="https://fodsi.us/index.html" target="_blank">FODSI Summer School on Foundation of Data Science</a>, Bryn Mawr College, PA
