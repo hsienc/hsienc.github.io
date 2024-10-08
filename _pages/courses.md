@@ -31,6 +31,8 @@ FINANCE920: Theory of Finance (Asset Pricing), Fall 2024. *Prof. Hengjie Ai* (Wi
 
 ### Undergraduate courses:
 
+ECON681: Senior Honors Thesis I, Fall 2024, *advised by Prof. Lydia Cox & Prof. Jesse Gregory*
+
 ECON699: Directed Study, Fall 2024, *with Prof. Jesse Gregory & Sarah Bass* 
 
 ECON580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon Alder & Prof. Corina Mommaerts*
