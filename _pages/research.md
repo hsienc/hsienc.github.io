@@ -26,7 +26,7 @@ Junior Honors Proposal. [<a href="/files/RpElasticity_draft.pdf" target="_blank"
 
 University of Wisconsin–Madison:
 
-- Research assistant to Prof. Lydia Cox, Department of Economics (February 2024–*present**)
+- Research assistant to Prof. Lydia Cox, Department of Economics (February 2024–*present*)
 - Directed Study with Prof. Jesse Gregory & Sarah Bass, Department of Economics  (Fall 2024)
 - Research assistant to Dr. Reka Sundaram-Stukel, Department of Economics (August 2023–December 2023)
 - Directed Study with Prof. Matteo Camboni, Department of Economics  (Spring 2023)
