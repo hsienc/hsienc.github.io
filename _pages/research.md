@@ -9,7 +9,7 @@ author_profile: true
 
 ### "Trade Exposures in Local Pricing"
 
-Senior Honors Thesis. Advisor: Prof. <a href="https://coxlydia.com/" target="_blank">Lydia Cox</a> & Prof. <a href="https://users.ssc.wisc.edu/~jmgregory/" target="_blank">Jesse Gregory</a> 
+Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_blank">Lydia Cox</a> & Prof. <a href="https://users.ssc.wisc.edu/~jmgregory/" target="_blank">Jesse Gregory</a> 
 
 **Abstract.** (available soon)
 
