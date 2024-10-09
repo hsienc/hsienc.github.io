@@ -15,8 +15,8 @@ Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_b
 
 **Preliminary Figure.**
 
-<div id='prelimfig' style="display: none; text-align: justify; line-height: 1.2;">
-    <img src="/images/LBS_listingexposure_road.png" alt="alt text" title="Trade Exposures in Local Pricing" style="width: 500px;" />
+<div id='prelimfig' style="text-align: justify; line-height: 1.2;">
+    <img src="/images/LBS_listingexposure_road.png" alt="Listing Exposure" title="Trade Exposures in Local Pricing" style="width: 500px;" />
 </div>
 
 
