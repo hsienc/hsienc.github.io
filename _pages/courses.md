@@ -67,7 +67,7 @@ COMP SCI 220: Data Science Programming I (Python), Spring 2022
 
 STAT240: Data Science Modeling I (R), Fall 2022
 
-The Calcuclus I-II-III sequence, Fall 2021 - Fall 2022
+The Calculus I-II-III sequence, Fall 2021 - Fall 2022
 
 ### Others
 
