@@ -21,7 +21,7 @@ ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hans
 
 ### 2nd-year PhD field courses: 
 
-ECON871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta* 
+ECON871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta* (<a href="/files/Eric_Econ871_PaperDiscussion_Pre.pdf" target="_blank">My short discussion of Amiti & Heise (2024)</a>)
 
 FINANCE920: Theory of Finance (Asset Pricing), Fall 2024. *Prof. Hengjie Ai* (Wisconsin School of Business)
 
