@@ -35,7 +35,7 @@ ECON 681–682: Senior Honors Thesis, Fall 2024–Spring 2025, *advised by Prof.
 
 ECON 661: Issues in International Macroeconomics, Spring 2025, *Prof. Louphou Coulibaly* 
 
-ECON 699: Directed Study, Fall 2024, *with Prof. Jesse Gregory & Sarah Bass* 
+ECON 699: Directed Study, Fall 2024–Spring 2025, *with Prof. Jesse Gregory & Sarah Bass* 
 
 ECON 580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon Alder & Prof. Corina Mommaerts*
 
