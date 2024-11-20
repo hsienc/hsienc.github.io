@@ -11,63 +11,65 @@ A list of the relevant courses that I have taken/"audited at UW–Madison (with 
 
 ### 1st-year PhD core sequences:
 
-ECON711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benjamin Bernard*
+ECON 711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benjamin Bernard*
 
-ECON713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>) (<a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">AS</a>) 
+ECON 713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>) (<a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">AS</a>) 
 
-ECON709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
+ECON 709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
 
-ECON710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (<a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>) (<a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>)
+ECON 710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (<a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>) (<a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>)
 
 ### 2nd-year PhD field courses: 
 
-ECON871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta* (<a href="/files/Eric_Econ871_PaperDiscussion_Pre.pdf" target="_blank">My short discussion of Amiti & Heise (2024)</a>)
+ECON 871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta* (<a href="/files/Eric_Econ871_PaperDiscussion_Pre.pdf" target="_blank">My short discussion of Amiti & Heise (2024)</a>)
 
-FINANCE920: Theory of Finance (Asset Pricing), Fall 2024. *Prof. Hengjie Ai* (Wisconsin School of Business)
+FINANCE 920: Theory of Finance (Asset Pricing), Fall 2024. *Prof. Hengjie Ai* (Wisconsin School of Business)
 
-"ECON872: Advanced International Economics II (Finance), Spring 2024, *Prof. Louphou Coulibaly & Prof. Charles Engel* 
+"ECON 872: Advanced International Economics II (Finance), Spring 2024, *Prof. Louphou Coulibaly & Prof. Charles Engel* 
 
-"ECON871: Advanced International Economics I (Trade), Fall 2023, *the second half by Prof. Lydia Cox*
+"ECON 871: Advanced International Economics I (Trade), Fall 2023, *the second half by Prof. Lydia Cox*
 
 ### Undergraduate courses:
 
-ECON681: Senior Honors Thesis I, Fall 2024, *advised by Prof. Lydia Cox & Prof. Jesse Gregory*
+ECON 681–682: Senior Honors Thesis, Fall 2024–Spring 2025, *advised by Prof. Lydia Cox & Prof. Jesse Gregory*
 
-ECON699: Directed Study, Fall 2024, *with Prof. Jesse Gregory & Sarah Bass* 
+ECON 661: Issues in International Macroeconomics, Spring 2025, *Prof. Louphou Coulibaly* 
 
-ECON580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon Alder & Prof. Corina Mommaerts*
+ECON 699: Directed Study, Fall 2024, *with Prof. Jesse Gregory & Sarah Bass* 
 
-ECON664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
+ECON 580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon Alder & Prof. Corina Mommaerts*
 
-ECON699: Directed Study, Spring 2023, *with Prof. Matteo Camboni* (<a href="/files/3_Eric_ECON699_Game_Theory_Notes.pdf" target="_blank">game theory reading notes</a>)
+ECON 664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
 
-ECON312: Intermediate Macroeconomic Theory (Honors), Spring 2023, *Prof. Simeon Alder*
+ECON 699: Directed Study, Spring 2023, *with Prof. Matteo Camboni* (<a href="/files/3_Eric_ECON699_Game_Theory_Notes.pdf" target="_blank">game theory reading notes</a>)
 
-ECON311: Intermediate Microeconomic Theory (Honors), Fall 2022, *Prof. Matteo Camboni*
+ECON 312: Intermediate Macroeconomic Theory (Honors), Spring 2023, *Prof. Simeon Alder*
 
-ECON410: Introductory Econometrics, Summer 2022, *Prof. Christopher McKelvey*
+ECON 311: Intermediate Microeconomic Theory (Honors), Fall 2022, *Prof. Matteo Camboni*
+
+ECON 410: Introductory Econometrics, Summer 2022, *Prof. Christopher McKelvey*
 
 ## Mathematics, Statistics, Computational/Programming
 
 COMP SCI 532: Matrix Methods in Machine Learning, Fall 2024
 
-MATH/STAT632: Introduction to Stochastic Processes, Spring 2024 
+MATH 632: Introduction to Stochastic Processes, Spring 2024 
 
-MATH521: Analysis I, Summer 2023
+MATH 521: Analysis I, Summer 2023
 
-MATH/STAT431: Introduction to the Theory of Probability, Spring 2023
+MATH 431: Introduction to the Theory of Probability, Spring 2023
 
-MATH421: The Theory of Single Variable Calculus, Spring 2023
+MATH 421: The Theory of Single Variable Calculus, Spring 2023
 
-STAT303: R for Statistics I, Spring 2023
+STAT 303: R for Statistics I, Spring 2023
 
-MATH340: Elementary Matrix and Linear Algebra, Summer 2022
+MATH 340: Elementary Matrix and Linear Algebra, Summer 2022
 
 COMP SCI 220: Data Science Programming I (Python), Spring 2022
 
-STAT240: Data Science Modeling I (R), Fall 2022
+STAT 240: Data Science Modeling I (R), Fall 2022
 
-The Calculus I-II-III sequence, Fall 2021 - Fall 2022
+MATH 221–222–234: The Calculus I-II-III sequence, Fall 2021 - Fall 2022
 
 ### Others
 
