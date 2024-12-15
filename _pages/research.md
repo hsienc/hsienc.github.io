@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Projects 
 
-### "Trade Exposures in Local Pricing"
+### "Trade Exposures in Local Retail Pricing"
 
 Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_blank">Lydia Cox</a> & Prof. <a href="https://users.ssc.wisc.edu/~jmgregory/" target="_blank">Jesse Gregory</a> 
 
