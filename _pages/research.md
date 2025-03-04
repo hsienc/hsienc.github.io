@@ -16,7 +16,7 @@ Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_b
 </summary>
   
 <br>
-<small> (available soon). <br> </small>
+(available soon). <br>
 
 </details>
 
