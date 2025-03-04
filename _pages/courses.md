@@ -46,7 +46,19 @@ FINANCE 920: Theory of Finance (Asset Pricing), Fall 2024. Prof. Hengjie Ai (Wis
 
 "ECON 871: Advanced International Economics I (Trade), Fall 2023, *the second half* by Prof. Lydia Cox
 
-## Undergraduate courses
+
+
+
+<!---
+(ECON 871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta* (<a href="/files/Eric_Econ871_PaperDiscussion_Pre.pdf" target="_blank">My short discussion of Amiti & Heise (2024)</a>)) 
+
+ECON 713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>) (<a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">AS</a>) 
+
+ECON 710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (<a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>) (<a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>)
+-->
+
+<!---
+### Undergraduate courses
 
 <details><summary>Economics</summary>
 
@@ -56,16 +68,13 @@ ECON 661: Issues in International Macroeconomics, Spring 2025, Prof. Louphou Cou
 
 ECON 699: Directed Study, Fall 2024–Spring 2025, with Prof. Jesse Gregory & Sarah Bass 
 
-
 ECON 580: Honors Tutorial in Research Project Design, Spring 2024, Prof. Simeon Alder & Prof. Corina Mommaerts
-
 
 ECON 664: Issues in International Trade, Fall 2023, Prof. Lydia Cox
 
-
 <details><summary>ECON 699: Directed Study, Spring 2023, with Prof. Matteo Camboni</summary>
   
- > <a href="/files/3_Eric_ECON699_Game_Theory_Notes.pdf" target="_blank">game theory reading notes</a>
+<a href="/files/3_Eric_ECON699_Game_Theory_Notes.pdf" target="_blank">game theory reading notes</a>
 
 </details>
 
@@ -74,7 +83,6 @@ ECON 312: Intermediate Macroeconomic Theory (Honors), Spring 2023, Prof. Simeon 
 ECON 311: Intermediate Microeconomic Theory (Honors), Fall 2022, Prof. Matteo Camboni
 
 ECON 410: Introductory Econometrics, Summer 2022, Prof. Christopher McKelvey
-
 </details>
 
 
@@ -99,7 +107,6 @@ COMP SCI 220: Data Science Programming I (Python), Spring 2022
 STAT 240: Data Science Modeling I (R), Fall 2022
 
 MATH 221–222–234: The Calculus I-II-III sequence, Fall 2021 - Fall 2022
-
 </details>
 
 <details><summary>Others</summary>
@@ -107,16 +114,7 @@ MATH 221–222–234: The Calculus I-II-III sequence, Fall 2021 - Fall 2022
 2023 <a href="https://www.linksworkshop.org/" target="_blank">LINKS Workshop on Social Network Analysis</a>, Intermediate SNA (R) (<a href="/files/Eric_LINKS_Workshop_2023_Intermediate_SNA.pdf" target="_blank">unfinished notes</a>)
 
 2023 <a href="https://fodsi.us/index.html" target="_blank">FODSI Summer School on Foundation of Data Science</a>, Bryn Mawr College, PA
-
 </details>
-
-
-<!---
-(ECON 871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta* (<a href="/files/Eric_Econ871_PaperDiscussion_Pre.pdf" target="_blank">My short discussion of Amiti & Heise (2024)</a>)) 
-
-ECON 713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*  (<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>) (<a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">AS</a>) 
-
-ECON 710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang* (<a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>) (<a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>)
 -->
 
 
