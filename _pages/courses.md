@@ -10,7 +10,7 @@ A list of the relevant courses that I have taken/audited(") at UW–Madison (wit
 
 ## PhD-level courses
 
-<b>1st-year PhD core sequences</b>
+### 1st-year PhD core sequences 
 
 ECON 711: Microeconomic Theory I, Fall 2023, Prof. Matteo Camboni & Prof. Benjamin Bernard
 
@@ -32,7 +32,7 @@ ECON 709: Economic Statistics and Econometrics I, Fall 2023, Prof. Xiaoxia Shi &
 
 </details>
 
-<b>2nd-year PhD field courses</b>
+### 2nd-year PhD field courses
 
 <details><summary>ECON 871: Advanced International Economics I (Trade), Fall 2024, Prof. Agustín Gutiérrez & Prof. Miguel Acosta</summary>
   
