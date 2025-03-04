@@ -50,17 +50,17 @@ FINANCE 920: Theory of Finance (Asset Pricing), Fall 2024. Prof. Hengjie Ai (Wis
 
 <details><summary>Economics</summary>
 
-ECON 681–682: Senior Honors Thesis, Fall 2024–Spring 2025, *advised by Prof. Lydia Cox & Prof. Jesse Gregory*
+ECON 681–682: Senior Honors Thesis, Fall 2024–Spring 2025, advised by Prof. Lydia Cox & Prof. Jesse Gregory
 
-ECON 661: Issues in International Macroeconomics, Spring 2025, *Prof. Louphou Coulibaly* 
+ECON 661: Issues in International Macroeconomics, Spring 2025, Prof. Louphou Coulibaly 
 
-ECON 699: Directed Study, Fall 2024–Spring 2025, *with Prof. Jesse Gregory & Sarah Bass* 
-
-
-ECON 580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon Alder & Prof. Corina Mommaerts*
+ECON 699: Directed Study, Fall 2024–Spring 2025, with Prof. Jesse Gregory & Sarah Bass 
 
 
-ECON 664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
+ECON 580: Honors Tutorial in Research Project Design, Spring 2024, Prof. Simeon Alder & Prof. Corina Mommaerts
+
+
+ECON 664: Issues in International Trade, Fall 2023, Prof. Lydia Cox
 
 
 <details><summary>ECON 699: Directed Study, Spring 2023, with Prof. Matteo Camboni</summary>
@@ -69,11 +69,11 @@ ECON 664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox*
 
 </details>
 
-ECON 312: Intermediate Macroeconomic Theory (Honors), Spring 2023, *Prof. Simeon Alder*
+ECON 312: Intermediate Macroeconomic Theory (Honors), Spring 2023, Prof. Simeon Alder
 
-ECON 311: Intermediate Microeconomic Theory (Honors), Fall 2022, *Prof. Matteo Camboni*
+ECON 311: Intermediate Microeconomic Theory (Honors), Fall 2022, Prof. Matteo Camboni
 
-ECON 410: Introductory Econometrics, Summer 2022, *Prof. Christopher McKelvey*
+ECON 410: Introductory Econometrics, Summer 2022, Prof. Christopher McKelvey
 
 </details>
 
