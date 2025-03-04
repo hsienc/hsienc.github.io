@@ -11,11 +11,20 @@ author_profile: true
 
 Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_blank">Lydia Cox</a> & Prof. <a href="https://users.ssc.wisc.edu/~jmgregory/" target="_blank">Jesse Gregory</a> 
 
-<details><summary>Abstract</summary>
+<details><summary markdown='span'>
+<span style="cursor:pointer"> <i> Abstract </i></span>
+</summary>
   
-(available soon)
+<br>
+<small> (available soon).</small>
 
-**Preliminary Figure.**
+</details>
+
+<details><summary markdown='span'>
+<span style="cursor:pointer"> <i> Preliminary Figure </i></span>
+</summary>
+  
+<br>
 
 <div id='prelimfig' style="text-align: justify; line-height: 1.2;">
     <img src="/images/LBS_listingexposure_road.png" alt="Listing Exposure" title="Trade Exposures in Local Pricing" style="width: 500px;" />
