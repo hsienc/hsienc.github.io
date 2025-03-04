@@ -37,7 +37,12 @@ University of Wisconsin–Madison:
 - Research assistant to Dr. Reka Sundaram-Stukel, Department of Economics (Summer 2023 – Fall 2023)
 - Directed Study with Prof. Matteo Camboni, Department of Economics  (Spring 2023)
 - Research assistant to CALL-ECL Project, Wisconsin Center for Education Research (Spring 2023 – Spring 2024)
+
+  
+<!---
 - Research assistant to Dr. Ruo-Fan Liu, Department of Sociology  (Summer 2022 – Summer 2023)
+-->
+
 
 
 
