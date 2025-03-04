@@ -13,3 +13,5 @@ I am a senior majoring in Economics and Mathematics at the University of Wiscons
 I will begin my doctoral studies in Fall 2025. Here is my current <a href="/files/EricHsienchenChu_CV.pdf" target="_blank">CV</a> (Dec 2024).
 
 Email: <a href="mailto:hchu38@wisc.edu">hchu38@wisc.edu</a>
+
+<meta name="google-site-verification" content="JZJipXOKsAkyeXkI7YadTZj2YEOMBdSFy5SWF1x0418" />
