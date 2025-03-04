@@ -11,9 +11,9 @@ A list of the relevant courses that I have taken/"audited at UW–Madison (with 
 
 ### 1st-year PhD core sequences:
 
-ECON 711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benjamin Bernard*
+ECON 711: Microeconomic Theory I, Fall 2023, Prof. Matteo Camboni & Prof. Benjamin Bernard
 
-<details><summary>ECON 713: Microeconomic Theory II, Spring 2024, *Prof. Lones Smith & Prof. Marzena Rostek*</summary>
+<details><summary>ECON 713: Microeconomic Theory II, Spring 2024, Prof. Lones Smith & Prof. Marzena Rostek</summary>
   
  > <a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>
 
@@ -21,9 +21,9 @@ ECON 711: Microeconomic Theory I, Fall 2023, *Prof. Matteo Camboni & Prof. Benja
 
 </details>
 
-ECON 709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi & Prof. Jack Porter* 
+ECON 709: Economic Statistics and Econometrics I, Fall 2023, Prof. Xiaoxia Shi & Prof. Jack Porter 
 
-<details><summary>ECON 710: Economic Statistics and Econometrics II, Spring 2024, *Prof. Bruce Hansen & Prof. Harold Chiang*</summary>
+<details><summary>ECON 710: Economic Statistics and Econometrics II, Spring 2024, Prof. Bruce Hansen & Prof. Harold Chiang</summary>
   
  > <a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>
 
@@ -34,17 +34,17 @@ ECON 709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi 
 
 ### 2nd-year PhD field courses: 
 
-<details><summary>ECON 871: Advanced International Economics I (Trade), Fall 2024, *Prof. Agustín Gutiérrez & Prof. Miguel Acosta*</summary>
+<details><summary>ECON 871: Advanced International Economics I (Trade), Fall 2024, Prof. Agustín Gutiérrez & Prof. Miguel Acosta</summary>
   
  > <a href="/files/Eric_Econ871_PaperDiscussion_Pre.pdf" target="_blank">My short discussion of Amiti & Heise (2024)</a>
 
 </details>
 
-FINANCE 920: Theory of Finance (Asset Pricing), Fall 2024. *Prof. Hengjie Ai* (Wisconsin School of Business)
+FINANCE 920: Theory of Finance (Asset Pricing), Fall 2024. Prof. Hengjie Ai (Wisconsin School of Business)
 
-"ECON 872: Advanced International Economics II (Finance), Spring 2024 & Spring 2025, *Prof. Louphou Coulibaly & Prof. Charles Engel* 
+"ECON 872: Advanced International Economics II (Finance), Spring 2024 & Spring 2025, Prof. Louphou Coulibaly & Prof. Charles Engel 
 
-"ECON 871: Advanced International Economics I (Trade), Fall 2023, *the second half by Prof. Lydia Cox*
+"ECON 871: Advanced International Economics I (Trade), Fall 2023, *the second half* by Prof. Lydia Cox
 
 ## Undergraduate course:
 
