@@ -51,11 +51,12 @@ I explore how the import demand of multinationals (MNEs) responds to a short-ter
 
 <b>University of Wisconsin–Madison</b>, Department of Economics
 
-- Research assistant to Prof. Lydia Cox, Spring 2024 – *present*
-- Directed Study with Prof. Jesse Gregory & Sarah Bass, Fall 2024 – *present*
-- Research assistant to Dr. Reka Sundaram-Stukel, Summer 2023 – Fall 2023
-- Directed Study with Prof. Matteo Camboni, Department of Economics, Spring 2023
-- Research assistant to CALL-ECL Project (Wisconsin Center for Education Research), Spring 2023 – Spring 2024
+- `2024 – `               Research assistant to Prof. Lydia Cox 
+- `2024 – `               Directed Study with Prof. Jesse Gregory & Sarah Bass
+- `2023`                     Research assistant to Dr. Reka Sundaram-Stukel
+- `2023`                     Directed Study with Prof. Matteo Camboni, Department of Economics
+- `2023 – 2024`       Research assistant to CALL-ECL Project (Wisconsin Center for Education Research)
+
   
 <!---
 
