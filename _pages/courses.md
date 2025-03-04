@@ -16,8 +16,6 @@ ECON 711: Microeconomic Theory I, Fall 2023, Prof. Matteo Camboni & Prof. Benjam
 
 <details><summary>ECON 713: Microeconomic Theory II, Spring 2024, Prof. Lones Smith & Prof. Marzena Rostek</summary>
   
- > <a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>
-
  > <a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">adverse selection</a>
 
 </details>
@@ -115,6 +113,9 @@ MATH 221–222–234: The Calculus I-II-III sequence, Fall 2021 - Fall 2022
 
 2023 <a href="https://fodsi.us/index.html" target="_blank">FODSI Summer School on Foundation of Data Science</a>, Bryn Mawr College, PA
 </details>
+
+
+<a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>
 -->
 
 
