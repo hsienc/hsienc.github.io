@@ -61,7 +61,7 @@ ECON 580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon
 
 ECON 664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
 
-<details><summary>ECON 699: Directed Study, Spring 2023, *with Prof. Matteo Camboni*</summary>
+<details><summary>ECON 699: Directed Study, Spring 2023, with Prof. Matteo Camboni</summary>
   
  > <a href="/files/3_Eric_ECON699_Game_Theory_Notes.pdf" target="_blank">game theory reading notes</a>
 
