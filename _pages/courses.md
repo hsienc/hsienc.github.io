@@ -8,9 +8,9 @@ author_profile: true
 A list of the relevant courses that I have taken/audited(") at UW–Madison (with selected type-ups):
 
 
-## PhD-level Courses
+## PhD-level courses
 
-### 1st-year PhD core sequences:
+<b>1st-year PhD core sequences</b>
 
 ECON 711: Microeconomic Theory I, Fall 2023, Prof. Matteo Camboni & Prof. Benjamin Bernard
 
@@ -33,7 +33,7 @@ ECON 709: Economic Statistics and Econometrics I, Fall 2023, Prof. Xiaoxia Shi &
 
 </details>
 
-### 2nd-year PhD field courses: 
+<b>2nd-year PhD field courses</b>
 
 <details><summary>ECON 871: Advanced International Economics I (Trade), Fall 2024, Prof. Agustín Gutiérrez & Prof. Miguel Acosta</summary>
   
@@ -47,7 +47,7 @@ FINANCE 920: Theory of Finance (Asset Pricing), Fall 2024. Prof. Hengjie Ai (Wis
 
 "ECON 871: Advanced International Economics I (Trade), Fall 2023, *the second half* by Prof. Lydia Cox
 
-## Undergraduate course:
+## Undergraduate courses
 
 <details><summary>Economics</summary>
 
