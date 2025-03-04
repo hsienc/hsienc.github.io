@@ -27,6 +27,7 @@ ECON 709: Economic Statistics and Econometrics I, Fall 2023, *Prof. Xiaoxia Shi 
   
  > <a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>
 
+
  > <a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>
 
 </details>
