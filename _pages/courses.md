@@ -27,8 +27,7 @@ ECON 709: Economic Statistics and Econometrics I, Fall 2023, Prof. Xiaoxia Shi &
 <details><summary>ECON 710: Economic Statistics and Econometrics II, Spring 2024, Prof. Bruce Hansen & Prof. Harold Chiang</summary>
   
  > <a href="/files/ECON710_2_Lec5.pdf" target="_blank">AN–GMM</a>
-
-
+ 
  > <a href="/files/ECON710_2_Lec10.pdf" target="_blank">nonparametrics</a>
 
 </details>
@@ -57,9 +56,12 @@ ECON 661: Issues in International Macroeconomics, Spring 2025, *Prof. Louphou Co
 
 ECON 699: Directed Study, Fall 2024–Spring 2025, *with Prof. Jesse Gregory & Sarah Bass* 
 
+
 ECON 580: Honors Tutorial in Research Project Design, Spring 2024, *Prof. Simeon Alder & Prof. Corina Mommaerts*
 
+
 ECON 664: Issues in International Trade, Fall 2023, *Prof. Lydia Cox* 
+
 
 <details><summary>ECON 699: Directed Study, Spring 2023, with Prof. Matteo Camboni</summary>
   
