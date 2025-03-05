@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior majoring in Economics and Mathematics at the University of Wisconsin–Madison. While I am still exploring different possibilities, my current research interests focus on international trade, macroeconomics, and financial economics. 
 
-I will begin my doctoral studies in Fall 2025. Current <a href="/files/EricHsienchenChu_CV.pdf" target="_blank">CV</a> (Mar 2025).
+I will begin my doctoral studies in Fall 2025! Current <a href="/files/EricHsienchenChu_CV.pdf" target="_blank">CV</a> (Mar 2025).
 
 Email: <a href="mailto:hchu38@wisc.edu">hchu38@wisc.edu</a>
 
