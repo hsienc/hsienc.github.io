@@ -27,8 +27,15 @@ Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_b
 <br>
 
 <div id='prelimfig' style="text-align: justify; line-height: 1.2;">
-    <img src="/images/LBS_listingexposure_road.png" alt="Listing Exposure" title="Trade Exposures in Local Pricing" style="width: 500px;" />
+    <img src="/images/LBS_listingexposure_road.png" alt="Listing Exposure" title="Trade Exposures in Local Retail Pricing" style="width: 500px;" />
 </div>
+
+<br>
+
+<div id='prelimfig' style="text-align: justify; line-height: 1.2;">
+    <img src="/images/KDE_RegularPrice_Road.png" alt="Price Distribution" title="Trade Exposures in Local Retail Pricing" style="width: 500px;" />
+</div>
+
 
 </details>
 
