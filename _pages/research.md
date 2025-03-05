@@ -42,7 +42,7 @@ Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_b
 
 ### "Elasticity of Related-party Trade" 
 
-Junior Honors Proposal. [<a href="/files/Eric_WritingSample1_RpElasticity_20pages.pdf" target="_blank">Draft</a>] [<a href="/files/RpElasticity_slide.pdf" target="_blank">Slide</a>] [<a href="/files/RpElasticity_slide_short.pdf" target="_blank">Slide-short</a>]
+Junior Honors Thesis. [<a href="/files/Eric_WritingSample1_RpElasticity_20pages.pdf" target="_blank">Draft</a>] [<a href="/files/RpElasticity_slide.pdf" target="_blank">Slide</a>] [<a href="/files/RpElasticity_slide_short.pdf" target="_blank">Slide-short</a>]
 
 <details><summary markdown='span'>
 <span style="cursor:pointer"> <i> Abstract </i></span>
