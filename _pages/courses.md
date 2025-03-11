@@ -16,7 +16,9 @@ ECON 711: Microeconomic Theory I, Fall 2023, Prof. Matteo Camboni & Prof. Benjam
 
 <details><summary>ECON 713: Microeconomic Theory II, Spring 2024, Prof. Lones Smith & Prof. Marzena Rostek</summary>
   
- > <a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">adverse selection</a>
+  > <a href="/files/Eric_Auction_Theory_Reading_Notes.pdf" target="_blank">auction reading notes</a>
+  
+  > <a href="/files/ECON713_2_Lec5_Adverse_Selection.pdf" target="_blank">adverse selection</a>
 
 </details>
 
