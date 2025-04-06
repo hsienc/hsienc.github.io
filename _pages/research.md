@@ -41,8 +41,7 @@ Senior Honors Thesis. Advisors: Prof. <a href="https://coxlydia.com/" target="_b
 
 
 ### "Elasticity of Related-party Trade" 
-
-Junior Honors Thesis. [<a href="/files/RpElasticity_draft.pdf" target="_blank">Draft</a>] [<a href="/files/RpElasticity_slide.pdf" target="_blank">Slide</a>] [<a href="/files/RpElasticity_slide_short.pdf" target="_blank">Slide-short</a>]
+[<a href="/files/RpElasticity_slide_short.pdf" target="_blank">Slide</a>]
 
 <details><summary markdown='span'>
 <span style="cursor:pointer"> <i> Abstract </i></span>
@@ -66,7 +65,7 @@ I explore how the import demand of multinationals (MNEs) responds to a short-ter
 
   
 <!---
-
+[<a href="/files/RpElasticity_draft.pdf" target="_blank">Draft</a>] [<a href="/files/RpElasticity_slide.pdf" target="_blank">Slide</a>]
 **Abstract.** (available soon)
 
 
