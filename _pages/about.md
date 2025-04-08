@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior at the University of Wisconsin–Madison, majoring in Economics and Mathematics. While I am still exploring different possibilities, my current research interests center on international trade, macroeconomics, and financial economics. 
 
-I will be starting my PhD in Finance at the Wisconsin School of Business (WSB) in Fall 2025. Current <a href="/files/EricHsienchenChu_CV_PhD.pdf" target="_blank">CV</a> (Apr 2025).
+I will begin my PhD in Finance at the Wisconsin School of Business (WSB) in Fall 2025. Current <a href="/files/EricHsienchenChu_CV_PhD.pdf" target="_blank">CV</a> (Apr 2025).
 
 Email: <a href="mailto:hchu38@wisc.edu">hchu38@wisc.edu</a>
 
