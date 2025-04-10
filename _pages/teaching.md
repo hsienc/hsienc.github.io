@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Will be added soon!
+Will be updated soon!
 
 
 
