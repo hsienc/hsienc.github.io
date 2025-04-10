@@ -17,8 +17,8 @@ main:
   - title: "Cycling"
     url: /cycling/
         
-#  - title: "Teaching"
-#    url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/
     
 #  - title: "CV"
 #    url: /cv/
