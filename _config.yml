@@ -21,7 +21,7 @@ repository               : "hsienc/hsienc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Eric Grad.JPG" #"profile.png"
   name             : "Eric Hsienchen Chu"
   pronouns         : "he/him"  
   bio              : "Senior student at UW–Madison"
