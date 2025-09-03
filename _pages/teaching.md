@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Will be updated soon!
-
+Not teaching this academic year (2025-26)!
 
 
 
