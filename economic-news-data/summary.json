@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-10T12:17:01.687332",
+  "last_updated": "2025-09-10T12:36:53.782242",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 430,
+    "total_headlines": 431,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -45,7 +45,39 @@
       "Yahoo News (Finance, Latest)",
       "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)"
     ],
-    "relevance_score": 0.326
+    "relevance_score": 0.329,
+    "sample_headlines": [
+      {
+        "title": "Online Travel Agent Loveholidays Eyes IPO in Boost to London",
+        "source": "Bloomberg (Market News)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-10/online-travel-agent-loveholidays-eyes-ipo-in-boost-to-uk-market",
+        "published_at": "2025-09-10T10:56:02Z"
+      },
+      {
+        "title": "Delta Says Consumer Confidence Rebounded Following Tariff Hit",
+        "source": "Bloomberg (Economics)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-10/delta-says-consumer-confidence-rebounded-following-tariff-hit",
+        "published_at": "2025-09-10T17:18:52Z"
+      },
+      {
+        "title": "Amazon's Zoox Launches Robotaxi Rides to Public in Las Vegas",
+        "source": "Bloomberg (Technology)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-10/amazon-s-zoox-to-launch-robotaxi-rides-to-public-in-las-vegas",
+        "published_at": "2025-09-10T13:00:00Z"
+      },
+      {
+        "title": "Everyone Wants a Wounded Lion",
+        "source": "Bloomberg (Business)",
+        "link": "https://www.bloomberg.com/opinion/newsletters/2025-09-10/everyone-wants-a-wounded-lion",
+        "published_at": "2025-09-10T17:33:26Z"
+      },
+      {
+        "title": "ICE Can Now Racially Profile Almost Half of LA",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/articles/2025-09-10/ice-in-la-agents-can-now-racially-profile-nearly-half-the-county",
+        "published_at": "2025-09-10T12:00:18Z"
+      }
+    ]
   },
   "total_days": 1,
   "date_range": {
@@ -54,24 +86,24 @@
   },
   "categories": {
     "macroeconomics": {
-      "latest": 49,
-      "average": 49.0,
-      "total": 49
+      "latest": 50,
+      "average": 50.0,
+      "total": 50
     },
     "household": {
-      "latest": 9,
-      "average": 9.0,
-      "total": 9
+      "latest": 11,
+      "average": 11.0,
+      "total": 11
     },
     "trade": {
-      "latest": 25,
-      "average": 25.0,
-      "total": 25
+      "latest": 27,
+      "average": 27.0,
+      "total": 27
     },
     "corporate_earnings": {
-      "latest": 21,
-      "average": 21.0,
-      "total": 21
+      "latest": 24,
+      "average": 24.0,
+      "total": 24
     },
     "fiscal_policy": {
       "latest": 11,
@@ -79,24 +111,24 @@
       "total": 11
     },
     "monetary_policy": {
-      "latest": 10,
-      "average": 10.0,
-      "total": 10
+      "latest": 11,
+      "average": 11.0,
+      "total": 11
     },
     "health_care": {
-      "latest": 4,
-      "average": 4.0,
-      "total": 4
+      "latest": 3,
+      "average": 3.0,
+      "total": 3
     },
     "national_security": {
-      "latest": 3,
-      "average": 3.0,
-      "total": 3
+      "latest": 1,
+      "average": 1.0,
+      "total": 1
     },
     "regulation": {
-      "latest": 3,
-      "average": 3.0,
-      "total": 3
+      "latest": 2,
+      "average": 2.0,
+      "total": 2
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
@@ -104,14 +136,14 @@
       "total": 0
     },
     "entitlement_programs": {
-      "latest": 1,
-      "average": 1.0,
-      "total": 1
+      "latest": 0,
+      "average": 0.0,
+      "total": 0
     },
     "policy": {
-      "latest": 4,
-      "average": 4.0,
-      "total": 4
+      "latest": 2,
+      "average": 2.0,
+      "total": 2
     }
   }
 }

@@ -29,6 +29,39 @@
         .last-updated { color: #666; font-size: 14px; }
         .sources-organized { margin-top: 10px; }
         .sources-organized strong { color: #333; }
+        
+        /* Sample headlines styling */
+        .sample-headlines { 
+            background: white; 
+            padding: 20px; 
+            border-radius: 8px; 
+            margin-top: 20px; 
+            border: 1px solid #ddd; 
+        }
+        .headline-item { 
+            padding: 10px 0; 
+            border-bottom: 1px solid #eee; 
+        }
+        .headline-item:last-child { 
+            border-bottom: none; 
+        }
+        .headline-title { 
+            font-weight: bold; 
+            color: #333; 
+            margin-bottom: 5px; 
+        }
+        .headline-title a { 
+            color: #2563eb; 
+            text-decoration: none; 
+        }
+        .headline-title a:hover { 
+            text-decoration: underline; 
+        }
+        .headline-meta { 
+            font-size: 12px; 
+            color: #666; 
+        }
+        
         table { width: 100%; border-collapse: collapse; margin-top: 20px; }
         th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
         th { background-color: #f8f9fa; }
@@ -50,10 +83,10 @@
         <div class="categories" id="categories"></div>
     </div>
 
-<!--     <div>
-        <h2>Raw Data</h2>
-        <p>Download: <a href="headlines.csv">Daily Aggregates (CSV)</a> | <a href="headlines_text.csv">All Headlines (CSV)</a></p>
-    </div> -->
+    <div class="sample-headlines" id="sample-headlines-container" style="display: none;">
+        <h2>Sample Headlines from Latest Scrape</h2>
+        <div id="sample-headlines"></div>
+    </div>
 
     <script>
         async function loadData() {
@@ -87,13 +120,41 @@
                     const categoryDiv = document.createElement('div');
                     categoryDiv.className = 'category';
                     categoryDiv.innerHTML = `
-                        <h3>${name.replace(/_/g, ' ').replace(/\w/g, l => l.toUpperCase())}</h3>
+                        <h3>${name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</h3>
                         <div class="number">${stats.latest}</div>
                         <small>Latest count</small><br>
                         <small>Avg: ${stats.average.toFixed(1)} | Total: ${stats.total}</small>
                     `;
                     categoriesDiv.appendChild(categoryDiv);
                 });
+                
+                // Display sample headlines if available
+                if (data.latest_scrape.sample_headlines && data.latest_scrape.sample_headlines.length > 0) {
+                    const sampleHeadlinesContainer = document.getElementById('sample-headlines-container');
+                    const sampleHeadlinesDiv = document.getElementById('sample-headlines');
+                    
+                    sampleHeadlinesDiv.innerHTML = '';
+                    
+                    data.latest_scrape.sample_headlines.forEach((headline, index) => {
+                        const headlineDiv = document.createElement('div');
+                        headlineDiv.className = 'headline-item';
+                        
+                        const titleElement = headline.link ? 
+                            `<a href="${headline.link}" target="_blank">${headline.title}</a>` : 
+                            headline.title;
+                        
+                        headlineDiv.innerHTML = `
+                            <div class="headline-title">${index + 1}. ${titleElement}</div>
+                            <div class="headline-meta">
+                                Source: ${headline.source}
+                                ${headline.published_at ? ` | Published: ${new Date(headline.published_at).toLocaleString()}` : ''}
+                            </div>
+                        `;
+                        sampleHeadlinesDiv.appendChild(headlineDiv);
+                    });
+                    
+                    sampleHeadlinesContainer.style.display = 'block';
+                }
                 
             } catch (error) {
                 document.getElementById('loading').innerHTML = 'Error loading data: ' + error.message;
