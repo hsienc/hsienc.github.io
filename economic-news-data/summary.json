@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-10T10:32:04.215042",
+  "last_updated": "2025-09-10T10:37:53.024105",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 262,
+    "total_headlines": 264,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -27,7 +27,7 @@
       "Wall Street Journal (World News)",
       "Wall Street Journal (Tech)"
     ],
-    "relevance_score": 0.401
+    "relevance_score": 0.402
   },
   "total_days": 1,
   "date_range": {
@@ -51,9 +51,9 @@
       "total": 25
     },
     "corporate_earnings": {
-      "latest": 13,
-      "average": 13.0,
-      "total": 13
+      "latest": 14,
+      "average": 14.0,
+      "total": 14
     },
     "fiscal_policy": {
       "latest": 7,
