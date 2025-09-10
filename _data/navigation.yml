@@ -26,5 +26,5 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  # - title: "Economic News Data (test)"
-    # url: /economic-news-data/index.html
+  - title: "Economic News Data (test)"
+    url: /economic-news-data/
