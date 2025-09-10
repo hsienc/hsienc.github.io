@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-10T12:47:10.320437",
+  "last_updated": "2025-09-10T14:01:49.422119",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 429,
+    "total_headlines": 565,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -36,40 +36,58 @@
       "CBS (World News)",
       "CBS (MoneyWatch)",
       "CBS (Technology)",
-      "CBS (Politics)"
+      "CBS (Politics)",
+      "ABC (Top Stories)",
+      "ABC (US News)",
+      "ABC (International News)",
+      "ABC (Politics)",
+      "ABC (Business)",
+      "ABC (Technology)",
+      "ABC (Health)",
+      "New York Times (US)",
+      "New York Times (World)",
+      "New York Times (Politics)",
+      "New York Times (Business)",
+      "New York Times (Energy & Environment)",
+      "New York Times (Small Business)",
+      "New York Times (Economy)",
+      "New York Times (Technology)",
+      "New York Times (Health)"
     ],
     "sources_organized": [
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)"
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)"
     ],
-    "relevance_score": 0.333,
+    "relevance_score": 0.262,
     "sample_headlines": [
       {
-        "title": "What the Pentagon's Rare Earths Deal Gets Right and Wrong",
+        "title": "Geopolitical Tensions Rise Following Russian Drone Incursion, Qatar Strike",
         "source": "Bloomberg (Market News)",
-        "link": "https://www.bloomberg.com/news/newsletters/2025-09-10/what-the-pentagon-s-rare-earths-deal-gets-right-and-wrong",
-        "published_at": "2025-09-10T17:37:54Z"
+        "link": "https://www.bloomberg.com/news/videos/2025-09-10/geopolitical-tensions-rise-amid-qatar-strike-video",
+        "published_at": "2025-09-10T18:53:34Z"
       },
       {
-        "title": "Delta Says Consumer Confidence Rebounded Following Tariff Hit",
+        "title": "France's New Premier Pledges Big Changes to Work With Opposition",
         "source": "Bloomberg (Economics)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-10/delta-says-consumer-confidence-rebounded-following-tariff-hit",
-        "published_at": "2025-09-10T17:18:52Z"
+        "link": "https://www.bloomberg.com/news/articles/2025-09-10/france-s-new-premier-vows-big-changes-to-work-with-opposition",
+        "published_at": "2025-09-10T11:20:54Z"
       },
       {
-        "title": "Blackstone, Ares Provide $3.6 Billion for Park Place Buyout",
+        "title": "Google- and Dell-Backed SingleStore Nears Sale to Vector Capital",
         "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-10/blackstone-ares-provide-3-6-billion-for-park-place-buyout",
-        "published_at": "2025-09-10T17:29:37Z"
+        "link": "https://www.bloomberg.com/news/articles/2025-09-10/google-and-dell-backed-singlestore-nears-sale-to-vector-capital",
+        "published_at": "2025-09-10T16:00:45Z"
       },
       {
-        "title": "Everyone Wants a Wounded Lion",
+        "title": "Oracle Shares Skyrocket On a Strong Cloud Outlook",
         "source": "Bloomberg (Business)",
-        "link": "https://www.bloomberg.com/opinion/newsletters/2025-09-10/everyone-wants-a-wounded-lion",
-        "published_at": "2025-09-10T17:33:26Z"
+        "link": "https://www.bloomberg.com/news/audio/2025-09-10/oracle-shares-skyrocket-on-a-strong-cloud-outlook",
+        "published_at": "2025-09-10T18:42:31Z"
       },
       {
         "title": "ICE Can Now Racially Profile Almost Half of LA",
@@ -86,29 +104,29 @@
   },
   "categories": {
     "macroeconomics": {
-      "latest": 50,
-      "average": 50.0,
-      "total": 50
+      "latest": 39,
+      "average": 39.0,
+      "total": 39
     },
     "household": {
-      "latest": 9,
-      "average": 9.0,
-      "total": 9
-    },
-    "trade": {
-      "latest": 27,
-      "average": 27.0,
-      "total": 27
-    },
-    "corporate_earnings": {
-      "latest": 24,
-      "average": 24.0,
-      "total": 24
-    },
-    "fiscal_policy": {
       "latest": 11,
       "average": 11.0,
       "total": 11
+    },
+    "trade": {
+      "latest": 41,
+      "average": 41.0,
+      "total": 41
+    },
+    "corporate_earnings": {
+      "latest": 13,
+      "average": 13.0,
+      "total": 13
+    },
+    "fiscal_policy": {
+      "latest": 14,
+      "average": 14.0,
+      "total": 14
     },
     "monetary_policy": {
       "latest": 10,
@@ -116,19 +134,19 @@
       "total": 10
     },
     "health_care": {
-      "latest": 3,
-      "average": 3.0,
-      "total": 3
-    },
-    "national_security": {
       "latest": 2,
       "average": 2.0,
       "total": 2
     },
+    "national_security": {
+      "latest": 6,
+      "average": 6.0,
+      "total": 6
+    },
     "regulation": {
-      "latest": 4,
-      "average": 4.0,
-      "total": 4
+      "latest": 5,
+      "average": 5.0,
+      "total": 5
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
@@ -141,9 +159,9 @@
       "total": 0
     },
     "policy": {
-      "latest": 3,
-      "average": 3.0,
-      "total": 3
+      "latest": 7,
+      "average": 7.0,
+      "total": 7
     }
   }
 }
