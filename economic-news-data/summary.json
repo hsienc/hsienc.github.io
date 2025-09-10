@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-10T01:16:24.431698",
+  "last_updated": "2025-09-10T01:28:17.981876",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 241,
+    "total_headlines": 245,
     "sources_scraped": [
       "Bloomberg (primary)",
       "Bloomberg (primary)",
@@ -24,43 +24,43 @@
       "Wall Street Journal (primary)",
       "Wall Street Journal (primary)"
     ],
-    "relevance_score": 0.411
+    "relevance_score": 0.412
   },
-  "total_days": 2,
+  "total_days": 4,
   "date_range": {
     "start": "2025-09-10",
     "end": "2025-09-10"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 32,
-      "average": 31.0,
-      "total": 62
+      "latest": 34,
+      "average": 32.5,
+      "total": 130
     },
     "household": {
       "latest": 2,
       "average": 2.0,
-      "total": 4
+      "total": 8
     },
     "trade": {
       "latest": 29,
-      "average": 29.5,
-      "total": 59
+      "average": 29.25,
+      "total": 117
     },
     "corporate_earnings": {
-      "latest": 19,
-      "average": 18.5,
-      "total": 37
+      "latest": 20,
+      "average": 19.25,
+      "total": 77
     },
     "fiscal_policy": {
-      "latest": 6,
-      "average": 6.0,
-      "total": 12
+      "latest": 5,
+      "average": 5.75,
+      "total": 23
     },
     "monetary_policy": {
       "latest": 6,
-      "average": 6.5,
-      "total": 13
+      "average": 6.25,
+      "total": 25
     },
     "health_care": {
       "latest": 0,
@@ -70,7 +70,7 @@
     "national_security": {
       "latest": 2,
       "average": 2.0,
-      "total": 4
+      "total": 8
     },
     "regulation": {
       "latest": 0,
@@ -90,7 +90,7 @@
     "policy": {
       "latest": 3,
       "average": 3.0,
-      "total": 6
+      "total": 12
     }
   }
 }
