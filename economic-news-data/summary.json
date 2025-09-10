@@ -1,33 +1,33 @@
 {
-  "last_updated": "2025-09-10T10:25:53.085962",
+  "last_updated": "2025-09-10T10:32:04.215042",
   "latest_scrape": {
     "date": "2025-09-10",
     "total_headlines": 262,
     "sources_scraped": [
-      "Bloomberg (Market News) (primary)",
-      "Bloomberg (Economics) (primary)",
-      "Bloomberg (Technology) (primary)",
-      "Bloomberg (Business) (primary)",
-      "Bloomberg (Opinion) (primary)",
-      "Bloomberg (Wealth) (primary)",
-      "CNBC (Economy) (primary)",
-      "CNBC (Finance) (primary)",
-      "CNBC (Business News) (primary)",
+      "Bloomberg (Market News)",
+      "Bloomberg (Economics)",
+      "Bloomberg (Technology)",
+      "Bloomberg (Business)",
+      "Bloomberg (Opinion)",
+      "Bloomberg (Wealth)",
+      "CNBC (Economy)",
+      "CNBC (Finance)",
+      "CNBC (Business News)",
       "CNBC (Wealth) (backup)",
-      "CNBC (Top News) (primary)",
-      "CNBC (Earnings) (primary)",
-      "CNBC (US News) (primary)",
-      "CNBC (World News) (primary)",
+      "CNBC (Top News)",
+      "CNBC (Earnings)",
+      "CNBC (US News)",
+      "CNBC (World News)",
       "CNBC (Retail) (backup)",
-      "Wall Street Journal (Economy) (primary)",
-      "Wall Street Journal (US Business) (primary)",
-      "Wall Street Journal (Markets) (primary)",
+      "Wall Street Journal (Economy)",
+      "Wall Street Journal (US Business)",
+      "Wall Street Journal (Markets)",
       "Wall Street Journal (Personal Finance) (backup)",
-      "Wall Street Journal (US News) (primary)",
-      "Wall Street Journal (World News) (primary)",
-      "Wall Street Journal (Tech) (primary)"
+      "Wall Street Journal (US News)",
+      "Wall Street Journal (World News)",
+      "Wall Street Journal (Tech)"
     ],
-    "relevance_score": 0.397
+    "relevance_score": 0.401
   },
   "total_days": 1,
   "date_range": {
@@ -36,9 +36,9 @@
   },
   "categories": {
     "macroeconomics": {
-      "latest": 40,
-      "average": 40.0,
-      "total": 40
+      "latest": 41,
+      "average": 41.0,
+      "total": 41
     },
     "household": {
       "latest": 8,
