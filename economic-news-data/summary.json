@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-10T14:01:49.422119",
+  "last_updated": "2025-09-10T14:21:35.360490",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 565,
+    "total_headlines": 569,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -55,45 +55,45 @@
       "New York Times (Health)"
     ],
     "sources_organized": [
-      "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
-      "Yahoo News (Finance, Latest)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)"
+      "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
+      "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.262,
+    "relevance_score": 0.248,
     "sample_headlines": [
       {
-        "title": "Geopolitical Tensions Rise Following Russian Drone Incursion, Qatar Strike",
-        "source": "Bloomberg (Market News)",
-        "link": "https://www.bloomberg.com/news/videos/2025-09-10/geopolitical-tensions-rise-amid-qatar-strike-video",
-        "published_at": "2025-09-10T18:53:34Z"
+        "title": "Oracle soars 30% on cloud growth projections even as earnings miss estimates",
+        "source": "CNBC (Earnings)",
+        "link": "https://www.cnbc.com/2025/09/09/oracle-orcl-q1-earnings-report-2026.html",
+        "published_at": "2025-09-10T12:31:27Z"
       },
       {
-        "title": "France's New Premier Pledges Big Changes to Work With Opposition",
-        "source": "Bloomberg (Economics)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-10/france-s-new-premier-vows-big-changes-to-work-with-opposition",
-        "published_at": "2025-09-10T11:20:54Z"
+        "title": "Stocks close at record highs despite job worries, looming inflation reports",
+        "source": "CNBC (World News)",
+        "link": "https://www.cnbc.com/2025/09/08/stock-market-today-live-updates.html",
+        "published_at": "2025-09-09T20:17:28Z"
       },
       {
-        "title": "Google- and Dell-Backed SingleStore Nears Sale to Vector Capital",
-        "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-10/google-and-dell-backed-singlestore-nears-sale-to-vector-capital",
-        "published_at": "2025-09-10T16:00:45Z"
+        "title": "Have questions about RFK Jr.'s plan to make America healthy again? Join a real-time, written chat with WSJ reporters on Wednesday, Sept. 10.",
+        "source": "Wall Street Journal (Politics)",
+        "link": "https://www.wsj.com/politics/policy/maha-rfk-jr-reader-questions-acf53053",
+        "published_at": "2025-09-09T20:01:00Z"
       },
       {
-        "title": "Oracle Shares Skyrocket On a Strong Cloud Outlook",
-        "source": "Bloomberg (Business)",
-        "link": "https://www.bloomberg.com/news/audio/2025-09-10/oracle-shares-skyrocket-on-a-strong-cloud-outlook",
-        "published_at": "2025-09-10T18:42:31Z"
+        "title": "Missouri Republicans advance Trump-backed plan to redraw US House districts",
+        "source": "ABC (Politics)",
+        "link": "https://abcnews.go.com/Politics/wireStory/missouri-republicans-advance-trump-backed-plan-redraw-us-125407277",
+        "published_at": "2025-09-10T02:54:17Z"
       },
       {
-        "title": "ICE Can Now Racially Profile Almost Half of LA",
-        "source": "Bloomberg (Opinion)",
-        "link": "https://www.bloomberg.com/opinion/articles/2025-09-10/ice-in-la-agents-can-now-racially-profile-nearly-half-the-county",
-        "published_at": "2025-09-10T12:00:18Z"
+        "title": "They Created a Streetwear Line From Scratch. In High School.",
+        "source": "New York Times (Small Business)",
+        "link": "https://www.nytimes.com/2025/09/10/nyregion/high-school-students-bronx-streetwear-clothing.html",
+        "published_at": "2025-09-10T15:59:50Z"
       }
     ]
   },
@@ -104,14 +104,14 @@
   },
   "categories": {
     "macroeconomics": {
-      "latest": 39,
-      "average": 39.0,
-      "total": 39
+      "latest": 37,
+      "average": 37.0,
+      "total": 37
     },
     "household": {
-      "latest": 11,
-      "average": 11.0,
-      "total": 11
+      "latest": 9,
+      "average": 9.0,
+      "total": 9
     },
     "trade": {
       "latest": 41,
@@ -119,19 +119,19 @@
       "total": 41
     },
     "corporate_earnings": {
-      "latest": 13,
-      "average": 13.0,
-      "total": 13
-    },
-    "fiscal_policy": {
       "latest": 14,
       "average": 14.0,
       "total": 14
     },
+    "fiscal_policy": {
+      "latest": 12,
+      "average": 12.0,
+      "total": 12
+    },
     "monetary_policy": {
-      "latest": 10,
-      "average": 10.0,
-      "total": 10
+      "latest": 9,
+      "average": 9.0,
+      "total": 9
     },
     "health_care": {
       "latest": 2,
@@ -159,9 +159,9 @@
       "total": 0
     },
     "policy": {
-      "latest": 7,
-      "average": 7.0,
-      "total": 7
+      "latest": 6,
+      "average": 6.0,
+      "total": 6
     }
   }
 }
