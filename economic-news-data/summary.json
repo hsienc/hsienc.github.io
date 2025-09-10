@@ -1,66 +1,69 @@
 {
-  "last_updated": "2025-09-10T09:33:23.641101",
+  "last_updated": "2025-09-10T10:25:53.085962",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 261,
+    "total_headlines": 262,
     "sources_scraped": [
-      "Bloomberg (primary)",
-      "Bloomberg (primary)",
-      "Bloomberg (primary)",
-      "Bloomberg (primary)",
-      "Bloomberg (primary)",
-      "Bloomberg (primary)",
-      "CNBC (primary)",
-      "CNBC (primary)",
-      "CNBC (primary)",
-      "CNBC (primary)",
-      "CNBC (primary)",
-      "CNBC (primary)",
-      "CNBC (primary)",
-      "Wall Street Journal (primary)",
-      "Wall Street Journal (primary)",
-      "Wall Street Journal (primary)",
-      "Wall Street Journal (primary)",
-      "Wall Street Journal (primary)",
-      "Wall Street Journal (primary)"
+      "Bloomberg (Market News) (primary)",
+      "Bloomberg (Economics) (primary)",
+      "Bloomberg (Technology) (primary)",
+      "Bloomberg (Business) (primary)",
+      "Bloomberg (Opinion) (primary)",
+      "Bloomberg (Wealth) (primary)",
+      "CNBC (Economy) (primary)",
+      "CNBC (Finance) (primary)",
+      "CNBC (Business News) (primary)",
+      "CNBC (Wealth) (backup)",
+      "CNBC (Top News) (primary)",
+      "CNBC (Earnings) (primary)",
+      "CNBC (US News) (primary)",
+      "CNBC (World News) (primary)",
+      "CNBC (Retail) (backup)",
+      "Wall Street Journal (Economy) (primary)",
+      "Wall Street Journal (US Business) (primary)",
+      "Wall Street Journal (Markets) (primary)",
+      "Wall Street Journal (Personal Finance) (backup)",
+      "Wall Street Journal (US News) (primary)",
+      "Wall Street Journal (World News) (primary)",
+      "Wall Street Journal (Tech) (primary)"
     ],
-    "relevance_score": 0.414
+    "relevance_score": 0.397
   },
-  "total_days": 4,
+  "total_days": 1,
   "date_range": {
     "start": "2025-09-10",
     "end": "2025-09-10"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 42,
-      "average": 38.75,
-      "total": 155
+      "latest": 40,
+      "average": 40.0,
+      "total": 40
     },
     "household": {
-      "latest": 6,
-      "average": 5.0,
-      "total": 20
+      "latest": 8,
+      "average": 8.0,
+      "total": 8
     },
     "trade": {
-      "latest": 27,
-      "average": 27.5,
-      "total": 110
+      "latest": 25,
+      "average": 25.0,
+      "total": 25
     },
     "corporate_earnings": {
-      "latest": 14,
-      "average": 16.25,
-      "total": 65
+      "latest": 13,
+      "average": 13.0,
+      "total": 13
     },
     "fiscal_policy": {
       "latest": 7,
-      "average": 6.75,
-      "total": 27
+      "average": 7.0,
+      "total": 7
     },
     "monetary_policy": {
       "latest": 7,
-      "average": 6.5,
-      "total": 26
+      "average": 7.0,
+      "total": 7
     },
     "health_care": {
       "latest": 0,
@@ -69,8 +72,8 @@
     },
     "national_security": {
       "latest": 2,
-      "average": 2.75,
-      "total": 11
+      "average": 2.0,
+      "total": 2
     },
     "regulation": {
       "latest": 0,
@@ -88,9 +91,9 @@
       "total": 0
     },
     "policy": {
-      "latest": 3,
-      "average": 3.0,
-      "total": 12
+      "latest": 2,
+      "average": 2.0,
+      "total": 2
     }
   }
 }
