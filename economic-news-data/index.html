@@ -8,10 +8,27 @@
         body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; }
         .header { text-align: center; margin-bottom: 30px; }
         .summary { background: #f5f5f5; padding: 20px; border-radius: 8px; margin-bottom: 30px; }
-        .categories { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; }
+        
+        /* Updated grid for exactly 4 columns */
+        .categories { 
+            display: grid; 
+            grid-template-columns: repeat(4, 1fr); 
+            gap: 15px; 
+        }
+        
+        /* Responsive: 2 columns on tablets, 1 on mobile */
+        @media (max-width: 768px) {
+            .categories { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 480px) {
+            .categories { grid-template-columns: 1fr; }
+        }
+        
         .category { background: white; padding: 15px; border-radius: 8px; border: 1px solid #ddd; }
         .number { font-size: 24px; font-weight: bold; color: #2563eb; }
         .last-updated { color: #666; font-size: 14px; }
+        .sources-organized { margin-top: 10px; }
+        .sources-organized strong { color: #333; }
         table { width: 100%; border-collapse: collapse; margin-top: 20px; }
         th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
         th { background-color: #f8f9fa; }
@@ -44,13 +61,19 @@
                 const response = await fetch('summary.json');
                 const data = await response.json();
                 
+                // Use organized sources if available, fallback to original
+                const sourcesToDisplay = data.latest_scrape.sources_organized || data.latest_scrape.sources_scraped;
+                const sourcesText = Array.isArray(sourcesToDisplay) ? sourcesToDisplay.join(', ') : sourcesToDisplay;
+                
                 // Update summary
                 const summaryDiv = document.getElementById('summary');
                 summaryDiv.innerHTML = `
                     <h2>Latest Data</h2>
                     <p><strong>Last Scrape:</strong> ${data.latest_scrape.date}</p>
                     <p><strong>Headlines Collected:</strong> ${data.latest_scrape.total_headlines}</p>
-                    <p><strong>Sources:</strong> ${data.latest_scrape.sources_scraped.join(', ')}</p>
+                    <div class="sources-organized">
+                        <strong>Sources:</strong> ${sourcesText}
+                    </div>
                     <p><strong>Relevance Score:</strong> ${data.latest_scrape.relevance_score.toFixed(3)}</p>
                     <p><strong>Total Days Tracked:</strong> ${data.total_days}</p>
                     <p class="last-updated">Data updated: ${new Date(data.last_updated).toLocaleString()}</p>
@@ -64,7 +87,7 @@
                     const categoryDiv = document.createElement('div');
                     categoryDiv.className = 'category';
                     categoryDiv.innerHTML = `
-                        <h3>${name.replace(/_/g, ' ').replace(/\w/g, l => l.toUpperCase())}</h3>
+                        <h3>${name.replace(/_/g, ' ').replace(/\w/g, l => l.toUpperCase())}</h3>
                         <div class="number">${stats.latest}</div>
                         <small>Latest count</small><br>
                         <small>Avg: ${stats.average.toFixed(1)} | Total: ${stats.total}</small>

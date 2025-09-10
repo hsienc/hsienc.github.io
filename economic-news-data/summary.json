@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-10T10:37:53.024105",
+  "last_updated": "2025-09-10T12:17:01.687332",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 264,
+    "total_headlines": 430,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -13,21 +13,39 @@
       "CNBC (Economy)",
       "CNBC (Finance)",
       "CNBC (Business News)",
-      "CNBC (Wealth) (backup)",
+      "CNBC (Wealth)",
       "CNBC (Top News)",
       "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
-      "CNBC (Retail) (backup)",
+      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
-      "Wall Street Journal (Personal Finance) (backup)",
+      "Wall Street Journal (Politics)",
+      "Wall Street Journal (Health)",
+      "Wall Street Journal (Real Estate)",
+      "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
       "Wall Street Journal (World News)",
-      "Wall Street Journal (Tech)"
+      "Wall Street Journal (Tech)",
+      "Yahoo News (Latest)",
+      "Yahoo News (Finance)",
+      "CBS (Top News)",
+      "CBS (US News)",
+      "CBS (World News)",
+      "CBS (MoneyWatch)",
+      "CBS (Technology)",
+      "CBS (Politics)"
     ],
-    "relevance_score": 0.402
+    "sources_organized": [
+      "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
+      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
+      "Yahoo News (Finance, Latest)",
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)"
+    ],
+    "relevance_score": 0.326
   },
   "total_days": 1,
   "date_range": {
@@ -36,14 +54,14 @@
   },
   "categories": {
     "macroeconomics": {
-      "latest": 41,
-      "average": 41.0,
-      "total": 41
+      "latest": 49,
+      "average": 49.0,
+      "total": 49
     },
     "household": {
-      "latest": 8,
-      "average": 8.0,
-      "total": 8
+      "latest": 9,
+      "average": 9.0,
+      "total": 9
     },
     "trade": {
       "latest": 25,
@@ -51,34 +69,34 @@
       "total": 25
     },
     "corporate_earnings": {
-      "latest": 14,
-      "average": 14.0,
-      "total": 14
+      "latest": 21,
+      "average": 21.0,
+      "total": 21
     },
     "fiscal_policy": {
-      "latest": 7,
-      "average": 7.0,
-      "total": 7
+      "latest": 11,
+      "average": 11.0,
+      "total": 11
     },
     "monetary_policy": {
-      "latest": 7,
-      "average": 7.0,
-      "total": 7
+      "latest": 10,
+      "average": 10.0,
+      "total": 10
     },
     "health_care": {
-      "latest": 0,
-      "average": 0.0,
-      "total": 0
+      "latest": 4,
+      "average": 4.0,
+      "total": 4
     },
     "national_security": {
-      "latest": 2,
-      "average": 2.0,
-      "total": 2
+      "latest": 3,
+      "average": 3.0,
+      "total": 3
     },
     "regulation": {
-      "latest": 0,
-      "average": 0.0,
-      "total": 0
+      "latest": 3,
+      "average": 3.0,
+      "total": 3
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
@@ -86,14 +104,14 @@
       "total": 0
     },
     "entitlement_programs": {
-      "latest": 0,
-      "average": 0.0,
-      "total": 0
+      "latest": 1,
+      "average": 1.0,
+      "total": 1
     },
     "policy": {
-      "latest": 2,
-      "average": 2.0,
-      "total": 2
+      "latest": 4,
+      "average": 4.0,
+      "total": 4
     }
   }
 }
