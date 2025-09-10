@@ -25,3 +25,6 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
+  - Economic News Data (test)
+    url:/economic-news-tracker/
