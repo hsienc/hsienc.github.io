@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-10T12:36:53.782242",
+  "last_updated": "2025-09-10T12:47:10.320437",
   "latest_scrape": {
     "date": "2025-09-10",
-    "total_headlines": 431,
+    "total_headlines": 429,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -45,13 +45,13 @@
       "Yahoo News (Finance, Latest)",
       "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)"
     ],
-    "relevance_score": 0.329,
+    "relevance_score": 0.333,
     "sample_headlines": [
       {
-        "title": "Online Travel Agent Loveholidays Eyes IPO in Boost to London",
+        "title": "What the Pentagon's Rare Earths Deal Gets Right and Wrong",
         "source": "Bloomberg (Market News)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-10/online-travel-agent-loveholidays-eyes-ipo-in-boost-to-uk-market",
-        "published_at": "2025-09-10T10:56:02Z"
+        "link": "https://www.bloomberg.com/news/newsletters/2025-09-10/what-the-pentagon-s-rare-earths-deal-gets-right-and-wrong",
+        "published_at": "2025-09-10T17:37:54Z"
       },
       {
         "title": "Delta Says Consumer Confidence Rebounded Following Tariff Hit",
@@ -60,10 +60,10 @@
         "published_at": "2025-09-10T17:18:52Z"
       },
       {
-        "title": "Amazon's Zoox Launches Robotaxi Rides to Public in Las Vegas",
+        "title": "Blackstone, Ares Provide $3.6 Billion for Park Place Buyout",
         "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-10/amazon-s-zoox-to-launch-robotaxi-rides-to-public-in-las-vegas",
-        "published_at": "2025-09-10T13:00:00Z"
+        "link": "https://www.bloomberg.com/news/articles/2025-09-10/blackstone-ares-provide-3-6-billion-for-park-place-buyout",
+        "published_at": "2025-09-10T17:29:37Z"
       },
       {
         "title": "Everyone Wants a Wounded Lion",
@@ -91,9 +91,9 @@
       "total": 50
     },
     "household": {
-      "latest": 11,
-      "average": 11.0,
-      "total": 11
+      "latest": 9,
+      "average": 9.0,
+      "total": 9
     },
     "trade": {
       "latest": 27,
@@ -111,9 +111,9 @@
       "total": 11
     },
     "monetary_policy": {
-      "latest": 11,
-      "average": 11.0,
-      "total": 11
+      "latest": 10,
+      "average": 10.0,
+      "total": 10
     },
     "health_care": {
       "latest": 3,
@@ -121,14 +121,14 @@
       "total": 3
     },
     "national_security": {
-      "latest": 1,
-      "average": 1.0,
-      "total": 1
-    },
-    "regulation": {
       "latest": 2,
       "average": 2.0,
       "total": 2
+    },
+    "regulation": {
+      "latest": 4,
+      "average": 4.0,
+      "total": 4
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
@@ -141,9 +141,9 @@
       "total": 0
     },
     "policy": {
-      "latest": 2,
-      "average": 2.0,
-      "total": 2
+      "latest": 3,
+      "average": 3.0,
+      "total": 3
     }
   }
 }
