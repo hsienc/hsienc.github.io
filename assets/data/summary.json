@@ -1,0 +1,96 @@
+{
+  "last_updated": "2025-09-10T01:41:07.955499",
+  "latest_scrape": {
+    "date": "2025-09-10",
+    "total_headlines": 245,
+    "sources_scraped": [
+      "Bloomberg (primary)",
+      "Bloomberg (primary)",
+      "Bloomberg (primary)",
+      "Bloomberg (primary)",
+      "Bloomberg (primary)",
+      "Bloomberg (primary)",
+      "CNBC (primary)",
+      "CNBC (primary)",
+      "CNBC (primary)",
+      "CNBC (primary)",
+      "CNBC (primary)",
+      "CNBC (primary)",
+      "CNBC (primary)",
+      "Wall Street Journal (primary)",
+      "Wall Street Journal (primary)",
+      "Wall Street Journal (primary)",
+      "Wall Street Journal (primary)",
+      "Wall Street Journal (primary)",
+      "Wall Street Journal (primary)"
+    ],
+    "relevance_score": 0.412
+  },
+  "total_days": 4,
+  "date_range": {
+    "start": "2025-09-10",
+    "end": "2025-09-10"
+  },
+  "categories": {
+    "macroeconomics": {
+      "latest": 34,
+      "average": 32.5,
+      "total": 130
+    },
+    "household": {
+      "latest": 2,
+      "average": 2.0,
+      "total": 8
+    },
+    "trade": {
+      "latest": 29,
+      "average": 29.25,
+      "total": 117
+    },
+    "corporate_earnings": {
+      "latest": 20,
+      "average": 19.25,
+      "total": 77
+    },
+    "fiscal_policy": {
+      "latest": 5,
+      "average": 5.75,
+      "total": 23
+    },
+    "monetary_policy": {
+      "latest": 6,
+      "average": 6.25,
+      "total": 25
+    },
+    "health_care": {
+      "latest": 0,
+      "average": 0.0,
+      "total": 0
+    },
+    "national_security": {
+      "latest": 2,
+      "average": 2.0,
+      "total": 8
+    },
+    "regulation": {
+      "latest": 0,
+      "average": 0.0,
+      "total": 0
+    },
+    "sovereign_debt_currency_crisis": {
+      "latest": 0,
+      "average": 0.0,
+      "total": 0
+    },
+    "entitlement_programs": {
+      "latest": 0,
+      "average": 0.0,
+      "total": 0
+    },
+    "policy": {
+      "latest": 3,
+      "average": 3.0,
+      "total": 12
+    }
+  }
+}
