@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-11T08:16:41.957882",
+  "last_updated": "2025-09-12T09:18:35.902579",
   "latest_scrape": {
-    "date": "2025-09-11",
-    "total_headlines": 566,
+    "date": "2025-09-12",
+    "total_headlines": 555,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -49,7 +49,6 @@
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
-      "New York Times (Small Business)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)"
@@ -59,94 +58,94 @@
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.375,
+    "relevance_score": 0.281,
     "sample_headlines": [
       {
-        "title": "How the Shooting of Conservative Activist Charlie Kirk Unfolded",
-        "source": "Wall Street Journal (US News)",
-        "link": "https://www.wsj.com/us-news/charlie-kirk-shooting-utah-valley-university-9c2f9817",
-        "published_at": "2025-09-11T04:42:00Z"
+        "title": "Amazon suspends engineer who protested company's work with Israeli government",
+        "source": "CNBC (US News)",
+        "link": "https://www.cnbc.com/2025/09/11/amazon-suspends-engineer-who-protested-companys-work-with-israel.html",
+        "published_at": "2025-09-11T20:45:48Z"
       },
       {
-        "title": "Pregnant women are using cannabis in rising numbers. Data on the effects on a fetus are sparse.",
-        "source": "Wall Street Journal (Health)",
-        "link": "https://www.wsj.com/health/wellness/pregnant-women-mothers-cannabis-use-2ed7b144",
-        "published_at": "2025-09-11T09:30:00Z"
+        "title": "Freight Startup Flexport Forecasts Profitability in 2025-With an Asterisk",
+        "source": "Wall Street Journal (US Business)",
+        "link": "https://www.wsj.com/articles/freight-startup-flexport-forecasts-profitability-in-2025with-an-asterisk-0421037c?mod=pls_whats_news_us_business_f",
+        "published_at": "2025-09-12T11:00:00Z"
       },
       {
-        "title": "Oracle Surge Lifts S&P 500 to New Record",
-        "source": "Wall Street Journal (Markets)",
-        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-10-2025-e7ad8639?mod=rss_markets_main",
-        "published_at": "2025-09-10T20:44:00Z"
+        "title": "'Civil War' Mentions Surge Online After Charlie Kirk Shooting",
+        "source": "New York Times (Technology)",
+        "link": "https://www.nytimes.com/2025/09/12/technology/charlie-kirk-shooting-civil-war.html",
+        "published_at": "2025-09-12T09:03:00Z"
       },
       {
-        "title": "Why thousands of people in rural West Virginia lack reliable drinking water",
-        "source": "CBS (US News)",
-        "link": "https://www.cbsnews.com/news/thousands-of-people-rural-west-virginia-lack-reliable-drinking-water/",
-        "published_at": "2025-09-11T01:22:25Z"
+        "title": "WATCH: Person in custody in shooting of Charlie Kirk, Trump says",
+        "source": "ABC (Top Stories)",
+        "link": "https://abcnews.go.com/US/video/person-custody-shooting-charlie-kirk-trump-125509996",
+        "published_at": "2025-09-12T13:24:36Z"
       },
       {
-        "title": "Family Office's Klarna Bet Nets 600% Gain for Danish Billionaire",
-        "source": "Bloomberg (Wealth)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-11/klarna-bet-fuels-1-7-billion-wealth-revamp-for-clothing-magnate",
-        "published_at": "2025-09-11T09:01:14Z"
+        "title": "ECB Can Deliver 2% Inflation Without More Cuts, Patsalides Says",
+        "source": "Bloomberg (Economics)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-12/ecb-can-deliver-2-inflation-without-more-cuts-patsalides-says",
+        "published_at": "2025-09-12T04:00:00Z"
       }
     ]
   },
-  "total_days": 2,
+  "total_days": 3,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-11"
+    "end": "2025-09-12"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 73,
-      "average": 55.0,
-      "total": 110
+      "latest": 32,
+      "average": 47.333333333333336,
+      "total": 142
     },
     "household": {
-      "latest": 10,
-      "average": 9.5,
-      "total": 19
+      "latest": 30,
+      "average": 16.333333333333332,
+      "total": 49
     },
     "trade": {
-      "latest": 49,
-      "average": 45.0,
-      "total": 90
+      "latest": 20,
+      "average": 36.666666666666664,
+      "total": 110
     },
     "corporate_earnings": {
-      "latest": 15,
-      "average": 14.5,
-      "total": 29
+      "latest": 16,
+      "average": 15.0,
+      "total": 45
     },
     "fiscal_policy": {
-      "latest": 9,
-      "average": 10.5,
-      "total": 21
+      "latest": 3,
+      "average": 8.0,
+      "total": 24
     },
     "monetary_policy": {
-      "latest": 27,
-      "average": 18.0,
-      "total": 36
+      "latest": 11,
+      "average": 15.666666666666666,
+      "total": 47
     },
     "health_care": {
-      "latest": 0,
-      "average": 1.0,
-      "total": 2
+      "latest": 11,
+      "average": 4.333333333333333,
+      "total": 13
     },
     "national_security": {
-      "latest": 17,
-      "average": 11.5,
-      "total": 23
+      "latest": 14,
+      "average": 12.333333333333334,
+      "total": 37
     },
     "regulation": {
-      "latest": 1,
-      "average": 3.0,
-      "total": 6
+      "latest": 6,
+      "average": 4.0,
+      "total": 12
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
@@ -154,14 +153,14 @@
       "total": 0
     },
     "entitlement_programs": {
-      "latest": 1,
-      "average": 0.5,
-      "total": 1
+      "latest": 6,
+      "average": 2.3333333333333335,
+      "total": 7
     },
     "policy": {
-      "latest": 10,
-      "average": 8.0,
-      "total": 16
+      "latest": 7,
+      "average": 7.666666666666667,
+      "total": 23
     }
   }
 }
