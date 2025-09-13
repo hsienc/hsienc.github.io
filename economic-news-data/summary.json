@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-12T09:18:35.902579",
+  "last_updated": "2025-09-13T09:03:25.902700",
   "latest_scrape": {
-    "date": "2025-09-12",
-    "total_headlines": 555,
+    "date": "2025-09-13",
+    "total_headlines": 449,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -10,15 +10,12 @@
       "Bloomberg (Business)",
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
-      "CNBC (Economy)",
       "CNBC (Finance)",
       "CNBC (Business News)",
-      "CNBC (Wealth)",
       "CNBC (Top News)",
       "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
-      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
@@ -35,7 +32,7 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Technology)",
+      "CBS (Health)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -49,6 +46,7 @@
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
+      "New York Times (Small Business)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)"
@@ -56,96 +54,96 @@
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
+      "CBS (Health, MoneyWatch, Politics, Top News, US News, World News)",
+      "CNBC (Business News, Earnings, Finance, Top News, US News, World News)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.281,
+    "relevance_score": 0.145,
     "sample_headlines": [
       {
-        "title": "Amazon suspends engineer who protested company's work with Israeli government",
-        "source": "CNBC (US News)",
-        "link": "https://www.cnbc.com/2025/09/11/amazon-suspends-engineer-who-protested-companys-work-with-israel.html",
-        "published_at": "2025-09-11T20:45:48Z"
+        "title": "Why is France's new PM head-butting colleagues? A teenage interest in monks is part of the answer",
+        "source": "ABC (International News)",
+        "link": "https://abcnews.go.com/International/wireStory/frances-new-pm-head-butting-colleagues-teenage-interest-125517241",
+        "published_at": "2025-09-12T16:31:10Z"
       },
       {
-        "title": "Freight Startup Flexport Forecasts Profitability in 2025-With an Asterisk",
-        "source": "Wall Street Journal (US Business)",
-        "link": "https://www.wsj.com/articles/freight-startup-flexport-forecasts-profitability-in-2025with-an-asterisk-0421037c?mod=pls_whats_news_us_business_f",
-        "published_at": "2025-09-12T11:00:00Z"
+        "title": "Big Take: Arrest Made in Charlie Kirk Death (Podcast)",
+        "source": "Bloomberg (Business)",
+        "link": "https://www.bloomberg.com/news/audio/2025-09-12/big-take-arrest-made-in-charlie-kirk-death-podcast",
+        "published_at": "2025-09-12T22:33:18Z"
       },
       {
-        "title": "'Civil War' Mentions Surge Online After Charlie Kirk Shooting",
-        "source": "New York Times (Technology)",
-        "link": "https://www.nytimes.com/2025/09/12/technology/charlie-kirk-shooting-civil-war.html",
-        "published_at": "2025-09-12T09:03:00Z"
+        "title": "ICE Agent Fatally Shoots Man During Immigration Arrest Near Chicago",
+        "source": "Wall Street Journal (US News)",
+        "link": "https://www.wsj.com/us-news/man-fatally-shot-in-ice-immigration-arrest-in-chicago-464e326c",
+        "published_at": "2025-09-12T21:40:00Z"
       },
       {
-        "title": "WATCH: Person in custody in shooting of Charlie Kirk, Trump says",
-        "source": "ABC (Top Stories)",
-        "link": "https://abcnews.go.com/US/video/person-custody-shooting-charlie-kirk-trump-125509996",
-        "published_at": "2025-09-12T13:24:36Z"
+        "title": "Blockchain Billionaire Emerges From Figure's Post-IPO Surge",
+        "source": "Bloomberg (Wealth)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-12/blockchain-billionaire-emerges-on-figure-technology-s-figr-post-ipo-surge",
+        "published_at": "2025-09-12T17:11:23Z"
       },
       {
-        "title": "ECB Can Deliver 2% Inflation Without More Cuts, Patsalides Says",
-        "source": "Bloomberg (Economics)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-12/ecb-can-deliver-2-inflation-without-more-cuts-patsalides-says",
-        "published_at": "2025-09-12T04:00:00Z"
+        "title": "Marilyn Diamond, Who Wrote a Blockbuster Diet Book, Dies at 81",
+        "source": "New York Times (Health)",
+        "link": "https://www.nytimes.com/2025/09/12/books/marilyn-diamond-dead.html",
+        "published_at": "2025-09-12T22:37:48Z"
       }
     ]
   },
-  "total_days": 3,
+  "total_days": 4,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-12"
+    "end": "2025-09-13"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 32,
-      "average": 47.333333333333336,
-      "total": 142
+      "latest": 15,
+      "average": 39.25,
+      "total": 157
     },
     "household": {
-      "latest": 30,
-      "average": 16.333333333333332,
-      "total": 49
+      "latest": 13,
+      "average": 15.5,
+      "total": 62
     },
     "trade": {
-      "latest": 20,
-      "average": 36.666666666666664,
-      "total": 110
+      "latest": 12,
+      "average": 30.5,
+      "total": 122
     },
     "corporate_earnings": {
-      "latest": 16,
-      "average": 15.0,
-      "total": 45
+      "latest": 11,
+      "average": 14.0,
+      "total": 56
     },
     "fiscal_policy": {
-      "latest": 3,
-      "average": 8.0,
-      "total": 24
+      "latest": 1,
+      "average": 6.25,
+      "total": 25
     },
     "monetary_policy": {
-      "latest": 11,
-      "average": 15.666666666666666,
-      "total": 47
+      "latest": 5,
+      "average": 13.0,
+      "total": 52
     },
     "health_care": {
-      "latest": 11,
-      "average": 4.333333333333333,
-      "total": 13
+      "latest": 1,
+      "average": 3.5,
+      "total": 14
     },
     "national_security": {
-      "latest": 14,
-      "average": 12.333333333333334,
-      "total": 37
+      "latest": 2,
+      "average": 9.75,
+      "total": 39
     },
     "regulation": {
-      "latest": 6,
-      "average": 4.0,
-      "total": 12
+      "latest": 2,
+      "average": 3.5,
+      "total": 14
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
@@ -153,14 +151,14 @@
       "total": 0
     },
     "entitlement_programs": {
-      "latest": 6,
-      "average": 2.3333333333333335,
+      "latest": 0,
+      "average": 1.75,
       "total": 7
     },
     "policy": {
-      "latest": 7,
-      "average": 7.666666666666667,
-      "total": 23
+      "latest": 3,
+      "average": 6.5,
+      "total": 26
     }
   }
 }
