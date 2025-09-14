@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-13T09:03:25.902700",
+  "last_updated": "2025-09-14T09:31:18.326638",
   "latest_scrape": {
-    "date": "2025-09-13",
-    "total_headlines": 449,
+    "date": "2025-09-14",
+    "total_headlines": 225,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -11,7 +11,6 @@
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
       "CNBC (Finance)",
-      "CNBC (Business News)",
       "CNBC (Top News)",
       "CNBC (Earnings)",
       "CNBC (US News)",
@@ -27,11 +26,9 @@
       "Wall Street Journal (World News)",
       "Wall Street Journal (Tech)",
       "Yahoo News (Latest)",
-      "Yahoo News (Finance)",
       "CBS (Top News)",
       "CBS (US News)",
       "CBS (World News)",
-      "CBS (MoneyWatch)",
       "CBS (Health)",
       "CBS (Politics)",
       "ABC (Top Stories)",
@@ -40,110 +37,108 @@
       "ABC (Politics)",
       "ABC (Business)",
       "ABC (Technology)",
-      "ABC (Health)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
-      "New York Times (Small Business)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)"
     ],
     "sources_organized": [
-      "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
+      "ABC (Business, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (Health, MoneyWatch, Politics, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Finance, Top News, US News, World News)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
+      "CBS (Health, Politics, Top News, US News, World News)",
+      "CNBC (Earnings, Finance, Top News, US News, World News)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
-      "Yahoo News (Finance, Latest)"
+      "Yahoo News (Latest)"
     ],
-    "relevance_score": 0.145,
+    "relevance_score": 0.191,
     "sample_headlines": [
       {
-        "title": "Why is France's new PM head-butting colleagues? A teenage interest in monks is part of the answer",
-        "source": "ABC (International News)",
-        "link": "https://abcnews.go.com/International/wireStory/frances-new-pm-head-butting-colleagues-teenage-interest-125517241",
-        "published_at": "2025-09-12T16:31:10Z"
+        "title": "Lesotho Sends Trade Delegation to US to Plead for Lower Tariffs",
+        "source": "Bloomberg (Economics)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs",
+        "published_at": "2025-09-13T15:21:01Z"
       },
       {
-        "title": "Big Take: Arrest Made in Charlie Kirk Death (Podcast)",
-        "source": "Bloomberg (Business)",
-        "link": "https://www.bloomberg.com/news/audio/2025-09-12/big-take-arrest-made-in-charlie-kirk-death-podcast",
-        "published_at": "2025-09-12T22:33:18Z"
+        "title": "Utah governor says alleged Kirk shooter not cooperating with authorities",
+        "source": "ABC (Top Stories)",
+        "link": "https://abcnews.go.com/Politics/utah-governor-alleged-kirk-shooter-cooperating-authorities/story?id=125552756",
+        "published_at": "2025-09-14T14:09:38Z"
       },
       {
-        "title": "ICE Agent Fatally Shoots Man During Immigration Arrest Near Chicago",
-        "source": "Wall Street Journal (US News)",
-        "link": "https://www.wsj.com/us-news/man-fatally-shot-in-ice-immigration-arrest-in-chicago-464e326c",
-        "published_at": "2025-09-12T21:40:00Z"
+        "title": "Israeli Prime Minister Benjamin Netanyahu and Russian President Vladimir Putin both have consistently disregarded President Trump's wishes, often without major consequences",
+        "source": "Wall Street Journal (Politics)",
+        "link": "https://www.wsj.com/politics/national-security/trump-reluctant-to-pressure-putin-and-netanyahu-risks-sidelining-himself-ffded6e7",
+        "published_at": "2025-09-14T03:00:00Z"
       },
       {
-        "title": "Blockchain Billionaire Emerges From Figure's Post-IPO Surge",
-        "source": "Bloomberg (Wealth)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-12/blockchain-billionaire-emerges-on-figure-technology-s-figr-post-ipo-surge",
-        "published_at": "2025-09-12T17:11:23Z"
+        "title": "Apple Loses Its Cool While OpenAI Loses Its Purpose",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/newsletters/2025-09-14/apple-loses-its-cool-with-iphone-air-while-openai-loses-its-purpose",
+        "published_at": "2025-09-14T12:00:23Z"
       },
       {
-        "title": "Marilyn Diamond, Who Wrote a Blockbuster Diet Book, Dies at 81",
-        "source": "New York Times (Health)",
-        "link": "https://www.nytimes.com/2025/09/12/books/marilyn-diamond-dead.html",
-        "published_at": "2025-09-12T22:37:48Z"
+        "title": "How Well Do You Know Your Famous Architects? Take Our Quiz",
+        "source": "Wall Street Journal (Real Estate)",
+        "link": "https://www.wsj.com/real-estate/how-well-do-you-know-your-famous-architects-take-our-quiz-8dfaa82b?mod=LatestNewsRealEstate",
+        "published_at": "2025-09-14T13:00:00Z"
       }
     ]
   },
-  "total_days": 4,
+  "total_days": 5,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-13"
+    "end": "2025-09-14"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 15,
-      "average": 39.25,
-      "total": 157
+      "latest": 5,
+      "average": 32.4,
+      "total": 162
     },
     "household": {
-      "latest": 13,
-      "average": 15.5,
-      "total": 62
+      "latest": 10,
+      "average": 14.4,
+      "total": 72
     },
     "trade": {
-      "latest": 12,
-      "average": 30.5,
-      "total": 122
+      "latest": 17,
+      "average": 27.8,
+      "total": 139
     },
     "corporate_earnings": {
-      "latest": 11,
-      "average": 14.0,
-      "total": 56
+      "latest": 2,
+      "average": 11.6,
+      "total": 58
     },
     "fiscal_policy": {
       "latest": 1,
-      "average": 6.25,
-      "total": 25
+      "average": 5.2,
+      "total": 26
     },
     "monetary_policy": {
-      "latest": 5,
-      "average": 13.0,
-      "total": 52
+      "latest": 1,
+      "average": 10.6,
+      "total": 53
     },
     "health_care": {
       "latest": 1,
-      "average": 3.5,
-      "total": 14
+      "average": 3.0,
+      "total": 15
     },
     "national_security": {
-      "latest": 2,
-      "average": 9.75,
-      "total": 39
+      "latest": 3,
+      "average": 8.4,
+      "total": 42
     },
     "regulation": {
       "latest": 2,
-      "average": 3.5,
-      "total": 14
+      "average": 3.2,
+      "total": 16
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
@@ -152,13 +147,13 @@
     },
     "entitlement_programs": {
       "latest": 0,
-      "average": 1.75,
+      "average": 1.4,
       "total": 7
     },
     "policy": {
-      "latest": 3,
-      "average": 6.5,
-      "total": 26
+      "latest": 1,
+      "average": 5.4,
+      "total": 27
     }
   }
 }
