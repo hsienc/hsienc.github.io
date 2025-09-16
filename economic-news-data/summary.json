@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-15T08:02:08.455092",
+  "last_updated": "2025-09-16T08:14:19.721562",
   "latest_scrape": {
-    "date": "2025-09-15",
-    "total_headlines": 442,
+    "date": "2025-09-16",
+    "total_headlines": 540,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -62,105 +62,105 @@
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.281,
+    "relevance_score": 0.333,
     "sample_headlines": [
       {
-        "title": "Delta flight makes emergency landing in Miami after bird strike",
-        "source": "CBS (US News)",
-        "link": "https://www.cbsnews.com/news/delta-flight-makes-emergency-landing-in-miami-after-bird-strike/",
-        "published_at": "2025-09-14T18:24:23Z"
+        "title": "Lina Hidalgo Will Not Run for Re-election in Texas",
+        "source": "New York Times (US)",
+        "link": "https://www.nytimes.com/2025/09/15/us/politics/lina-hidalgo-texas-houston.html",
+        "published_at": "2025-09-16T07:10:45Z"
       },
       {
-        "title": "Could China Follow the Fed With Rate Cuts?",
-        "source": "Bloomberg (Economics)",
-        "link": "https://www.bloomberg.com/news/newsletters/2025-09-15/could-china-follow-the-fed-with-rate-cuts",
-        "published_at": "2025-09-15T11:00:25Z"
+        "title": "This Podcast Is 11 Months Old. It Just Hired a President to Manage Ad Revenue.",
+        "source": "Wall Street Journal (US Business)",
+        "link": "https://www.wsj.com/articles/this-podcast-is-11-months-old-it-just-hired-a-president-to-manage-ad-revenue-6d4551fc?mod=pls_whats_news_us_business_f",
+        "published_at": "2025-09-15T16:00:00Z"
       },
       {
-        "title": "Read full episode transcripts of \"Face the Nation with Margaret Brennan\" from 2025",
-        "source": "CBS (Politics)",
-        "link": "https://www.cbsnews.com/face-the-nation/transcripts/",
-        "published_at": "2025-09-14T19:50:08Z"
+        "title": "US judge won't intervene in Trump administration's deportations of West Africans to Ghana",
+        "source": "ABC (US News)",
+        "link": "https://abcnews.go.com/US/wireStory/us-judge-intervene-trump-administrations-deportations-west-africans-125612913",
+        "published_at": "2025-09-16T09:02:22Z"
       },
       {
-        "title": "An AI 'house of cards': Worries of a bubble grow after Oracle's rally on OpenAI deal",
-        "source": "CNBC (World News)",
-        "link": "https://www.cnbc.com/2025/09/14/an-ai-house-of-cards-worries-of-a-bubble-grow-after-oracles-rally-on-open-ai-deal.html",
-        "published_at": "2025-09-14T18:19:07Z"
+        "title": "Novo Nordisk's Wegovy Helps Suppress Thoughts About Food, Study Suggests",
+        "source": "Wall Street Journal (Health)",
+        "link": "https://www.wsj.com/health/pharma/novo-nordisks-wegovy-helps-suppress-thoughts-about-food-study-suggests-5e48b1a1",
+        "published_at": "2025-09-16T06:57:00Z"
       },
       {
-        "title": "Utah Governor Blasts 'Evil' Social Media After Kirk Killing",
-        "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-14/utah-governor-blasts-evil-social-media-after-kirk-s-killing",
-        "published_at": "2025-09-14T13:18:27Z"
+        "title": "Israel-Gaza live updates: 'Gaza is burning,' Israel defense minister says",
+        "source": "ABC (Top Stories)",
+        "link": "https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=125613581",
+        "published_at": "2025-09-16T12:20:40Z"
       }
     ]
   },
-  "total_days": 6,
+  "total_days": 7,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-15"
+    "end": "2025-09-16"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 39,
-      "average": 33.5,
-      "total": 201
+      "latest": 33,
+      "average": 33.42857142857143,
+      "total": 234
     },
     "household": {
-      "latest": 10,
-      "average": 13.666666666666666,
-      "total": 82
+      "latest": 37,
+      "average": 17.0,
+      "total": 119
     },
     "trade": {
-      "latest": 28,
-      "average": 27.833333333333332,
-      "total": 167
+      "latest": 34,
+      "average": 28.714285714285715,
+      "total": 201
     },
     "corporate_earnings": {
-      "latest": 20,
-      "average": 13.0,
-      "total": 78
+      "latest": 29,
+      "average": 15.285714285714286,
+      "total": 107
     },
     "fiscal_policy": {
-      "latest": 1,
-      "average": 4.5,
-      "total": 27
+      "latest": 5,
+      "average": 4.571428571428571,
+      "total": 32
     },
     "monetary_policy": {
-      "latest": 11,
-      "average": 10.666666666666666,
-      "total": 64
+      "latest": 19,
+      "average": 11.857142857142858,
+      "total": 83
     },
     "health_care": {
-      "latest": 0,
-      "average": 2.5,
-      "total": 15
+      "latest": 1,
+      "average": 2.2857142857142856,
+      "total": 16
     },
     "national_security": {
-      "latest": 8,
-      "average": 8.333333333333334,
-      "total": 50
+      "latest": 9,
+      "average": 8.428571428571429,
+      "total": 59
     },
     "regulation": {
-      "latest": 4,
-      "average": 3.3333333333333335,
-      "total": 20
+      "latest": 6,
+      "average": 3.7142857142857144,
+      "total": 26
     },
     "sovereign_debt_currency_crisis": {
-      "latest": 0,
-      "average": 0.0,
-      "total": 0
+      "latest": 1,
+      "average": 0.14285714285714285,
+      "total": 1
     },
     "entitlement_programs": {
       "latest": 0,
-      "average": 1.1666666666666667,
+      "average": 1.0,
       "total": 7
     },
     "policy": {
-      "latest": 3,
-      "average": 5.0,
-      "total": 30
+      "latest": 6,
+      "average": 5.142857142857143,
+      "total": 36
     }
   }
 }
