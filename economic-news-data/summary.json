@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-16T08:14:19.721562",
+  "last_updated": "2025-09-17T08:02:40.014051",
   "latest_scrape": {
-    "date": "2025-09-16",
-    "total_headlines": 540,
+    "date": "2025-09-17",
+    "total_headlines": 619,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -62,105 +62,105 @@
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.333,
+    "relevance_score": 0.302,
     "sample_headlines": [
       {
-        "title": "Lina Hidalgo Will Not Run for Re-election in Texas",
-        "source": "New York Times (US)",
-        "link": "https://www.nytimes.com/2025/09/15/us/politics/lina-hidalgo-texas-houston.html",
-        "published_at": "2025-09-16T07:10:45Z"
-      },
-      {
-        "title": "This Podcast Is 11 Months Old. It Just Hired a President to Manage Ad Revenue.",
-        "source": "Wall Street Journal (US Business)",
-        "link": "https://www.wsj.com/articles/this-podcast-is-11-months-old-it-just-hired-a-president-to-manage-ad-revenue-6d4551fc?mod=pls_whats_news_us_business_f",
-        "published_at": "2025-09-15T16:00:00Z"
-      },
-      {
-        "title": "US judge won't intervene in Trump administration's deportations of West Africans to Ghana",
-        "source": "ABC (US News)",
-        "link": "https://abcnews.go.com/US/wireStory/us-judge-intervene-trump-administrations-deportations-west-africans-125612913",
-        "published_at": "2025-09-16T09:02:22Z"
-      },
-      {
-        "title": "Novo Nordisk's Wegovy Helps Suppress Thoughts About Food, Study Suggests",
-        "source": "Wall Street Journal (Health)",
-        "link": "https://www.wsj.com/health/pharma/novo-nordisks-wegovy-helps-suppress-thoughts-about-food-study-suggests-5e48b1a1",
-        "published_at": "2025-09-16T06:57:00Z"
-      },
-      {
-        "title": "Israel-Gaza live updates: 'Gaza is burning,' Israel defense minister says",
+        "title": "WATCH: Alleged Charlie Kirk shooter makes 1st court appearance",
         "source": "ABC (Top Stories)",
-        "link": "https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=125613581",
-        "published_at": "2025-09-16T12:20:40Z"
+        "link": "https://abcnews.go.com/US/video/alleged-charlie-kirk-shooter-makes-1st-court-appearance-125642659",
+        "published_at": "2025-09-16T22:46:25Z"
+      },
+      {
+        "title": "Sticky UK inflation unlikely to move the needle for Bank of England",
+        "source": "CNBC (Economy)",
+        "link": "https://www.cnbc.com/2025/09/17/uk-inflation-data-for-august-2025.html",
+        "published_at": "2025-09-17T08:13:40Z"
+      },
+      {
+        "title": "Opinion | Censorship Hurts Our Brains-Literally",
+        "source": "Wall Street Journal (US News)",
+        "link": "https://www.wsj.com/opinion/censorship-hurts-our-brains-d3b9ace5",
+        "published_at": "2025-09-16T21:07:00Z"
+      },
+      {
+        "title": "9/16: CBS Evening News Plus",
+        "source": "CBS (US News)",
+        "link": "https://www.cbsnews.com/video/091625-cbs-evening-news-plus/",
+        "published_at": "2025-09-17T02:55:32Z"
+      },
+      {
+        "title": "Fed Rate Cut to Mark Pivot Toward Job Market",
+        "source": "Bloomberg (Economics)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-16/fed-rate-cut-to-mark-pivot-toward-job-market-decision-day-guide",
+        "published_at": "2025-09-16T23:00:00Z"
       }
     ]
   },
-  "total_days": 7,
+  "total_days": 8,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-16"
+    "end": "2025-09-17"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 33,
-      "average": 33.42857142857143,
-      "total": 234
+      "latest": 41,
+      "average": 34.375,
+      "total": 275
     },
     "household": {
-      "latest": 37,
-      "average": 17.0,
-      "total": 119
+      "latest": 25,
+      "average": 18.0,
+      "total": 144
     },
     "trade": {
-      "latest": 34,
-      "average": 28.714285714285715,
-      "total": 201
+      "latest": 42,
+      "average": 30.375,
+      "total": 243
     },
     "corporate_earnings": {
-      "latest": 29,
-      "average": 15.285714285714286,
-      "total": 107
+      "latest": 14,
+      "average": 15.125,
+      "total": 121
     },
     "fiscal_policy": {
-      "latest": 5,
-      "average": 4.571428571428571,
-      "total": 32
+      "latest": 7,
+      "average": 4.875,
+      "total": 39
     },
     "monetary_policy": {
-      "latest": 19,
-      "average": 11.857142857142858,
-      "total": 83
+      "latest": 25,
+      "average": 13.5,
+      "total": 108
     },
     "health_care": {
-      "latest": 1,
-      "average": 2.2857142857142856,
-      "total": 16
+      "latest": 2,
+      "average": 2.25,
+      "total": 18
     },
     "national_security": {
-      "latest": 9,
-      "average": 8.428571428571429,
-      "total": 59
+      "latest": 15,
+      "average": 9.25,
+      "total": 74
     },
     "regulation": {
-      "latest": 6,
-      "average": 3.7142857142857144,
-      "total": 26
+      "latest": 2,
+      "average": 3.5,
+      "total": 28
     },
     "sovereign_debt_currency_crisis": {
-      "latest": 1,
-      "average": 0.14285714285714285,
+      "latest": 0,
+      "average": 0.125,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 0,
-      "average": 1.0,
-      "total": 7
+      "latest": 2,
+      "average": 1.125,
+      "total": 9
     },
     "policy": {
-      "latest": 6,
-      "average": 5.142857142857143,
-      "total": 36
+      "latest": 12,
+      "average": 6.0,
+      "total": 48
     }
   }
 }
