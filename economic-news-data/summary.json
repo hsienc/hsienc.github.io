@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-18T08:28:27.806295",
+  "last_updated": "2025-09-19T09:19:20.788247",
   "latest_scrape": {
-    "date": "2025-09-18",
-    "total_headlines": 701,
+    "date": "2025-09-19",
+    "total_headlines": 644,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -64,6 +64,7 @@
       "Fox Business (Economy)",
       "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
+      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
@@ -71,111 +72,111 @@
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.322,
+    "relevance_score": 0.29,
     "sample_headlines": [
       {
-        "title": "Whitmer silent on Muslim mayor telling resident he's 'not welcome' for slam on terrorist sympathizer",
-        "source": "Fox News (Politics)",
-        "link": "https://www.foxnews.com/politics/whitmer-silent-muslim-mayor-telling-resident-hes-not-welcome-slam-terrorist-sympathizer",
-        "published_at": "2025-09-17T18:47:40Z"
+        "title": "Trump administration considers raising retirement age as Social Security faces insolvency",
+        "source": "Fox Business (Latest)",
+        "link": "https://www.foxbusiness.com/media/trump-administration-considers-raising-retirement-age-social-security-faces-insolvency",
+        "published_at": "2025-09-18T18:10:36Z"
       },
       {
-        "title": "Amazon's Finance Teams Are Relying More on AI-and Not Just for the Simple Stuff",
-        "source": "Wall Street Journal (Tech)",
-        "link": "https://www.wsj.com/articles/amazons-finance-teams-are-relying-more-on-aiand-not-just-for-the-simple-stuff-21313906?mod=rss_Technology",
-        "published_at": "2025-09-18T13:00:00Z"
+        "title": "Trump hints at 'good news' coming on the Russia-Ukraine war",
+        "source": "CNBC (World News)",
+        "link": "https://www.cnbc.com/2025/09/18/trump-putin-russia-ukraine-news.html",
+        "published_at": "2025-09-18T19:11:57Z"
       },
       {
-        "title": "Johnson says Democrats will 'lose that battle' if shutdown hinges on ACA subsidies",
-        "source": "CNBC (US News)",
-        "link": "https://www.cnbc.com/2025/09/17/government-shutdown-trump-health-care.html",
-        "published_at": "2025-09-17T21:14:02Z"
-      },
-      {
-        "title": "Stop Medicare scams before they stop you",
+        "title": "The new robot that could make chores a thing of the past",
         "source": "Fox News (Technology)",
-        "link": "https://www.foxnews.com/tech/stop-medicare-scams-before-stop-you",
-        "published_at": "2025-09-17T17:10:40Z"
+        "link": "https://www.foxnews.com/tech/new-robot-could-make-chores-thing-past",
+        "published_at": "2025-09-18T16:36:58Z"
       },
       {
-        "title": "Chrysler to recall nearly 164,000 Jeep vehicles over door trim issue",
-        "source": "CBS (MoneyWatch)",
-        "link": "https://www.cbsnews.com/news/chrysler-stellantis-recall-jeep-wagoneer-door-trim/",
-        "published_at": "2025-09-17T19:04:19Z"
+        "title": "Penn Medicine nurse leans on art as she weaves her way through life, health care",
+        "source": "CBS (Health)",
+        "link": "https://www.cbsnews.com/philadelphia/news/penn-medicine-nurse/",
+        "published_at": "2025-09-18T17:04:42Z"
+      },
+      {
+        "title": "Political parties trade blame for potential shutdown",
+        "source": "ABC (Politics)",
+        "link": "https://abcnews.go.com/Politics/wireStory/house-voting-funding-patch-parties-trade-blame-potential-125724671",
+        "published_at": "2025-09-19T04:54:57Z"
       }
     ]
   },
-  "total_days": 9,
+  "total_days": 10,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-18"
+    "end": "2025-09-19"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 36,
-      "average": 34.55555555555556,
-      "total": 311
+      "latest": 28,
+      "average": 33.9,
+      "total": 339
     },
     "household": {
-      "latest": 49,
-      "average": 21.444444444444443,
-      "total": 193
+      "latest": 35,
+      "average": 22.8,
+      "total": 228
     },
     "trade": {
-      "latest": 16,
-      "average": 28.77777777777778,
-      "total": 259
+      "latest": 30,
+      "average": 28.9,
+      "total": 289
     },
     "corporate_earnings": {
-      "latest": 28,
-      "average": 16.555555555555557,
-      "total": 149
+      "latest": 26,
+      "average": 17.5,
+      "total": 175
     },
     "fiscal_policy": {
-      "latest": 1,
-      "average": 4.444444444444445,
-      "total": 40
+      "latest": 4,
+      "average": 4.4,
+      "total": 44
     },
     "monetary_policy": {
-      "latest": 62,
-      "average": 18.88888888888889,
-      "total": 170
+      "latest": 19,
+      "average": 18.9,
+      "total": 189
     },
     "health_care": {
-      "latest": 8,
-      "average": 2.888888888888889,
-      "total": 26
+      "latest": 3,
+      "average": 2.9,
+      "total": 29
     },
     "national_security": {
-      "latest": 4,
-      "average": 8.666666666666666,
-      "total": 78
+      "latest": 15,
+      "average": 9.3,
+      "total": 93
     },
     "regulation": {
-      "latest": 5,
-      "average": 3.6666666666666665,
-      "total": 33
+      "latest": 7,
+      "average": 4.0,
+      "total": 40
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.1111111111111111,
+      "average": 0.1,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 3,
-      "average": 1.3333333333333333,
-      "total": 12
+      "latest": 4,
+      "average": 1.6,
+      "total": 16
     },
     "policy": {
-      "latest": 14,
-      "average": 6.888888888888889,
-      "total": 62
+      "latest": 16,
+      "average": 7.8,
+      "total": 78
     }
   }
 }
