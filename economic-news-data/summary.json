@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-19T09:19:20.788247",
+  "last_updated": "2025-09-20T08:25:53.191752",
   "latest_scrape": {
-    "date": "2025-09-19",
-    "total_headlines": 644,
+    "date": "2025-09-20",
+    "total_headlines": 527,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -35,7 +35,6 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Health)",
       "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
@@ -45,12 +44,10 @@
       "ABC (Business)",
       "ABC (Technology)",
       "ABC (Health)",
-      "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
-      "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
       "Fox News (Latest)",
@@ -61,122 +58,120 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
-      "Fox Business (Economy)",
       "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
-      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
+      "Fox Business (Latest, Lifestyle, Markets, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
+      "New York Times (Business, Energy & Environment, Health, Politics, Technology, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.29,
+    "relevance_score": 0.241,
     "sample_headlines": [
       {
-        "title": "Trump administration considers raising retirement age as Social Security faces insolvency",
-        "source": "Fox Business (Latest)",
-        "link": "https://www.foxbusiness.com/media/trump-administration-considers-raising-retirement-age-social-security-faces-insolvency",
-        "published_at": "2025-09-18T18:10:36Z"
+        "title": "Behind the New York Times' process for choosing the best restaurants in the nation",
+        "source": "CBS (US News)",
+        "link": "https://www.cbsnews.com/video/behind-new-york-times-process-for-choosing-the-best-restaurants-in-the-nation/",
+        "published_at": "2025-09-20T01:45:00Z"
       },
       {
-        "title": "Trump hints at 'good news' coming on the Russia-Ukraine war",
-        "source": "CNBC (World News)",
-        "link": "https://www.cnbc.com/2025/09/18/trump-putin-russia-ukraine-news.html",
-        "published_at": "2025-09-18T19:11:57Z"
+        "title": "Trump to impose $100,000 fee per year for H-1B visas, in likely blow to tech",
+        "source": "CNBC (Top News)",
+        "link": "https://www.cnbc.com/2025/09/19/trump-overhaul-h-1b-visa.html",
+        "published_at": "2025-09-19T22:56:44Z"
       },
       {
-        "title": "The new robot that could make chores a thing of the past",
-        "source": "Fox News (Technology)",
-        "link": "https://www.foxnews.com/tech/new-robot-could-make-chores-thing-past",
-        "published_at": "2025-09-18T16:36:58Z"
+        "title": "Holding ABC's Jimmy Kimmel accountable isn't 'cancel culture' - it's basic fairness",
+        "source": "Fox News (Opinion)",
+        "link": "https://www.foxnews.com/opinion/holding-abcs-jimmy-kimmel-accountable-isnt-cancel-culture-its-basic-fairness",
+        "published_at": "2025-09-19T20:20:13Z"
       },
       {
-        "title": "Penn Medicine nurse leans on art as she weaves her way through life, health care",
-        "source": "CBS (Health)",
-        "link": "https://www.cbsnews.com/philadelphia/news/penn-medicine-nurse/",
-        "published_at": "2025-09-18T17:04:42Z"
+        "title": "Inside the Race to Launch GLP-1 Weight-Loss Pills",
+        "source": "Wall Street Journal (Tech)",
+        "link": "https://www.wsj.com/tech/ai/inside-the-race-to-launch-glp-1-weight-loss-pills-28957f1e?mod=rss_Technology",
+        "published_at": "2025-09-19T14:34:00Z"
       },
       {
-        "title": "Political parties trade blame for potential shutdown",
-        "source": "ABC (Politics)",
-        "link": "https://abcnews.go.com/Politics/wireStory/house-voting-funding-patch-parties-trade-blame-potential-125724671",
-        "published_at": "2025-09-19T04:54:57Z"
+        "title": "A primer on what the high seas treaty is and how it will work",
+        "source": "ABC (Technology)",
+        "link": "https://abcnews.go.com/Technology/wireStory/primer-high-seas-treaty-work-125747327",
+        "published_at": "2025-09-19T19:42:26Z"
       }
     ]
   },
-  "total_days": 10,
+  "total_days": 11,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-19"
+    "end": "2025-09-20"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 28,
-      "average": 33.9,
-      "total": 339
+      "latest": 30,
+      "average": 33.54545454545455,
+      "total": 369
     },
     "household": {
-      "latest": 35,
-      "average": 22.8,
-      "total": 228
+      "latest": 14,
+      "average": 22.0,
+      "total": 242
     },
     "trade": {
-      "latest": 30,
-      "average": 28.9,
-      "total": 289
+      "latest": 14,
+      "average": 27.545454545454547,
+      "total": 303
     },
     "corporate_earnings": {
-      "latest": 26,
-      "average": 17.5,
-      "total": 175
+      "latest": 18,
+      "average": 17.545454545454547,
+      "total": 193
     },
     "fiscal_policy": {
-      "latest": 4,
-      "average": 4.4,
-      "total": 44
+      "latest": 8,
+      "average": 4.7272727272727275,
+      "total": 52
     },
     "monetary_policy": {
-      "latest": 19,
-      "average": 18.9,
-      "total": 189
+      "latest": 18,
+      "average": 18.818181818181817,
+      "total": 207
     },
     "health_care": {
-      "latest": 3,
-      "average": 2.9,
-      "total": 29
+      "latest": 2,
+      "average": 2.8181818181818183,
+      "total": 31
     },
     "national_security": {
-      "latest": 15,
-      "average": 9.3,
-      "total": 93
+      "latest": 2,
+      "average": 8.636363636363637,
+      "total": 95
     },
     "regulation": {
-      "latest": 7,
-      "average": 4.0,
-      "total": 40
+      "latest": 3,
+      "average": 3.909090909090909,
+      "total": 43
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.1,
+      "average": 0.09090909090909091,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 4,
-      "average": 1.6,
-      "total": 16
+      "latest": 1,
+      "average": 1.5454545454545454,
+      "total": 17
     },
     "policy": {
-      "latest": 16,
-      "average": 7.8,
-      "total": 78
+      "latest": 17,
+      "average": 8.636363636363637,
+      "total": 95
     }
   }
 }
