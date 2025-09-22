@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-21T09:12:03.577987",
+  "last_updated": "2025-09-22T08:33:18.921513",
   "latest_scrape": {
-    "date": "2025-09-21",
-    "total_headlines": 299,
+    "date": "2025-09-22",
+    "total_headlines": 499,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -10,20 +10,18 @@
       "Bloomberg (Business)",
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
-      "CNBC (Economy)",
       "CNBC (Finance)",
       "CNBC (Business News)",
-      "CNBC (Wealth)",
       "CNBC (Top News)",
       "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
-      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
       "Wall Street Journal (Health)",
+      "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
       "Wall Street Journal (World News)",
@@ -34,19 +32,19 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
+      "CBS (Health)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
       "ABC (International News)",
       "ABC (Business)",
-      "ABC (Health)",
+      "ABC (Technology)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
       "New York Times (Technology)",
-      "New York Times (Health)",
       "Fox News (Latest)",
       "Fox News (U.S.)",
       "Fox News (World)",
@@ -55,120 +53,120 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
+      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
-      "Fox Business (College)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
-      "ABC (Business, Health, International News, Top Stories, US News)",
+      "ABC (Business, International News, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (College, Latest, Lifestyle, Videos)",
+      "CBS (Health, MoneyWatch, Politics, Top News, US News, World News)",
+      "CNBC (Business News, Earnings, Finance, Top News, US News, World News)",
+      "Fox Business (Latest, Lifestyle, Markets, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Energy & Environment, Health, Politics, Technology, US, World)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Tech, US Business, US News, World News)",
+      "New York Times (Business, Energy & Environment, Politics, Technology, US, World)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.194,
+    "relevance_score": 0.166,
     "sample_headlines": [
       {
-        "title": "Massive WWII bomb forces overnight evacuation of 6,000 residents from homes",
-        "source": "Fox News (World)",
-        "link": "https://www.foxnews.com/world/massive-wwii-bomb-forces-overnight-evacuation-6000-residents-from-homes",
-        "published_at": "2025-09-20T20:55:15Z"
+        "title": "Analysis: NY Times writer Jim Rutenberg on the future of free speech in America",
+        "source": "CBS (Politics)",
+        "link": "https://www.cbsnews.com/video/analysis-ny-times-writer-jim-rutenberg-on-the-future-of-free-speech-in-america/",
+        "published_at": "2025-09-21T14:10:00Z"
       },
       {
-        "title": "Air Traffic Returns to Normal at Dallas-Area Airports After Outage, FAA Says",
-        "source": "Wall Street Journal (US Business)",
-        "link": "https://www.wsj.com/business/airlines/flights-disrupted-at-dallas-airports-due-to-equipment-outage-20f8ee86?mod=pls_whats_news_us_business_f",
-        "published_at": "2025-09-20T21:18:00Z"
+        "title": "Taiwan Screw Suppliers Feel Impact of Trump's Tariffs",
+        "source": "New York Times (Business)",
+        "link": "https://www.nytimes.com/video/business/100000010368290/taiwan-manufacturing-trump-tariffs-screws.html",
+        "published_at": "2025-09-22T11:15:07Z"
       },
       {
-        "title": "Arnault Says Wealth Tax Advocate Seeks to Destroy Economy",
-        "source": "Bloomberg (Economics)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-20/arnault-says-wealth-tax-advocate-seeks-to-destroy-economy",
-        "published_at": "2025-09-20T18:47:34Z"
-      },
-      {
-        "title": "How AI browsers open the door to new scams",
+        "title": "5 e-commerce tech terms every shopper should know",
         "source": "Fox News (Technology)",
-        "link": "https://www.foxnews.com/tech/how-ai-browsers-open-door-new-scams",
-        "published_at": "2025-09-20T15:00:24Z"
+        "link": "https://www.foxnews.com/tech/5-e-commerce-tech-terms-every-shopper-should-know",
+        "published_at": "2025-09-21T14:35:07Z"
       },
       {
-        "title": "Tech Companies Warn H-1B Visa Holders to Avoid Foreign Travel",
-        "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-20/microsoft-others-warn-h-1b-visa-holders-to-avoid-foreign-travel",
-        "published_at": "2025-09-20T18:19:21Z"
+        "title": "Stock Market Today: Dow Futures Fall; Gold Prices Hit Record",
+        "source": "Wall Street Journal (Markets)",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2025?mod=rss_markets_main",
+        "published_at": "2025-09-22T08:09:44Z"
+      },
+      {
+        "title": "Transcript: Gary Cohn on \"Face the Nation with Margaret Brennan,\" Sept. 21, 2025",
+        "source": "CBS (World News)",
+        "link": "https://www.cbsnews.com/news/gary-cohn-ibm-economic-council-face-the-nation-09-21-2025/",
+        "published_at": "2025-09-21T16:14:00Z"
       }
     ]
   },
-  "total_days": 12,
+  "total_days": 13,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-21"
+    "end": "2025-09-22"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 12,
-      "average": 31.75,
-      "total": 381
+      "latest": 24,
+      "average": 31.153846153846153,
+      "total": 405
     },
     "household": {
-      "latest": 14,
-      "average": 21.333333333333332,
-      "total": 256
+      "latest": 7,
+      "average": 20.23076923076923,
+      "total": 263
     },
     "trade": {
-      "latest": 8,
-      "average": 25.916666666666668,
-      "total": 311
+      "latest": 22,
+      "average": 25.615384615384617,
+      "total": 333
     },
     "corporate_earnings": {
-      "latest": 2,
-      "average": 16.25,
-      "total": 195
+      "latest": 6,
+      "average": 15.461538461538462,
+      "total": 201
     },
     "fiscal_policy": {
-      "latest": 4,
-      "average": 4.666666666666667,
-      "total": 56
+      "latest": 3,
+      "average": 4.538461538461538,
+      "total": 59
     },
     "monetary_policy": {
-      "latest": 8,
-      "average": 17.916666666666668,
-      "total": 215
+      "latest": 6,
+      "average": 17.0,
+      "total": 221
     },
     "health_care": {
-      "latest": 1,
-      "average": 2.6666666666666665,
+      "latest": 0,
+      "average": 2.4615384615384617,
       "total": 32
     },
     "national_security": {
-      "latest": 1,
-      "average": 8.0,
-      "total": 96
+      "latest": 4,
+      "average": 7.6923076923076925,
+      "total": 100
     },
     "regulation": {
-      "latest": 1,
-      "average": 3.6666666666666665,
-      "total": 44
+      "latest": 5,
+      "average": 3.769230769230769,
+      "total": 49
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.08333333333333333,
+      "average": 0.07692307692307693,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 4,
-      "average": 1.75,
+      "latest": 0,
+      "average": 1.6153846153846154,
       "total": 21
     },
     "policy": {
-      "latest": 3,
-      "average": 8.166666666666666,
-      "total": 98
+      "latest": 6,
+      "average": 8.0,
+      "total": 104
     }
   }
 }
