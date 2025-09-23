@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-22T08:33:18.921513",
+  "last_updated": "2025-09-23T09:03:32.550582",
   "latest_scrape": {
-    "date": "2025-09-22",
-    "total_headlines": 499,
+    "date": "2025-09-23",
+    "total_headlines": 709,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -10,12 +10,15 @@
       "Bloomberg (Business)",
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
+      "CNBC (Economy)",
       "CNBC (Finance)",
       "CNBC (Business News)",
+      "CNBC (Wealth)",
       "CNBC (Top News)",
       "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
+      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
@@ -33,18 +36,24 @@
       "CBS (World News)",
       "CBS (MoneyWatch)",
       "CBS (Health)",
+      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
       "ABC (International News)",
+      "ABC (Politics)",
       "ABC (Business)",
       "ABC (Technology)",
+      "ABC (Health)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
+      "New York Times (Small Business)",
+      "New York Times (Economy)",
       "New York Times (Technology)",
+      "New York Times (Health)",
       "Fox News (Latest)",
       "Fox News (U.S.)",
       "Fox News (World)",
@@ -53,120 +62,122 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
+      "Fox Business (Economy)",
       "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
+      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
-      "ABC (Business, International News, Technology, Top Stories, US News)",
+      "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (Health, MoneyWatch, Politics, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Finance, Top News, US News, World News)",
-      "Fox Business (Latest, Lifestyle, Markets, Videos)",
+      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Energy & Environment, Politics, Technology, US, World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.166,
+    "relevance_score": 0.206,
     "sample_headlines": [
       {
-        "title": "Analysis: NY Times writer Jim Rutenberg on the future of free speech in America",
-        "source": "CBS (Politics)",
-        "link": "https://www.cbsnews.com/video/analysis-ny-times-writer-jim-rutenberg-on-the-future-of-free-speech-in-america/",
-        "published_at": "2025-09-21T14:10:00Z"
+        "title": "Nationwide health alert issued for Trader Joe's turkey wraps over listeria concerns",
+        "source": "Fox Business (Latest)",
+        "link": "https://www.foxbusiness.com/lifestyle/nationwide-health-alert-issued-trader-joes-turkey-wraps-over-listeria-concerns",
+        "published_at": "2025-09-22T15:43:21Z"
       },
       {
-        "title": "Taiwan Screw Suppliers Feel Impact of Trump's Tariffs",
-        "source": "New York Times (Business)",
-        "link": "https://www.nytimes.com/video/business/100000010368290/taiwan-manufacturing-trump-tariffs-screws.html",
-        "published_at": "2025-09-22T11:15:07Z"
+        "title": "Darfur cholera cases rising at an 'alarming' rate as death toll in Sudan tops 3,000, says WHO",
+        "source": "ABC (Health)",
+        "link": "https://abcnews.go.com/Health/wireStory/darfur-cholera-cases-rising-alarming-rate-death-toll-125847813",
+        "published_at": "2025-09-23T13:02:02Z"
       },
       {
-        "title": "5 e-commerce tech terms every shopper should know",
-        "source": "Fox News (Technology)",
-        "link": "https://www.foxnews.com/tech/5-e-commerce-tech-terms-every-shopper-should-know",
-        "published_at": "2025-09-21T14:35:07Z"
+        "title": "These are the red flags to watch out for when picking a financial advisor, experts say",
+        "source": "CNBC (Top News)",
+        "link": "https://www.cnbc.com/2025/09/22/red-flags-to-watch-out-for-when-picking-a-financial-advisor.html",
+        "published_at": "2025-09-22T17:48:34Z"
       },
       {
-        "title": "Stock Market Today: Dow Futures Fall; Gold Prices Hit Record",
-        "source": "Wall Street Journal (Markets)",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2025?mod=rss_markets_main",
-        "published_at": "2025-09-22T08:09:44Z"
+        "title": "Europe's Security Demands a Lot More Securities",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/articles/2025-09-23/europe-s-security-demands-a-lot-more-securities",
+        "published_at": "2025-09-23T04:00:29Z"
       },
       {
-        "title": "Transcript: Gary Cohn on \"Face the Nation with Margaret Brennan,\" Sept. 21, 2025",
-        "source": "CBS (World News)",
-        "link": "https://www.cbsnews.com/news/gary-cohn-ibm-economic-council-face-the-nation-09-21-2025/",
-        "published_at": "2025-09-21T16:14:00Z"
+        "title": "Russia's Crude Flows Hit 16-Month High on Rising Output, Attacks",
+        "source": "Bloomberg (Market News)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-23/russia-s-oil-exports-boosted-by-rising-production-and-refinery-attacks",
+        "published_at": "2025-09-23T12:49:53Z"
       }
     ]
   },
-  "total_days": 13,
+  "total_days": 14,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-22"
+    "end": "2025-09-23"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 24,
-      "average": 31.153846153846153,
-      "total": 405
+      "latest": 42,
+      "average": 31.928571428571427,
+      "total": 447
     },
     "household": {
-      "latest": 7,
-      "average": 20.23076923076923,
-      "total": 263
+      "latest": 9,
+      "average": 19.428571428571427,
+      "total": 272
     },
     "trade": {
-      "latest": 22,
-      "average": 25.615384615384617,
-      "total": 333
+      "latest": 27,
+      "average": 25.714285714285715,
+      "total": 360
     },
     "corporate_earnings": {
-      "latest": 6,
-      "average": 15.461538461538462,
-      "total": 201
+      "latest": 19,
+      "average": 15.714285714285714,
+      "total": 220
     },
     "fiscal_policy": {
-      "latest": 3,
-      "average": 4.538461538461538,
-      "total": 59
+      "latest": 9,
+      "average": 4.857142857142857,
+      "total": 68
     },
     "monetary_policy": {
-      "latest": 6,
-      "average": 17.0,
-      "total": 221
+      "latest": 12,
+      "average": 16.642857142857142,
+      "total": 233
     },
     "health_care": {
-      "latest": 0,
-      "average": 2.4615384615384617,
-      "total": 32
+      "latest": 5,
+      "average": 2.642857142857143,
+      "total": 37
     },
     "national_security": {
       "latest": 4,
-      "average": 7.6923076923076925,
-      "total": 100
+      "average": 7.428571428571429,
+      "total": 104
     },
     "regulation": {
-      "latest": 5,
-      "average": 3.769230769230769,
-      "total": 49
+      "latest": 10,
+      "average": 4.214285714285714,
+      "total": 59
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.07692307692307693,
+      "average": 0.07142857142857142,
       "total": 1
     },
     "entitlement_programs": {
       "latest": 0,
-      "average": 1.6153846153846154,
+      "average": 1.5,
       "total": 21
     },
     "policy": {
-      "latest": 6,
-      "average": 8.0,
-      "total": 104
+      "latest": 9,
+      "average": 8.071428571428571,
+      "total": 113
     }
   }
 }
