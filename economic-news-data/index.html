@@ -254,6 +254,7 @@
                     </div>
                     <p><strong>Relevance Score:</strong> ${data.latest_scrape.relevance_score.toFixed(3)}</p>
                     <p><strong>Total Days Tracked:</strong> ${data.total_days}</p>
+                    <p><strong>Total Headlines Collected:</strong> ${data.total_headlines_collected ? data.total_headlines_collected.toLocaleString() : 'N/A'}</p>
                     <p class="last-updated">Data updated: ${new Date(data.last_updated).toLocaleString()}</p>
                 `;
                 
