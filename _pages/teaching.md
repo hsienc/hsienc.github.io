@@ -10,8 +10,6 @@ Not teaching this academic year (2025-26)!
 
 <br>
 
-<br>
-
 ---
 
 ### Notes
@@ -31,7 +29,6 @@ Sets of notes that I find myself keep coming back to!
 - `CS 532` on "Kernel Regression and SVM" [<a href="/files/CS532_Kernel Regression and SVM.pdf" target="_blank">pdf</a>]
 
 - `CS 532` on "Neural Networks" [<a href="/files/CS532_Neural Networks.pdf" target="_blank">pdf</a>]
-
 
 
 
