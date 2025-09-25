@@ -5,7 +5,29 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 Not teaching this academic year (2025-26)!
+
+<br>
+
+<br>
+
+---
+
+### Notes
+
+Sets of notes that I find myself revisiting a lot!
+
+- "Consistency and Uniform Law of Large Numbers" [<a href="/files/ECON710_2_Lec2.pdf" target="_blank">pdf</a>]
+
+- "Consistency of GMM" [<a href="/files/ECON710_2_Lec3.pdf" target="_blank">pdf</a>]
+
+- "Asymptotic Normality of GMM" [<a href="/files/ECON710_2_Lec5.pdf" target="_blank">pdf</a>]
+
+- "Sample Selection Model" [<a href="/files/ECON710_2_Lec8.pdf" target="_blank">pdf</a>] 
+
+
+
 
 
 
