@@ -16,16 +16,21 @@ Not teaching this academic year (2025-26)!
 
 ### Notes
 
-Sets of notes that I find myself revisiting a lot!
+Sets of notes that I find myself keep coming back to!
 
-- "Consistency and Uniform Law of Large Numbers" [<a href="/files/ECON710_2_Lec2.pdf" target="_blank">pdf</a>]
+- `Econ 710` on "Consistency and Uniform Law of Large Numbers" [<a href="/files/ECON710_2_Lec2.pdf" target="_blank">pdf</a>]
 
-- "Consistency of GMM" [<a href="/files/ECON710_2_Lec3.pdf" target="_blank">pdf</a>]
+- `Econ 710` on "Consistency of GMM" [<a href="/files/ECON710_2_Lec3.pdf" target="_blank">pdf</a>]
 
-- "Asymptotic Normality of GMM" [<a href="/files/ECON710_2_Lec5.pdf" target="_blank">pdf</a>]
+- `Econ 710` on "Asymptotic Normality of GMM" [<a href="/files/ECON710_2_Lec5.pdf" target="_blank">pdf</a>]
 
-- "Sample Selection Model" [<a href="/files/ECON710_2_Lec8.pdf" target="_blank">pdf</a>] 
+- `Econ 710` on "Sample Selection Model" [<a href="/files/ECON710_2_Lec8.pdf" target="_blank">pdf</a>]
 
+- `CS 532` on "Proximal Gradient Descent and L1" [<a href="/files/CS532_Proximal GD and L1.pdf" target="_blank">pdf</a>]
+
+- `CS 532` on "Kernel Regression and SVM" [<a href="/files/CS532_Kernel Regression and SVM.pdf" target="_blank">pdf</a>]
+
+- `CS 532` on "Neural Networks" [<a href="/files/CS532_Neural Networks.pdf" target="_blank">pdf</a>]
 
 
 
