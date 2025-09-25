@@ -12,7 +12,7 @@ Not teaching this academic year (2025-26)!
 
 ---
 
-### Notes
+## Notes
 
 Sets of notes that I find myself keep coming back to!
 
