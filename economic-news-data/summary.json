@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-25T08:17:04.419513",
+  "last_updated": "2025-09-26T07:34:01.036029",
   "latest_scrape": {
-    "date": "2025-09-25",
-    "total_headlines": 697,
+    "date": "2025-09-26",
+    "total_headlines": 654,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -35,6 +35,8 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
+      "CBS (Health)",
+      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -60,121 +62,121 @@
       "Fox News (Opinion)",
       "Fox Business (Latest)",
       "Fox Business (Economy)",
-      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
+      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
+      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.23,
+    "relevance_score": 0.401,
     "sample_headlines": [
       {
-        "title": "WATCH: Social media car stunt challenges turn deadly",
-        "source": "ABC (Top Stories)",
-        "link": "https://abcnews.go.com/US/video/social-media-car-stunt-challenges-turn-deadly-125906016",
-        "published_at": "2025-09-24T23:26:29Z"
+        "title": "U.S. to impose tariffs on pharmaceutical drugs, furniture and heavy trucks",
+        "source": "CBS (Top News)",
+        "link": "https://www.cbsnews.com/news/tariff-pharmaceutical-drugs-kitchen-cabinets-furniture-heavy-trucks/",
+        "published_at": "2025-09-26T00:31:00Z"
       },
       {
-        "title": "The Office of Management and Budget told federal agencies to ready plans for permanent staff cuts if the government shuts down next week",
-        "source": "Wall Street Journal (Politics)",
-        "link": "https://www.wsj.com/politics/policy/white-house-to-pursue-mass-firingsif-government-shuts-down-ea61ae89",
-        "published_at": "2025-09-25T11:47:00Z"
+        "title": "A new Ebola outbreak in Congo kills dozens as health officials warn of lack of funds",
+        "source": "ABC (Health)",
+        "link": "https://abcnews.go.com/Health/wireStory/new-ebola-outbreak-congo-kills-dozens-health-officials-125936643",
+        "published_at": "2025-09-25T16:54:48Z"
       },
       {
-        "title": "Accenture's AI Push Sparks Growth And Boosts Dividend Payouts",
-        "source": "Yahoo News (Finance)",
-        "link": "https://finance.yahoo.com/news/accentures-ai-push-sparks-growth-130142809.html",
-        "published_at": "2025-09-25T13:01:42Z"
+        "title": "NASA Artemis II Astronauts Aim to Make Space Great for All",
+        "source": "New York Times (Politics)",
+        "link": "https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html",
+        "published_at": "2025-09-26T12:01:43Z"
       },
       {
-        "title": "Justice Department nearing decision on indictment of former FBI Director James Comey",
-        "source": "CBS (Politics)",
-        "link": "https://www.cbsnews.com/video/justice-department-nearing-decision-on-indictment-of-former-fbi-director-james-comey/",
-        "published_at": "2025-09-25T01:29:00Z"
+        "title": "Manhunt ignites in major US city after accused murderer walks free in 'monumental mistake': victim's mother",
+        "source": "Fox News (U.S.)",
+        "link": "https://www.foxnews.com/us/manhunt-ignites-in-major-us-city-after-accused-murderer-walks-free-in-monumental-mistake-victims-mother",
+        "published_at": "2025-09-25T16:50:41Z"
       },
       {
-        "title": "Newsom silent on anti-ICE rhetoric after Dallas shooting, despite urging nonviolence",
-        "source": "Fox News (Politics)",
-        "link": "https://www.foxnews.com/politics/newsom-silent-anti-ice-rhetoric-after-dallas-shooting-despite-urging-nonviolence",
-        "published_at": "2025-09-24T20:29:11Z"
+        "title": "Son of Lebanon's slain Hezbollah chief says his father's final days were filled with rage",
+        "source": "Yahoo News (Latest)",
+        "link": "https://www.yahoo.com/news/articles/son-lebanons-slain-hezbollah-chief-090354567.html",
+        "published_at": "2025-09-26T09:03:54Z"
       }
     ]
   },
-  "total_days": 16,
-  "total_headlines_collected": 8745,
+  "total_days": 17,
+  "total_headlines_collected": 9399,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-25"
+    "end": "2025-09-26"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 41,
-      "average": 32.75,
-      "total": 524
+      "latest": 39,
+      "average": 33.11764705882353,
+      "total": 563
     },
     "household": {
-      "latest": 25,
-      "average": 19.6875,
-      "total": 315
+      "latest": 35,
+      "average": 20.58823529411765,
+      "total": 350
     },
     "trade": {
-      "latest": 27,
-      "average": 26.0625,
-      "total": 417
+      "latest": 92,
+      "average": 29.941176470588236,
+      "total": 509
     },
     "corporate_earnings": {
-      "latest": 25,
-      "average": 16.3125,
-      "total": 261
+      "latest": 20,
+      "average": 16.529411764705884,
+      "total": 281
     },
     "fiscal_policy": {
-      "latest": 4,
-      "average": 4.875,
-      "total": 78
+      "latest": 6,
+      "average": 4.9411764705882355,
+      "total": 84
     },
     "monetary_policy": {
-      "latest": 10,
-      "average": 16.5625,
-      "total": 265
+      "latest": 12,
+      "average": 16.294117647058822,
+      "total": 277
     },
     "health_care": {
-      "latest": 1,
-      "average": 2.4375,
-      "total": 39
+      "latest": 9,
+      "average": 2.823529411764706,
+      "total": 48
     },
     "national_security": {
-      "latest": 5,
-      "average": 7.75,
-      "total": 124
+      "latest": 23,
+      "average": 8.647058823529411,
+      "total": 147
     },
     "regulation": {
-      "latest": 7,
-      "average": 4.25,
-      "total": 68
+      "latest": 9,
+      "average": 4.529411764705882,
+      "total": 77
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.0625,
+      "average": 0.058823529411764705,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 1,
-      "average": 1.375,
-      "total": 22
+      "latest": 5,
+      "average": 1.588235294117647,
+      "total": 27
     },
     "policy": {
-      "latest": 14,
-      "average": 9.125,
-      "total": 146
+      "latest": 12,
+      "average": 9.294117647058824,
+      "total": 158
     }
   }
 }
