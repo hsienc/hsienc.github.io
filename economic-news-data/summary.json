@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-26T07:34:01.036029",
+  "last_updated": "2025-09-27T09:08:16.219858",
   "latest_scrape": {
-    "date": "2025-09-26",
-    "total_headlines": 654,
+    "date": "2025-09-27",
+    "total_headlines": 575,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -35,7 +35,6 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Health)",
       "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
@@ -61,7 +60,6 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
-      "Fox Business (Economy)",
       "Fox Business (Lifestyle)",
       "Fox Business (Technology)",
       "Fox Business (Videos)"
@@ -69,114 +67,114 @@
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Technology, Videos)",
+      "Fox Business (Latest, Lifestyle, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.401,
+    "relevance_score": 0.271,
     "sample_headlines": [
       {
-        "title": "U.S. to impose tariffs on pharmaceutical drugs, furniture and heavy trucks",
-        "source": "CBS (Top News)",
-        "link": "https://www.cbsnews.com/news/tariff-pharmaceutical-drugs-kitchen-cabinets-furniture-heavy-trucks/",
-        "published_at": "2025-09-26T00:31:00Z"
+        "title": "NYC shooter Shane Tamura had CTE, medical examiner says",
+        "source": "CNBC (US News)",
+        "link": "https://www.cnbc.com/2025/09/26/nyc-shooter-shane-tamura-had-cte-medical-examiner-says.html",
+        "published_at": "2025-09-26T20:52:10Z"
       },
       {
-        "title": "A new Ebola outbreak in Congo kills dozens as health officials warn of lack of funds",
-        "source": "ABC (Health)",
-        "link": "https://abcnews.go.com/Health/wireStory/new-ebola-outbreak-congo-kills-dozens-health-officials-125936643",
-        "published_at": "2025-09-25T16:54:48Z"
+        "title": "Who Still Eats Sugary Cereal?",
+        "source": "New York Times (Business)",
+        "link": "https://www.nytimes.com/2025/09/27/business/cereal-box-nostalgia.html",
+        "published_at": "2025-09-27T09:02:12Z"
       },
       {
-        "title": "NASA Artemis II Astronauts Aim to Make Space Great for All",
+        "title": "Trump Is Reasserting U.S. Dominion Over Latin America",
+        "source": "Wall Street Journal (World News)",
+        "link": "https://www.wsj.com/world/americas/trump-latin-america-migration-drug-trade-05dec866",
+        "published_at": "2025-09-27T09:30:00Z"
+      },
+      {
+        "title": "Boeing Will Regain Ability to Certify Some Planes From F.A.A.",
         "source": "New York Times (Politics)",
-        "link": "https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html",
-        "published_at": "2025-09-26T12:01:43Z"
+        "link": "https://www.nytimes.com/2025/09/26/business/boeing-faa-737-max-certification.html",
+        "published_at": "2025-09-26T18:02:51Z"
       },
       {
-        "title": "Manhunt ignites in major US city after accused murderer walks free in 'monumental mistake': victim's mother",
-        "source": "Fox News (U.S.)",
-        "link": "https://www.foxnews.com/us/manhunt-ignites-in-major-us-city-after-accused-murderer-walks-free-in-monumental-mistake-victims-mother",
-        "published_at": "2025-09-25T16:50:41Z"
-      },
-      {
-        "title": "Son of Lebanon's slain Hezbollah chief says his father's final days were filled with rage",
-        "source": "Yahoo News (Latest)",
-        "link": "https://www.yahoo.com/news/articles/son-lebanons-slain-hezbollah-chief-090354567.html",
-        "published_at": "2025-09-26T09:03:54Z"
+        "title": "Million-year-old skull could rewrite human evolution timeline",
+        "source": "CBS (World News)",
+        "link": "https://www.cbsnews.com/news/ancient-skull-could-rewrite-human-evolution-timeline-study/",
+        "published_at": "2025-09-26T14:56:04Z"
       }
     ]
   },
-  "total_days": 17,
-  "total_headlines_collected": 9399,
+  "total_days": 18,
+  "total_headlines_collected": 9974,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-26"
+    "end": "2025-09-27"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 39,
-      "average": 33.11764705882353,
-      "total": 563
+      "latest": 30,
+      "average": 32.94444444444444,
+      "total": 593
     },
     "household": {
-      "latest": 35,
-      "average": 20.58823529411765,
-      "total": 350
+      "latest": 14,
+      "average": 20.22222222222222,
+      "total": 364
     },
     "trade": {
-      "latest": 92,
-      "average": 29.941176470588236,
-      "total": 509
+      "latest": 69,
+      "average": 32.111111111111114,
+      "total": 578
     },
     "corporate_earnings": {
-      "latest": 20,
-      "average": 16.529411764705884,
-      "total": 281
+      "latest": 17,
+      "average": 16.555555555555557,
+      "total": 298
     },
     "fiscal_policy": {
-      "latest": 6,
-      "average": 4.9411764705882355,
-      "total": 84
+      "latest": 2,
+      "average": 4.777777777777778,
+      "total": 86
     },
     "monetary_policy": {
-      "latest": 12,
-      "average": 16.294117647058822,
-      "total": 277
+      "latest": 4,
+      "average": 15.61111111111111,
+      "total": 281
     },
     "health_care": {
-      "latest": 9,
-      "average": 2.823529411764706,
-      "total": 48
+      "latest": 4,
+      "average": 2.888888888888889,
+      "total": 52
     },
     "national_security": {
-      "latest": 23,
-      "average": 8.647058823529411,
-      "total": 147
+      "latest": 3,
+      "average": 8.333333333333334,
+      "total": 150
     },
     "regulation": {
-      "latest": 9,
-      "average": 4.529411764705882,
-      "total": 77
+      "latest": 3,
+      "average": 4.444444444444445,
+      "total": 80
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.058823529411764705,
+      "average": 0.05555555555555555,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 5,
-      "average": 1.588235294117647,
-      "total": 27
+      "latest": 2,
+      "average": 1.6111111111111112,
+      "total": 29
     },
     "policy": {
-      "latest": 12,
-      "average": 9.294117647058824,
-      "total": 158
+      "latest": 8,
+      "average": 9.222222222222221,
+      "total": 166
     }
   }
 }
