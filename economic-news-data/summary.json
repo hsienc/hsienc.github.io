@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-28T08:42:54.091373",
+  "last_updated": "2025-09-29T08:45:03.420225",
   "latest_scrape": {
-    "date": "2025-09-28",
-    "total_headlines": 308,
+    "date": "2025-09-29",
+    "total_headlines": 539,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -24,6 +24,7 @@
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
       "Wall Street Journal (Health)",
+      "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
       "Wall Street Journal (World News)",
@@ -33,6 +34,8 @@
       "CBS (Top News)",
       "CBS (US News)",
       "CBS (World News)",
+      "CBS (MoneyWatch)",
+      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -40,10 +43,13 @@
       "ABC (Politics)",
       "ABC (Business)",
       "ABC (Technology)",
+      "ABC (Health)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
+      "New York Times (Economy)",
+      "New York Times (Technology)",
       "New York Times (Health)",
       "Fox News (Latest)",
       "Fox News (U.S.)",
@@ -52,121 +58,121 @@
       "Fox News (Health)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
+      "Fox Business (Economy)",
       "Fox Business (Lifestyle)",
-      "Fox Business (Small Business)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
-      "ABC (Business, International News, Politics, Technology, Top Stories, US News)",
+      "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (Politics, Top News, US News, World News)",
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Latest, Lifestyle, Small Business, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, U.S., World)",
-      "New York Times (Business, Health, Politics, US, World)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Tech, US Business, US News, World News)",
+      "New York Times (Business, Economy, Health, Politics, Technology, US, World)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.162,
+    "relevance_score": 0.213,
     "sample_headlines": [
       {
-        "title": "The Former Insurance Lawyer Trump Picked to Take On Comey",
-        "source": "Wall Street Journal (US News)",
-        "link": "https://www.wsj.com/us-news/law/the-former-insurance-lawyer-trump-picked-to-take-on-comey-54c4261d",
-        "published_at": "2025-09-27T23:00:00Z"
+        "title": "Maps show how redistricting could affect congressional seats",
+        "source": "CBS (US News)",
+        "link": "https://www.cbsnews.com/news/texas-californias-redistricting-maps/",
+        "published_at": "2025-09-28T23:17:10Z"
       },
       {
-        "title": "'Buffett Indicator' for stock valuation passes 200%, beyond level he once said is 'playing with fire'",
-        "source": "CNBC (Top News)",
-        "link": "https://www.cnbc.com/2025/09/28/buffett-indicator-stock-market-overvalued.html",
-        "published_at": "2025-09-28T11:40:40Z"
-      },
-      {
-        "title": "A New Front Opens Between Zuckerberg and Musk Over Robots",
+        "title": "Opinion | Vivek Ramaswamy: How Workers Can Build Wealth in the AI Era",
         "source": "Wall Street Journal (Tech)",
-        "link": "https://www.wsj.com/tech/ai/meta-tesla-robots-video-data-71b3c547?mod=rss_Technology",
-        "published_at": "2025-09-28T09:30:00Z"
+        "link": "https://www.wsj.com/opinion/can-americans-build-wealth-in-the-age-of-ai-vivek-productivity-27ddf0b1?mod=rss_Technology",
+        "published_at": "2025-09-28T19:53:00Z"
       },
       {
-        "title": "Popular 'strong man' goes for jaw-dropping challenge: Pulling a ship with his teeth",
-        "source": "ABC (International News)",
-        "link": "https://abcnews.go.com/International/wireStory/popular-egyptian-strong-man-jaw-dropping-challenge-pulling-126003830",
-        "published_at": "2025-09-28T05:22:29Z"
+        "title": "Taliban Release American Amid Talks With U.S. on Ties",
+        "source": "Wall Street Journal (World News)",
+        "link": "https://www.wsj.com/world/middle-east/taliban-release-amir-amiri-afghanistan-5035c39f",
+        "published_at": "2025-09-29T10:54:00Z"
       },
       {
-        "title": "Moldovans cast ballots in a tense election plagued by Russian interference claims",
-        "source": "ABC (Business)",
-        "link": "https://abcnews.go.com/Business/wireStory/moldovans-cast-ballots-tense-election-plagued-russian-interference-126008499",
-        "published_at": "2025-09-28T05:18:16Z"
+        "title": "What to know about the deadly Michigan church attack",
+        "source": "CBS (Top News)",
+        "link": "https://www.cbsnews.com/video/what-to-know-about-the-deadly-michigan-church-attack/",
+        "published_at": "2025-09-29T12:43:00Z"
+      },
+      {
+        "title": "College Students Are Seeking Out Phone-Free Social Connection",
+        "source": "New York Times (Health)",
+        "link": "https://www.nytimes.com/2025/09/29/well/mind/phone-screen-social-media-college-club-reconnect.html",
+        "published_at": "2025-09-29T13:17:41Z"
       }
     ]
   },
-  "total_days": 19,
-  "total_headlines_collected": 10282,
+  "total_days": 20,
+  "total_headlines_collected": 10821,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-28"
+    "end": "2025-09-29"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 14,
-      "average": 31.94736842105263,
-      "total": 607
+      "latest": 41,
+      "average": 32.4,
+      "total": 648
     },
     "household": {
       "latest": 11,
-      "average": 19.736842105263158,
-      "total": 375
+      "average": 19.3,
+      "total": 386
     },
     "trade": {
-      "latest": 12,
-      "average": 31.05263157894737,
-      "total": 590
+      "latest": 16,
+      "average": 30.3,
+      "total": 606
     },
     "corporate_earnings": {
-      "latest": 4,
-      "average": 15.894736842105264,
-      "total": 302
+      "latest": 12,
+      "average": 15.7,
+      "total": 314
     },
     "fiscal_policy": {
-      "latest": 2,
-      "average": 4.631578947368421,
-      "total": 88
+      "latest": 6,
+      "average": 4.7,
+      "total": 94
     },
     "monetary_policy": {
-      "latest": 2,
-      "average": 14.894736842105264,
-      "total": 283
+      "latest": 12,
+      "average": 14.75,
+      "total": 295
     },
     "health_care": {
-      "latest": 0,
-      "average": 2.736842105263158,
-      "total": 52
+      "latest": 3,
+      "average": 2.75,
+      "total": 55
     },
     "national_security": {
-      "latest": 4,
-      "average": 8.105263157894736,
-      "total": 154
+      "latest": 7,
+      "average": 8.05,
+      "total": 161
     },
     "regulation": {
-      "latest": 0,
-      "average": 4.2105263157894735,
-      "total": 80
+      "latest": 2,
+      "average": 4.1,
+      "total": 82
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.05263157894736842,
+      "average": 0.05,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 0,
-      "average": 1.5263157894736843,
-      "total": 29
+      "latest": 2,
+      "average": 1.55,
+      "total": 31
     },
     "policy": {
-      "latest": 1,
-      "average": 8.789473684210526,
-      "total": 167
+      "latest": 3,
+      "average": 8.5,
+      "total": 170
     }
   }
 }
