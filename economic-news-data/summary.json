@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-29T08:45:03.420225",
+  "last_updated": "2025-09-30T08:21:55.511147",
   "latest_scrape": {
-    "date": "2025-09-29",
-    "total_headlines": 539,
+    "date": "2025-09-30",
+    "total_headlines": 693,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -23,7 +23,6 @@
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
-      "Wall Street Journal (Health)",
       "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
@@ -35,6 +34,7 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
+      "CBS (Health)",
       "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
@@ -48,6 +48,7 @@
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
+      "New York Times (Energy & Environment)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
@@ -56,123 +57,127 @@
       "Fox News (World)",
       "Fox News (Politics)",
       "Fox News (Health)",
+      "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
       "Fox Business (Economy)",
+      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
+      "Fox Business (Retirement)",
+      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Videos)",
-      "Fox News (Health, Latest, Opinion, Politics, U.S., World)",
-      "New York Times (Business, Economy, Health, Politics, Technology, US, World)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Retirement, Technology, Videos)",
+      "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
+      "Wall Street Journal (Economy, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.213,
+    "relevance_score": 0.28,
     "sample_headlines": [
       {
-        "title": "Maps show how redistricting could affect congressional seats",
-        "source": "CBS (US News)",
-        "link": "https://www.cbsnews.com/news/texas-californias-redistricting-maps/",
-        "published_at": "2025-09-28T23:17:10Z"
+        "title": "Cocoa Sinks to a 10-Month Low as New Season Heralds Supply Boost",
+        "source": "Bloomberg (Market News)",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-30/cocoa-sinks-to-a-10-month-low-as-new-season-heralds-supply-boost",
+        "published_at": "2025-09-30T12:15:55Z"
       },
       {
-        "title": "Opinion | Vivek Ramaswamy: How Workers Can Build Wealth in the AI Era",
-        "source": "Wall Street Journal (Tech)",
-        "link": "https://www.wsj.com/opinion/can-americans-build-wealth-in-the-age-of-ai-vivek-productivity-27ddf0b1?mod=rss_Technology",
-        "published_at": "2025-09-28T19:53:00Z"
+        "title": "Police share new pictures of third suspect amid manhunt in congressional intern's killing",
+        "source": "Fox News (U.S.)",
+        "link": "https://www.foxnews.com/us/police-share-new-pictures-third-suspect-amid-manhunt-congressional-interns-killing",
+        "published_at": "2025-09-29T17:33:40Z"
       },
       {
-        "title": "Taliban Release American Amid Talks With U.S. on Ties",
-        "source": "Wall Street Journal (World News)",
-        "link": "https://www.wsj.com/world/middle-east/taliban-release-amir-amiri-afghanistan-5035c39f",
-        "published_at": "2025-09-29T10:54:00Z"
+        "title": "From drones to police presence, Utah campus where Kirk was shot lacked key public safety tools",
+        "source": "ABC (US News)",
+        "link": "https://abcnews.go.com/US/wireStory/drones-police-presence-utah-campus-kirk-shot-lacked-126065099",
+        "published_at": "2025-09-30T04:37:50Z"
       },
       {
-        "title": "What to know about the deadly Michigan church attack",
-        "source": "CBS (Top News)",
-        "link": "https://www.cbsnews.com/video/what-to-know-about-the-deadly-michigan-church-attack/",
-        "published_at": "2025-09-29T12:43:00Z"
+        "title": "Trump Has Disrupted India's Markets. Here's Where to Invest 10 Lakh Rupees",
+        "source": "Bloomberg (Wealth)",
+        "link": "https://www.bloomberg.com/features/where-to-invest-10-lakh-india-q4-2025/",
+        "published_at": "2025-09-29T23:00:09Z"
       },
       {
-        "title": "College Students Are Seeking Out Phone-Free Social Connection",
-        "source": "New York Times (Health)",
-        "link": "https://www.nytimes.com/2025/09/29/well/mind/phone-screen-social-media-college-club-reconnect.html",
-        "published_at": "2025-09-29T13:17:41Z"
+        "title": "Here's JPMorgan Chase's blueprint to become the world's first fully AI-powered megabank",
+        "source": "CNBC (Finance)",
+        "link": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
+        "published_at": "2025-09-30T11:40:10Z"
       }
     ]
   },
-  "total_days": 20,
-  "total_headlines_collected": 10821,
+  "total_days": 21,
+  "total_headlines_collected": 11514,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-29"
+    "end": "2025-09-30"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 41,
-      "average": 32.4,
-      "total": 648
+      "latest": 53,
+      "average": 33.38095238095238,
+      "total": 701
     },
     "household": {
-      "latest": 11,
-      "average": 19.3,
-      "total": 386
+      "latest": 23,
+      "average": 19.476190476190474,
+      "total": 409
     },
     "trade": {
-      "latest": 16,
-      "average": 30.3,
-      "total": 606
+      "latest": 44,
+      "average": 30.952380952380953,
+      "total": 650
     },
     "corporate_earnings": {
-      "latest": 12,
-      "average": 15.7,
-      "total": 314
+      "latest": 13,
+      "average": 15.571428571428571,
+      "total": 327
     },
     "fiscal_policy": {
-      "latest": 6,
-      "average": 4.7,
-      "total": 94
+      "latest": 3,
+      "average": 4.619047619047619,
+      "total": 97
     },
     "monetary_policy": {
-      "latest": 12,
-      "average": 14.75,
-      "total": 295
+      "latest": 11,
+      "average": 14.571428571428571,
+      "total": 306
     },
     "health_care": {
-      "latest": 3,
-      "average": 2.75,
-      "total": 55
+      "latest": 6,
+      "average": 2.9047619047619047,
+      "total": 61
     },
     "national_security": {
-      "latest": 7,
-      "average": 8.05,
-      "total": 161
+      "latest": 13,
+      "average": 8.285714285714286,
+      "total": 174
     },
     "regulation": {
-      "latest": 2,
-      "average": 4.1,
-      "total": 82
+      "latest": 6,
+      "average": 4.190476190476191,
+      "total": 88
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.05,
+      "average": 0.047619047619047616,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 2,
-      "average": 1.55,
-      "total": 31
+      "latest": 5,
+      "average": 1.7142857142857142,
+      "total": 36
     },
     "policy": {
-      "latest": 3,
-      "average": 8.5,
-      "total": 170
+      "latest": 17,
+      "average": 8.904761904761905,
+      "total": 187
     }
   }
 }
