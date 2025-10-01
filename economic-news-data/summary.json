@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-30T08:21:55.511147",
+  "last_updated": "2025-10-01T08:38:46.197686",
   "latest_scrape": {
-    "date": "2025-09-30",
-    "total_headlines": 693,
+    "date": "2025-10-01",
+    "total_headlines": 726,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -23,6 +23,7 @@
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
+      "Wall Street Journal (Health)",
       "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
@@ -63,8 +64,6 @@
       "Fox Business (Economy)",
       "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
-      "Fox Business (Retirement)",
-      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
@@ -72,112 +71,112 @@
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Retirement, Technology, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
-      "Wall Street Journal (Economy, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.28,
+    "relevance_score": 0.307,
     "sample_headlines": [
       {
-        "title": "Cocoa Sinks to a 10-Month Low as New Season Heralds Supply Boost",
-        "source": "Bloomberg (Market News)",
-        "link": "https://www.bloomberg.com/news/articles/2025-09-30/cocoa-sinks-to-a-10-month-low-as-new-season-heralds-supply-boost",
-        "published_at": "2025-09-30T12:15:55Z"
+        "title": "Bermuda gets glancing blow from Hurricane Humberto as it braces for Imelda",
+        "source": "CBS (US News)",
+        "link": "https://www.cbsnews.com/news/hurricane-imelda-humberto-maps-forecast-path-dangerous-surf-rip-currents-east-coast/",
+        "published_at": "2025-10-01T11:14:00Z"
       },
       {
-        "title": "Police share new pictures of third suspect amid manhunt in congressional intern's killing",
-        "source": "Fox News (U.S.)",
-        "link": "https://www.foxnews.com/us/police-share-new-pictures-third-suspect-amid-manhunt-congressional-interns-killing",
-        "published_at": "2025-09-29T17:33:40Z"
+        "title": "A Once Unstoppable Luxury Housing Market Is Starting to Crack",
+        "source": "Wall Street Journal (Real Estate)",
+        "link": "https://www.wsj.com/real-estate/luxury-homes/luxury-housing-market-slowing-d3338a4b?mod=LatestNewsRealEstate",
+        "published_at": "2025-10-01T00:00:00Z"
       },
       {
-        "title": "From drones to police presence, Utah campus where Kirk was shot lacked key public safety tools",
-        "source": "ABC (US News)",
-        "link": "https://abcnews.go.com/US/wireStory/drones-police-presence-utah-campus-kirk-shot-lacked-126065099",
-        "published_at": "2025-09-30T04:37:50Z"
+        "title": "U.S. Labor-Turnover Was Steady in August",
+        "source": "Wall Street Journal (Economy)",
+        "link": "https://www.wsj.com/economy/jobs/u-s-labor-turnover-was-steady-in-august-6a1e92a8",
+        "published_at": "2025-09-30T15:39:00Z"
       },
       {
-        "title": "Trump Has Disrupted India's Markets. Here's Where to Invest 10 Lakh Rupees",
-        "source": "Bloomberg (Wealth)",
-        "link": "https://www.bloomberg.com/features/where-to-invest-10-lakh-india-q4-2025/",
-        "published_at": "2025-09-29T23:00:09Z"
+        "title": "Democrats See No Need to Capitulate, Nor Republicans to Cut a Deal",
+        "source": "New York Times (US)",
+        "link": "https://www.nytimes.com/2025/09/30/us/politics/polarized-senate-shutdown-gridlock.html",
+        "published_at": "2025-10-01T07:18:57Z"
       },
       {
-        "title": "Here's JPMorgan Chase's blueprint to become the world's first fully AI-powered megabank",
-        "source": "CNBC (Finance)",
-        "link": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
-        "published_at": "2025-09-30T11:40:10Z"
+        "title": "BOE's Mann Says Policy is Loose, Backs Holding Rates for Now",
+        "source": "Bloomberg (Economics)",
+        "link": "https://www.bloomberg.com/news/articles/2025-10-01/boe-s-mann-says-policy-is-loose-backs-keeping-rates-at-4",
+        "published_at": "2025-10-01T08:04:23Z"
       }
     ]
   },
-  "total_days": 21,
-  "total_headlines_collected": 11514,
+  "total_days": 22,
+  "total_headlines_collected": 12240,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-09-30"
+    "end": "2025-10-01"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 53,
-      "average": 33.38095238095238,
-      "total": 701
+      "latest": 41,
+      "average": 33.72727272727273,
+      "total": 742
     },
     "household": {
-      "latest": 23,
-      "average": 19.476190476190474,
-      "total": 409
+      "latest": 46,
+      "average": 20.681818181818183,
+      "total": 455
     },
     "trade": {
       "latest": 44,
-      "average": 30.952380952380953,
-      "total": 650
+      "average": 31.545454545454547,
+      "total": 694
     },
     "corporate_earnings": {
-      "latest": 13,
-      "average": 15.571428571428571,
-      "total": 327
+      "latest": 21,
+      "average": 15.818181818181818,
+      "total": 348
     },
     "fiscal_policy": {
-      "latest": 3,
-      "average": 4.619047619047619,
-      "total": 97
+      "latest": 8,
+      "average": 4.7727272727272725,
+      "total": 105
     },
     "monetary_policy": {
-      "latest": 11,
-      "average": 14.571428571428571,
-      "total": 306
+      "latest": 21,
+      "average": 14.863636363636363,
+      "total": 327
     },
     "health_care": {
-      "latest": 6,
-      "average": 2.9047619047619047,
-      "total": 61
+      "latest": 4,
+      "average": 2.9545454545454546,
+      "total": 65
     },
     "national_security": {
-      "latest": 13,
-      "average": 8.285714285714286,
-      "total": 174
+      "latest": 9,
+      "average": 8.318181818181818,
+      "total": 183
     },
     "regulation": {
-      "latest": 6,
-      "average": 4.190476190476191,
-      "total": 88
+      "latest": 9,
+      "average": 4.409090909090909,
+      "total": 97
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.047619047619047616,
+      "average": 0.045454545454545456,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 5,
-      "average": 1.7142857142857142,
-      "total": 36
+      "latest": 4,
+      "average": 1.8181818181818181,
+      "total": 40
     },
     "policy": {
-      "latest": 17,
-      "average": 8.904761904761905,
-      "total": 187
+      "latest": 16,
+      "average": 9.227272727272727,
+      "total": 203
     }
   }
 }
