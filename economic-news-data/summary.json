@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-01T08:38:46.197686",
+  "last_updated": "2025-10-02T08:42:55.041479",
   "latest_scrape": {
-    "date": "2025-10-01",
-    "total_headlines": 726,
+    "date": "2025-10-02",
+    "total_headlines": 684,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -24,7 +24,6 @@
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
       "Wall Street Journal (Health)",
-      "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
       "Wall Street Journal (World News)",
@@ -63,7 +62,7 @@
       "Fox Business (Latest)",
       "Fox Business (Economy)",
       "Fox Business (Markets)",
-      "Fox Business (Lifestyle)",
+      "Fox Business (Real Estate)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
@@ -71,112 +70,112 @@
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
+      "Fox Business (Economy, Latest, Markets, Real Estate, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.307,
+    "relevance_score": 0.23,
     "sample_headlines": [
       {
-        "title": "Bermuda gets glancing blow from Hurricane Humberto as it braces for Imelda",
-        "source": "CBS (US News)",
-        "link": "https://www.cbsnews.com/news/hurricane-imelda-humberto-maps-forecast-path-dangerous-surf-rip-currents-east-coast/",
-        "published_at": "2025-10-01T11:14:00Z"
+        "title": "Newly elected Arizona lawmaker has yet to be sworn into office, as House Democrats welcome her",
+        "source": "ABC (Politics)",
+        "link": "https://abcnews.go.com/Politics/wireStory/newly-elected-arizona-lawmaker-sworn-office-house-democrats-126137030",
+        "published_at": "2025-10-02T04:06:21Z"
       },
       {
-        "title": "A Once Unstoppable Luxury Housing Market Is Starting to Crack",
-        "source": "Wall Street Journal (Real Estate)",
-        "link": "https://www.wsj.com/real-estate/luxury-homes/luxury-housing-market-slowing-d3338a4b?mod=LatestNewsRealEstate",
-        "published_at": "2025-10-01T00:00:00Z"
+        "title": "Manhattan Home Sales Jump to Two-Year High Led by Cash Buyers",
+        "source": "Bloomberg (Wealth)",
+        "link": "https://www.bloomberg.com/news/articles/2025-10-02/manhattan-home-sales-jump-to-two-year-high-led-by-cash-buyers",
+        "published_at": "2025-10-02T04:01:00Z"
       },
       {
-        "title": "U.S. Labor-Turnover Was Steady in August",
-        "source": "Wall Street Journal (Economy)",
-        "link": "https://www.wsj.com/economy/jobs/u-s-labor-turnover-was-steady-in-august-6a1e92a8",
-        "published_at": "2025-09-30T15:39:00Z"
+        "title": "OpenAI Becomes World's Most Valuable Startup",
+        "source": "Bloomberg (Business)",
+        "link": "https://www.bloomberg.com/news/newsletters/2025-10-02/openai-becomes-world-s-most-valuable-startup",
+        "published_at": "2025-10-02T09:00:09Z"
       },
       {
-        "title": "Democrats See No Need to Capitulate, Nor Republicans to Cut a Deal",
-        "source": "New York Times (US)",
-        "link": "https://www.nytimes.com/2025/09/30/us/politics/polarized-senate-shutdown-gridlock.html",
-        "published_at": "2025-10-01T07:18:57Z"
+        "title": "War Department pushes back on 'false' narrative of internal strategy split",
+        "source": "Fox News (Politics)",
+        "link": "https://www.foxnews.com/politics/war-department-pushes-back-false-narrative-internal-strategy-split",
+        "published_at": "2025-10-02T01:48:18Z"
       },
       {
-        "title": "BOE's Mann Says Policy is Loose, Backs Holding Rates for Now",
-        "source": "Bloomberg (Economics)",
-        "link": "https://www.bloomberg.com/news/articles/2025-10-01/boe-s-mann-says-policy-is-loose-backs-keeping-rates-at-4",
-        "published_at": "2025-10-01T08:04:23Z"
+        "title": "Elon Musk makes history as first person ever to hit $500B net worth milestone: report",
+        "source": "Fox Business (Latest)",
+        "link": "https://www.foxbusiness.com/business-leaders/elon-musk-makes-history-first-person-ever-hit-500b-net-worth-milestone-report",
+        "published_at": "2025-10-01T23:05:00Z"
       }
     ]
   },
-  "total_days": 22,
-  "total_headlines_collected": 12240,
+  "total_days": 23,
+  "total_headlines_collected": 12924,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-01"
+    "end": "2025-10-02"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 41,
-      "average": 33.72727272727273,
-      "total": 742
+      "latest": 27,
+      "average": 33.43478260869565,
+      "total": 769
     },
     "household": {
-      "latest": 46,
-      "average": 20.681818181818183,
-      "total": 455
+      "latest": 36,
+      "average": 21.347826086956523,
+      "total": 491
     },
     "trade": {
-      "latest": 44,
-      "average": 31.545454545454547,
-      "total": 694
+      "latest": 14,
+      "average": 30.782608695652176,
+      "total": 708
     },
     "corporate_earnings": {
-      "latest": 21,
-      "average": 15.818181818181818,
-      "total": 348
+      "latest": 19,
+      "average": 15.956521739130435,
+      "total": 367
     },
     "fiscal_policy": {
-      "latest": 8,
-      "average": 4.7727272727272725,
-      "total": 105
+      "latest": 10,
+      "average": 5.0,
+      "total": 115
     },
     "monetary_policy": {
-      "latest": 21,
-      "average": 14.863636363636363,
-      "total": 327
+      "latest": 10,
+      "average": 14.652173913043478,
+      "total": 337
     },
     "health_care": {
-      "latest": 4,
-      "average": 2.9545454545454546,
-      "total": 65
+      "latest": 12,
+      "average": 3.347826086956522,
+      "total": 77
     },
     "national_security": {
-      "latest": 9,
-      "average": 8.318181818181818,
-      "total": 183
+      "latest": 11,
+      "average": 8.434782608695652,
+      "total": 194
     },
     "regulation": {
-      "latest": 9,
-      "average": 4.409090909090909,
-      "total": 97
+      "latest": 5,
+      "average": 4.434782608695652,
+      "total": 102
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.045454545454545456,
+      "average": 0.043478260869565216,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 4,
-      "average": 1.8181818181818181,
-      "total": 40
+      "latest": 5,
+      "average": 1.9565217391304348,
+      "total": 45
     },
     "policy": {
-      "latest": 16,
-      "average": 9.227272727272727,
-      "total": 203
+      "latest": 8,
+      "average": 9.173913043478262,
+      "total": 211
     }
   }
 }
