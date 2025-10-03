@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-02T08:42:55.041479",
+  "last_updated": "2025-10-03T07:47:18.388788",
   "latest_scrape": {
-    "date": "2025-10-02",
-    "total_headlines": 684,
+    "date": "2025-10-03",
+    "total_headlines": 652,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -24,6 +24,7 @@
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
       "Wall Street Journal (Health)",
+      "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
       "Wall Street Journal (World News)",
@@ -62,7 +63,7 @@
       "Fox Business (Latest)",
       "Fox Business (Economy)",
       "Fox Business (Markets)",
-      "Fox Business (Real Estate)",
+      "Fox Business (Lifestyle)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
@@ -70,112 +71,112 @@
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Markets, Real Estate, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Tech, US Business, US News, World News)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.23,
+    "relevance_score": 0.242,
     "sample_headlines": [
       {
-        "title": "Newly elected Arizona lawmaker has yet to be sworn into office, as House Democrats welcome her",
+        "title": "Inside the White House, concerns are growing that the issue at the center of the government-shutdown debate-healthcare subsidies-will cost the Republicans in the 2026 midterms",
+        "source": "Wall Street Journal (Politics)",
+        "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-healthcare-risk-d5b7e197",
+        "published_at": "2025-10-03T01:00:00Z"
+      },
+      {
+        "title": "Trump no longer distancing himself from Project 2025 as he uses shutdown to further pursue its goals",
         "source": "ABC (Politics)",
-        "link": "https://abcnews.go.com/Politics/wireStory/newly-elected-arizona-lawmaker-sworn-office-house-democrats-126137030",
-        "published_at": "2025-10-02T04:06:21Z"
+        "link": "https://abcnews.go.com/Politics/wireStory/trump-longer-distancing-project-2025-shutdown-pursue-goals-126170597",
+        "published_at": "2025-10-03T04:21:35Z"
       },
       {
-        "title": "Manhattan Home Sales Jump to Two-Year High Led by Cash Buyers",
-        "source": "Bloomberg (Wealth)",
-        "link": "https://www.bloomberg.com/news/articles/2025-10-02/manhattan-home-sales-jump-to-two-year-high-led-by-cash-buyers",
-        "published_at": "2025-10-02T04:01:00Z"
+        "title": "Subprime Credit Troubles Send Shares of Consumer Lenders Reeling",
+        "source": "Bloomberg (Market News)",
+        "link": "https://www.bloomberg.com/news/articles/2025-10-03/subprime-credit-troubles-send-shares-of-consumer-lenders-reeling",
+        "published_at": "2025-10-03T11:00:00Z"
       },
       {
-        "title": "OpenAI Becomes World's Most Valuable Startup",
-        "source": "Bloomberg (Business)",
-        "link": "https://www.bloomberg.com/news/newsletters/2025-10-02/openai-becomes-world-s-most-valuable-startup",
-        "published_at": "2025-10-02T09:00:09Z"
+        "title": "Stocks making the biggest moves premarket: GameStop, USA Rare Earth, Applied Materials, Zillow and more",
+        "source": "CNBC (Finance)",
+        "link": "https://www.cnbc.com/2025/10/03/stocks-making-the-biggest-moves-premarket-gme-usar-amat-z.html",
+        "published_at": "2025-10-03T12:18:56Z"
       },
       {
-        "title": "War Department pushes back on 'false' narrative of internal strategy split",
-        "source": "Fox News (Politics)",
-        "link": "https://www.foxnews.com/politics/war-department-pushes-back-false-narrative-internal-strategy-split",
-        "published_at": "2025-10-02T01:48:18Z"
-      },
-      {
-        "title": "Elon Musk makes history as first person ever to hit $500B net worth milestone: report",
-        "source": "Fox Business (Latest)",
-        "link": "https://www.foxbusiness.com/business-leaders/elon-musk-makes-history-first-person-ever-hit-500b-net-worth-milestone-report",
-        "published_at": "2025-10-01T23:05:00Z"
+        "title": "Excavators find $1M in gold coins from shipwreck along Florida's 'Treasure Coast'",
+        "source": "ABC (US News)",
+        "link": "https://abcnews.go.com/US/wireStory/excavators-find-1-million-gold-coins-spanish-shipwreck-126162613",
+        "published_at": "2025-10-02T20:40:05Z"
       }
     ]
   },
-  "total_days": 23,
-  "total_headlines_collected": 12924,
+  "total_days": 24,
+  "total_headlines_collected": 13576,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-02"
+    "end": "2025-10-03"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 27,
-      "average": 33.43478260869565,
-      "total": 769
+      "latest": 31,
+      "average": 33.333333333333336,
+      "total": 800
     },
     "household": {
-      "latest": 36,
-      "average": 21.347826086956523,
-      "total": 491
+      "latest": 33,
+      "average": 21.833333333333332,
+      "total": 524
     },
     "trade": {
-      "latest": 14,
-      "average": 30.782608695652176,
-      "total": 708
+      "latest": 9,
+      "average": 29.875,
+      "total": 717
     },
     "corporate_earnings": {
-      "latest": 19,
-      "average": 15.956521739130435,
-      "total": 367
+      "latest": 8,
+      "average": 15.625,
+      "total": 375
     },
     "fiscal_policy": {
-      "latest": 10,
-      "average": 5.0,
-      "total": 115
+      "latest": 11,
+      "average": 5.25,
+      "total": 126
     },
     "monetary_policy": {
-      "latest": 10,
-      "average": 14.652173913043478,
-      "total": 337
+      "latest": 15,
+      "average": 14.666666666666666,
+      "total": 352
     },
     "health_care": {
-      "latest": 12,
-      "average": 3.347826086956522,
-      "total": 77
+      "latest": 18,
+      "average": 3.9583333333333335,
+      "total": 95
     },
     "national_security": {
-      "latest": 11,
-      "average": 8.434782608695652,
-      "total": 194
+      "latest": 15,
+      "average": 8.708333333333334,
+      "total": 209
     },
     "regulation": {
-      "latest": 5,
-      "average": 4.434782608695652,
-      "total": 102
+      "latest": 8,
+      "average": 4.583333333333333,
+      "total": 110
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.043478260869565216,
+      "average": 0.041666666666666664,
       "total": 1
     },
     "entitlement_programs": {
       "latest": 5,
-      "average": 1.9565217391304348,
-      "total": 45
+      "average": 2.0833333333333335,
+      "total": 50
     },
     "policy": {
-      "latest": 8,
-      "average": 9.173913043478262,
-      "total": 211
+      "latest": 5,
+      "average": 9.0,
+      "total": 216
     }
   }
 }
