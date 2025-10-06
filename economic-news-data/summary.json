@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-05T09:07:29.854762",
+  "last_updated": "2025-10-06T08:39:07.655886",
   "latest_scrape": {
-    "date": "2025-10-05",
-    "total_headlines": 286,
+    "date": "2025-10-06",
+    "total_headlines": 534,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -10,17 +10,20 @@
       "Bloomberg (Business)",
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
+      "CNBC (Economy)",
       "CNBC (Finance)",
+      "CNBC (Business News)",
+      "CNBC (Wealth)",
       "CNBC (Top News)",
       "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
+      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
       "Wall Street Journal (Health)",
-      "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
       "Wall Street Journal (World News)",
@@ -51,126 +54,123 @@
       "Fox News (U.S.)",
       "Fox News (World)",
       "Fox News (Politics)",
-      "Fox News (Health)",
+      "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
-      "Fox Business (Economy)",
-      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
-      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
-      "CNBC (Earnings, Finance, Top News, US News, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
-      "Fox News (Health, Latest, Opinion, Politics, U.S., World)",
+      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
+      "Fox Business (Latest, Lifestyle, Videos)",
+      "Fox News (Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Health, Politics, Small Business, Technology, US, World)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.164,
+    "relevance_score": 0.212,
     "sample_headlines": [
       {
-        "title": "Top Wall Street analysts recommend these 3 dividend stocks for stable returns",
-        "source": "CNBC (World News)",
-        "link": "https://www.cnbc.com/2025/10/05/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-stable-returns.html",
-        "published_at": "2025-10-05T12:00:01Z"
+        "title": "What's in Your Go-Bag? How Taiwan Packs for Disaster",
+        "source": "Wall Street Journal (World News)",
+        "link": "https://www.wsj.com/world/asia/taiwan-china-disaster-go-bags-a51f83d1",
+        "published_at": "2025-10-05T23:00:00Z"
       },
       {
-        "title": "Psychologist's No. 1 non-negotiable parenting rule for happier, healthier kids: It's 'very straightforward and costs nothing'",
-        "source": "CNBC (Top News)",
-        "link": "https://www.cnbc.com/2025/10/05/psychologist-jean-twenge-top-screen-time-parenting-rule-for-kids.html",
-        "published_at": "2025-10-05T13:05:01Z"
+        "title": "That 'Landmark' Free Speech Ruling Misses the Point",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/articles/2025-10-06/landmark-free-speech-trump-deportation-ruling-misses-the-point",
+        "published_at": "2025-10-06T11:00:11Z"
       },
       {
-        "title": "Prabowo Tells Army to Guard Raw Resources From Foreign Groups",
-        "source": "Bloomberg (Market News)",
-        "link": "https://www.bloomberg.com/news/articles/2025-10-05/prabowo-tells-army-to-guard-raw-resources-from-foreign-groups",
-        "published_at": "2025-10-05T04:01:30Z"
+        "title": "DAVID MARCUS: 20 years after 'The Office,' 'The Paper' tackles the post me-too workplace",
+        "source": "Fox News (Opinion)",
+        "link": "https://www.foxnews.com/opinion/david-marcus-20-years-after-the-office-the-paper-tackles-post-me-too-workplace",
+        "published_at": "2025-10-05T20:02:28Z"
       },
       {
-        "title": "Mike Waltz sees Trump's Gaza plan as 'once-in-a-generation opportunity for peace'",
-        "source": "Fox News (World)",
-        "link": "https://www.foxnews.com/world/mike-waltz-sees-trumps-gaza-plan-once-in-a-generation-opportunity-for-peace",
-        "published_at": "2025-10-04T18:43:46Z"
+        "title": "Bill Ackman Says He's 'Uncancelable'",
+        "source": "Wall Street Journal (Personal Finance)",
+        "link": "https://www.wsj.com/style/bill-ackman-interview-twitter-d6be86ca",
+        "published_at": "2025-10-06T09:30:00Z"
       },
       {
-        "title": "Defense Secretary Pete Hegseth's emphasis on physical prowess comes as experts say future wars will depend more on cutting-edge technology, precision strikes and AI",
-        "source": "Wall Street Journal (Politics)",
-        "link": "https://www.wsj.com/politics/national-security/hegseth-focuses-on-fitness-even-as-pentagon-goes-high-tech-723eadfb",
-        "published_at": "2025-10-04T23:14:00Z"
+        "title": "Government shutdown threatens food aid program relied on by millions of families",
+        "source": "ABC (US News)",
+        "link": "https://abcnews.go.com/US/wireStory/government-shutdown-threatens-food-aid-program-relied-millions-126245881",
+        "published_at": "2025-10-06T12:36:43Z"
       }
     ]
   },
-  "total_days": 26,
-  "total_headlines_collected": 14418,
+  "total_days": 27,
+  "total_headlines_collected": 14952,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-05"
+    "end": "2025-10-06"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 11,
-      "average": 32.03846153846154,
-      "total": 833
+      "latest": 26,
+      "average": 31.814814814814813,
+      "total": 859
     },
     "household": {
-      "latest": 8,
-      "average": 21.346153846153847,
-      "total": 555
+      "latest": 26,
+      "average": 21.51851851851852,
+      "total": 581
     },
     "trade": {
-      "latest": 3,
-      "average": 28.03846153846154,
-      "total": 729
+      "latest": 16,
+      "average": 27.59259259259259,
+      "total": 745
     },
     "corporate_earnings": {
-      "latest": 6,
-      "average": 14.961538461538462,
-      "total": 389
+      "latest": 10,
+      "average": 14.777777777777779,
+      "total": 399
     },
     "fiscal_policy": {
-      "latest": 2,
-      "average": 5.038461538461538,
-      "total": 131
+      "latest": 3,
+      "average": 4.962962962962963,
+      "total": 134
     },
     "monetary_policy": {
-      "latest": 0,
-      "average": 13.76923076923077,
-      "total": 358
+      "latest": 11,
+      "average": 13.666666666666666,
+      "total": 369
     },
     "health_care": {
       "latest": 2,
-      "average": 3.923076923076923,
-      "total": 102
+      "average": 3.8518518518518516,
+      "total": 104
     },
     "national_security": {
-      "latest": 8,
-      "average": 8.692307692307692,
-      "total": 226
+      "latest": 10,
+      "average": 8.74074074074074,
+      "total": 236
     },
     "regulation": {
-      "latest": 1,
-      "average": 4.461538461538462,
+      "latest": 0,
+      "average": 4.296296296296297,
       "total": 116
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.038461538461538464,
+      "average": 0.037037037037037035,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 4,
-      "average": 2.269230769230769,
-      "total": 59
+      "latest": 3,
+      "average": 2.2962962962962963,
+      "total": 62
     },
     "policy": {
-      "latest": 2,
-      "average": 8.692307692307692,
-      "total": 226
+      "latest": 6,
+      "average": 8.592592592592593,
+      "total": 232
     }
   }
 }
