@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-06T08:39:07.655886",
+  "last_updated": "2025-10-07T09:05:17.199356",
   "latest_scrape": {
-    "date": "2025-10-06",
-    "total_headlines": 534,
+    "date": "2025-10-07",
+    "total_headlines": 725,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -24,6 +24,7 @@
       "Wall Street Journal (Markets)",
       "Wall Street Journal (Politics)",
       "Wall Street Journal (Health)",
+      "Wall Street Journal (Real Estate)",
       "Wall Street Journal (Personal Finance)",
       "Wall Street Journal (US News)",
       "Wall Street Journal (World News)",
@@ -34,7 +35,6 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -47,130 +47,134 @@
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
-      "New York Times (Small Business)",
+      "New York Times (Energy & Environment)",
+      "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
       "Fox News (Latest)",
       "Fox News (U.S.)",
       "Fox News (World)",
       "Fox News (Politics)",
+      "Fox News (Health)",
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
+      "Fox Business (Economy)",
+      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Latest, Lifestyle, Videos)",
-      "Fox News (Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Health, Politics, Small Business, Technology, US, World)",
-      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Tech, US Business, US News, World News)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
+      "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
+      "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.212,
+    "relevance_score": 0.262,
     "sample_headlines": [
       {
-        "title": "What's in Your Go-Bag? How Taiwan Packs for Disaster",
-        "source": "Wall Street Journal (World News)",
-        "link": "https://www.wsj.com/world/asia/taiwan-china-disaster-go-bags-a51f83d1",
-        "published_at": "2025-10-05T23:00:00Z"
+        "title": "Jaguar Land Rover to Restart Output in UK After Cyberattack",
+        "source": "Bloomberg (Technology)",
+        "link": "https://www.bloomberg.com/news/articles/2025-10-07/jaguar-land-rover-to-restart-output-in-uk-after-cyberattack",
+        "published_at": "2025-10-07T08:06:26Z"
       },
       {
-        "title": "That 'Landmark' Free Speech Ruling Misses the Point",
-        "source": "Bloomberg (Opinion)",
-        "link": "https://www.bloomberg.com/opinion/articles/2025-10-06/landmark-free-speech-trump-deportation-ruling-misses-the-point",
-        "published_at": "2025-10-06T11:00:11Z"
+        "title": "Taylor Swift's \"Life of a Showgirl\" movie grosses $34 million",
+        "source": "CBS (MoneyWatch)",
+        "link": "https://www.cbsnews.com/news/taylor-swift-life-of-a-showgirl-movie-33-million-box-office/",
+        "published_at": "2025-10-06T22:12:17Z"
       },
       {
-        "title": "DAVID MARCUS: 20 years after 'The Office,' 'The Paper' tackles the post me-too workplace",
-        "source": "Fox News (Opinion)",
-        "link": "https://www.foxnews.com/opinion/david-marcus-20-years-after-the-office-the-paper-tackles-post-me-too-workplace",
-        "published_at": "2025-10-05T20:02:28Z"
+        "title": "Elon Musk Gambles on Sexy A.I. Companions",
+        "source": "New York Times (Technology)",
+        "link": "https://www.nytimes.com/2025/10/06/technology/elon-musk-grok-sexy-chatbot.html",
+        "published_at": "2025-10-06T20:57:11Z"
       },
       {
-        "title": "Bill Ackman Says He's 'Uncancelable'",
-        "source": "Wall Street Journal (Personal Finance)",
-        "link": "https://www.wsj.com/style/bill-ackman-interview-twitter-d6be86ca",
-        "published_at": "2025-10-06T09:30:00Z"
+        "title": "iPhone Battery Draining Fast? Adjust These Settings and Thank Me Later",
+        "source": "Yahoo News (Latest)",
+        "link": "https://tech.yahoo.com/phones/articles/iphone-battery-draining-fast-adjust-150236632.html",
+        "published_at": "2025-10-06T15:02:36Z"
       },
       {
-        "title": "Government shutdown threatens food aid program relied on by millions of families",
-        "source": "ABC (US News)",
-        "link": "https://abcnews.go.com/US/wireStory/government-shutdown-threatens-food-aid-program-relied-millions-126245881",
-        "published_at": "2025-10-06T12:36:43Z"
+        "title": "Startups are staying private longer thanks to alternative capital",
+        "source": "CNBC (Business News)",
+        "link": "https://www.cnbc.com/2025/10/07/ipo-market-startups-staying-private-longer-alternative-capital.html",
+        "published_at": "2025-10-07T14:00:01Z"
       }
     ]
   },
-  "total_days": 27,
-  "total_headlines_collected": 14952,
+  "total_days": 28,
+  "total_headlines_collected": 15677,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-06"
+    "end": "2025-10-07"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 26,
-      "average": 31.814814814814813,
-      "total": 859
+      "latest": 34,
+      "average": 31.892857142857142,
+      "total": 893
     },
     "household": {
-      "latest": 26,
-      "average": 21.51851851851852,
-      "total": 581
+      "latest": 27,
+      "average": 21.714285714285715,
+      "total": 608
     },
     "trade": {
-      "latest": 16,
-      "average": 27.59259259259259,
-      "total": 745
+      "latest": 40,
+      "average": 28.035714285714285,
+      "total": 785
     },
     "corporate_earnings": {
-      "latest": 10,
-      "average": 14.777777777777779,
-      "total": 399
+      "latest": 22,
+      "average": 15.035714285714286,
+      "total": 421
     },
     "fiscal_policy": {
       "latest": 3,
-      "average": 4.962962962962963,
-      "total": 134
+      "average": 4.892857142857143,
+      "total": 137
     },
     "monetary_policy": {
-      "latest": 11,
-      "average": 13.666666666666666,
-      "total": 369
+      "latest": 8,
+      "average": 13.464285714285714,
+      "total": 377
     },
     "health_care": {
-      "latest": 2,
-      "average": 3.8518518518518516,
-      "total": 104
+      "latest": 7,
+      "average": 3.9642857142857144,
+      "total": 111
     },
     "national_security": {
-      "latest": 10,
-      "average": 8.74074074074074,
-      "total": 236
+      "latest": 16,
+      "average": 9.0,
+      "total": 252
     },
     "regulation": {
-      "latest": 0,
-      "average": 4.296296296296297,
-      "total": 116
+      "latest": 11,
+      "average": 4.535714285714286,
+      "total": 127
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.037037037037037035,
+      "average": 0.03571428571428571,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 3,
-      "average": 2.2962962962962963,
-      "total": 62
+      "latest": 6,
+      "average": 2.4285714285714284,
+      "total": 68
     },
     "policy": {
-      "latest": 6,
-      "average": 8.592592592592593,
-      "total": 232
+      "latest": 16,
+      "average": 8.857142857142858,
+      "total": 248
     }
   }
 }
