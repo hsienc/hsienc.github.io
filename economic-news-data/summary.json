@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-07T09:05:17.199356",
+  "last_updated": "2025-10-08T08:23:42.695374",
   "latest_scrape": {
-    "date": "2025-10-07",
-    "total_headlines": 725,
+    "date": "2025-10-08",
+    "total_headlines": 672,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -48,6 +48,7 @@
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
+      "New York Times (Small Business)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
@@ -59,8 +60,6 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
-      "Fox Business (Economy)",
-      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
       "Fox Business (Videos)"
     ],
@@ -69,112 +68,112 @@
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (MoneyWatch, Politics, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
+      "Fox Business (Latest, Lifestyle, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.262,
+    "relevance_score": 0.257,
     "sample_headlines": [
       {
-        "title": "Jaguar Land Rover to Restart Output in UK After Cyberattack",
-        "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/articles/2025-10-07/jaguar-land-rover-to-restart-output-in-uk-after-cyberattack",
-        "published_at": "2025-10-07T08:06:26Z"
+        "title": "James Comey set to appear for arraignment",
+        "source": "CBS (Top News)",
+        "link": "https://www.cbsnews.com/video/james-comey-set-to-appear-for-arraignment/",
+        "published_at": "2025-10-08T12:49:00Z"
       },
       {
-        "title": "Taylor Swift's \"Life of a Showgirl\" movie grosses $34 million",
-        "source": "CBS (MoneyWatch)",
-        "link": "https://www.cbsnews.com/news/taylor-swift-life-of-a-showgirl-movie-33-million-box-office/",
-        "published_at": "2025-10-06T22:12:17Z"
-      },
-      {
-        "title": "Elon Musk Gambles on Sexy A.I. Companions",
-        "source": "New York Times (Technology)",
-        "link": "https://www.nytimes.com/2025/10/06/technology/elon-musk-grok-sexy-chatbot.html",
-        "published_at": "2025-10-06T20:57:11Z"
-      },
-      {
-        "title": "iPhone Battery Draining Fast? Adjust These Settings and Thank Me Later",
-        "source": "Yahoo News (Latest)",
-        "link": "https://tech.yahoo.com/phones/articles/iphone-battery-draining-fast-adjust-150236632.html",
-        "published_at": "2025-10-06T15:02:36Z"
-      },
-      {
-        "title": "Startups are staying private longer thanks to alternative capital",
+        "title": "What the government shutdown means for commercial real estate",
         "source": "CNBC (Business News)",
-        "link": "https://www.cnbc.com/2025/10/07/ipo-market-startups-staying-private-longer-alternative-capital.html",
-        "published_at": "2025-10-07T14:00:01Z"
+        "link": "https://www.cnbc.com/2025/10/08/government-shutdown-commercial-real-estate.html",
+        "published_at": "2025-10-08T11:18:57Z"
+      },
+      {
+        "title": "Equifax Cuts Prices After FICO Shakes Up Credit-Score Market",
+        "source": "Wall Street Journal (Personal Finance)",
+        "link": "https://www.wsj.com/personal-finance/credit/equifax-cuts-prices-after-fico-shakes-up-credit-score-market-9dc769aa",
+        "published_at": "2025-10-07T21:17:00Z"
+      },
+      {
+        "title": "WATCH: Trump says Sean 'Diddy' Combs asked him for a pardonvv",
+        "source": "ABC (Top Stories)",
+        "link": "https://abcnews.go.com/US/video/trump-sean-diddy-combs-asked-pardon-126299891",
+        "published_at": "2025-10-07T21:03:26Z"
+      },
+      {
+        "title": "Abortion providers say Missouri's attorney general is trying to get patient records",
+        "source": "ABC (Health)",
+        "link": "https://abcnews.go.com/Health/wireStory/abortion-providers-missouris-attorney-general-patient-records-126310503",
+        "published_at": "2025-10-08T06:39:54Z"
       }
     ]
   },
-  "total_days": 28,
-  "total_headlines_collected": 15677,
+  "total_days": 29,
+  "total_headlines_collected": 16349,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-07"
+    "end": "2025-10-08"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 34,
-      "average": 31.892857142857142,
-      "total": 893
+      "latest": 42,
+      "average": 32.241379310344826,
+      "total": 935
     },
     "household": {
-      "latest": 27,
-      "average": 21.714285714285715,
-      "total": 608
+      "latest": 41,
+      "average": 22.379310344827587,
+      "total": 649
     },
     "trade": {
-      "latest": 40,
-      "average": 28.035714285714285,
-      "total": 785
+      "latest": 29,
+      "average": 28.06896551724138,
+      "total": 814
     },
     "corporate_earnings": {
-      "latest": 22,
-      "average": 15.035714285714286,
-      "total": 421
+      "latest": 16,
+      "average": 15.068965517241379,
+      "total": 437
     },
     "fiscal_policy": {
-      "latest": 3,
-      "average": 4.892857142857143,
-      "total": 137
+      "latest": 5,
+      "average": 4.896551724137931,
+      "total": 142
     },
     "monetary_policy": {
-      "latest": 8,
-      "average": 13.464285714285714,
-      "total": 377
+      "latest": 13,
+      "average": 13.448275862068966,
+      "total": 390
     },
     "health_care": {
       "latest": 7,
-      "average": 3.9642857142857144,
-      "total": 111
+      "average": 4.068965517241379,
+      "total": 118
     },
     "national_security": {
-      "latest": 16,
+      "latest": 9,
       "average": 9.0,
-      "total": 252
+      "total": 261
     },
     "regulation": {
-      "latest": 11,
-      "average": 4.535714285714286,
-      "total": 127
+      "latest": 3,
+      "average": 4.482758620689655,
+      "total": 130
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.03571428571428571,
+      "average": 0.034482758620689655,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 6,
-      "average": 2.4285714285714284,
-      "total": 68
+      "latest": 2,
+      "average": 2.413793103448276,
+      "total": 70
     },
     "policy": {
-      "latest": 16,
-      "average": 8.857142857142858,
-      "total": 248
+      "latest": 6,
+      "average": 8.758620689655173,
+      "total": 254
     }
   }
 }
