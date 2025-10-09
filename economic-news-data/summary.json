@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-08T08:23:42.695374",
+  "last_updated": "2025-10-09T08:53:44.982845",
   "latest_scrape": {
-    "date": "2025-10-08",
-    "total_headlines": 672,
+    "date": "2025-10-09",
+    "total_headlines": 732,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -10,7 +10,6 @@
       "Bloomberg (Business)",
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
-      "CNBC (Economy)",
       "CNBC (Finance)",
       "CNBC (Business News)",
       "CNBC (Wealth)",
@@ -18,7 +17,6 @@
       "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
-      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
@@ -35,6 +33,7 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
+      "CBS (Health)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -49,7 +48,6 @@
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
       "New York Times (Small Business)",
-      "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
       "Fox News (Latest)",
@@ -60,120 +58,123 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
+      "Fox Business (Economy)",
+      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
+      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Latest, Lifestyle, Videos)",
+      "CBS (Health, MoneyWatch, Politics, Top News, US News, World News)",
+      "CNBC (Business News, Earnings, Finance, Top News, US News, Wealth, World News)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
+      "New York Times (Business, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.257,
+    "relevance_score": 0.264,
     "sample_headlines": [
       {
-        "title": "James Comey set to appear for arraignment",
-        "source": "CBS (Top News)",
-        "link": "https://www.cbsnews.com/video/james-comey-set-to-appear-for-arraignment/",
-        "published_at": "2025-10-08T12:49:00Z"
+        "title": "Texas' Blue-State Deployments Shred Relations Between Governors",
+        "source": "New York Times (US)",
+        "link": "https://www.nytimes.com/2025/10/08/us/politics/national-guard-governors.html",
+        "published_at": "2025-10-08T22:23:23Z"
       },
       {
-        "title": "What the government shutdown means for commercial real estate",
-        "source": "CNBC (Business News)",
-        "link": "https://www.cnbc.com/2025/10/08/government-shutdown-commercial-real-estate.html",
-        "published_at": "2025-10-08T11:18:57Z"
+        "title": "Novo Nordisk to Acquire Akero Therapeutics for Up to $5.2 Billion",
+        "source": "Wall Street Journal (Health)",
+        "link": "https://www.wsj.com/health/pharma/novo-nordisk-to-buy-akero-therapeutics-for-4-7-billion-036de158",
+        "published_at": "2025-10-09T10:39:00Z"
       },
       {
-        "title": "Equifax Cuts Prices After FICO Shakes Up Credit-Score Market",
-        "source": "Wall Street Journal (Personal Finance)",
-        "link": "https://www.wsj.com/personal-finance/credit/equifax-cuts-prices-after-fico-shakes-up-credit-score-market-9dc769aa",
-        "published_at": "2025-10-07T21:17:00Z"
+        "title": "Pope urges news agencies to stand as bulwark against lies, manipulation, post-truths",
+        "source": "ABC (International News)",
+        "link": "https://abcnews.go.com/International/wireStory/pope-urges-news-agencies-stand-bulwark-lies-manipulation-126356174",
+        "published_at": "2025-10-09T12:46:19Z"
       },
       {
-        "title": "WATCH: Trump says Sean 'Diddy' Combs asked him for a pardonvv",
-        "source": "ABC (Top Stories)",
-        "link": "https://abcnews.go.com/US/video/trump-sean-diddy-combs-asked-pardon-126299891",
-        "published_at": "2025-10-07T21:03:26Z"
+        "title": "First Brands Bankruptcy Damage Spreads to Jefferies, UBS",
+        "source": "Wall Street Journal (US Business)",
+        "link": "https://www.wsj.com/finance/first-brands-bankruptcy-damage-spreads-to-jefferies-ubs-54ad84ef?mod=pls_whats_news_us_business_f",
+        "published_at": "2025-10-08T21:40:00Z"
       },
       {
-        "title": "Abortion providers say Missouri's attorney general is trying to get patient records",
-        "source": "ABC (Health)",
-        "link": "https://abcnews.go.com/Health/wireStory/abortion-providers-missouris-attorney-general-patient-records-126310503",
-        "published_at": "2025-10-08T06:39:54Z"
+        "title": "Stock Movers: Lloyds, Ottobock, Ferrari (Podcast)",
+        "source": "Bloomberg (Business)",
+        "link": "https://www.bloomberg.com/news/audio/2025-10-09/stock-movers-lloyds-ottobock-ferrari-podcast",
+        "published_at": "2025-10-09T09:08:03Z"
       }
     ]
   },
-  "total_days": 29,
-  "total_headlines_collected": 16349,
+  "total_days": 30,
+  "total_headlines_collected": 17081,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-08"
+    "end": "2025-10-09"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 42,
-      "average": 32.241379310344826,
-      "total": 935
+      "latest": 31,
+      "average": 32.2,
+      "total": 966
     },
     "household": {
-      "latest": 41,
-      "average": 22.379310344827587,
-      "total": 649
+      "latest": 34,
+      "average": 22.766666666666666,
+      "total": 683
     },
     "trade": {
-      "latest": 29,
-      "average": 28.06896551724138,
-      "total": 814
+      "latest": 40,
+      "average": 28.466666666666665,
+      "total": 854
     },
     "corporate_earnings": {
-      "latest": 16,
-      "average": 15.068965517241379,
-      "total": 437
+      "latest": 22,
+      "average": 15.3,
+      "total": 459
     },
     "fiscal_policy": {
-      "latest": 5,
-      "average": 4.896551724137931,
-      "total": 142
+      "latest": 6,
+      "average": 4.933333333333334,
+      "total": 148
     },
     "monetary_policy": {
-      "latest": 13,
-      "average": 13.448275862068966,
-      "total": 390
+      "latest": 19,
+      "average": 13.633333333333333,
+      "total": 409
     },
     "health_care": {
-      "latest": 7,
-      "average": 4.068965517241379,
-      "total": 118
+      "latest": 8,
+      "average": 4.2,
+      "total": 126
     },
     "national_security": {
-      "latest": 9,
-      "average": 9.0,
-      "total": 261
+      "latest": 15,
+      "average": 9.2,
+      "total": 276
     },
     "regulation": {
       "latest": 3,
-      "average": 4.482758620689655,
-      "total": 130
+      "average": 4.433333333333334,
+      "total": 133
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.034482758620689655,
+      "average": 0.03333333333333333,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 2,
-      "average": 2.413793103448276,
-      "total": 70
+      "latest": 3,
+      "average": 2.433333333333333,
+      "total": 73
     },
     "policy": {
-      "latest": 6,
-      "average": 8.758620689655173,
-      "total": 254
+      "latest": 12,
+      "average": 8.866666666666667,
+      "total": 266
     }
   }
 }
