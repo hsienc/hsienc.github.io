@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-13T08:10:40.757119",
+  "last_updated": "2025-10-14T08:33:34.974392",
   "latest_scrape": {
-    "date": "2025-10-13",
-    "total_headlines": 521,
+    "date": "2025-10-14",
+    "total_headlines": 689,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -12,6 +12,7 @@
       "Bloomberg (Wealth)",
       "CNBC (Finance)",
       "CNBC (Business News)",
+      "CNBC (Wealth)",
       "CNBC (Top News)",
       "CNBC (Earnings)",
       "CNBC (US News)",
@@ -32,7 +33,6 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -40,6 +40,7 @@
       "ABC (Politics)",
       "ABC (Business)",
       "ABC (Technology)",
+      "ABC (Health)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
@@ -53,6 +54,7 @@
       "Fox News (World)",
       "Fox News (Politics)",
       "Fox News (Health)",
+      "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
       "Fox Business (Economy)",
@@ -61,116 +63,116 @@
       "Fox Business (Videos)"
     ],
     "sources_organized": [
-      "ABC (Business, International News, Politics, Technology, Top Stories, US News)",
+      "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Finance, Top News, US News, World News)",
+      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
+      "CNBC (Business News, Earnings, Finance, Top News, US News, Wealth, World News)",
       "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
-      "Fox News (Health, Latest, Opinion, Politics, U.S., World)",
+      "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.315,
+    "relevance_score": 0.313,
     "sample_headlines": [
       {
-        "title": "Protesters clash with police in Ecuador amid nationwide strike over fuel prices",
-        "source": "ABC (International News)",
-        "link": "https://abcnews.go.com/International/wireStory/protesters-clash-police-ecuador-amid-nationwide-strike-fuel-126457591",
-        "published_at": "2025-10-12T21:57:54Z"
+        "title": "Google Maps vs Waze vs Apple Maps: Which is best?",
+        "source": "Fox News (Technology)",
+        "link": "https://www.foxnews.com/tech/google-maps-vs-waze-vs-apple-maps-which-best",
+        "published_at": "2025-10-13T18:49:51Z"
       },
       {
-        "title": "Tencent's 'Delta Force' Success Shifts Focus to Shooting Games",
-        "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/articles/2025-10-12/tencent-s-delta-force-success-shifts-focus-to-shooting-games",
-        "published_at": "2025-10-12T22:00:00Z"
+        "title": "Barack Obama joins fight for US House control, urges vote for California districts to counter Trump",
+        "source": "ABC (Politics)",
+        "link": "https://abcnews.go.com/Politics/wireStory/barack-obama-joins-fight-us-house-control-urges-126507551",
+        "published_at": "2025-10-14T13:18:41Z"
       },
       {
-        "title": "Sinopec diverts supertanker from US-sanctioned port, ship tracking data shows",
-        "source": "Yahoo News (Latest)",
-        "link": "https://finance.yahoo.com/news/sinopec-diverts-supertanker-us-sanctioned-114642766.html",
-        "published_at": "2025-10-13T11:46:42Z"
+        "title": "OpenAI Keeps Doing Deals",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/newsletters/2025-10-13/openai-keeps-doing-deals",
+        "published_at": "2025-10-13T18:44:42Z"
       },
       {
-        "title": "JPMorgan Chase says it will invest $10 billion into industries critical for national security",
-        "source": "CNBC (Finance)",
-        "link": "https://www.cnbc.com/2025/10/13/jpmorgan-chase-to-invest-10-billion-into-key-industries-.html",
-        "published_at": "2025-10-13T13:02:20Z"
-      },
-      {
-        "title": "World shares are mixed as Trump suggests leeway for progress in trade talks with China",
+        "title": "Greece sees 2nd general strike this month as unions protest new labor law",
         "source": "ABC (Business)",
-        "link": "https://abcnews.go.com/Business/wireStory/asian-shares-skid-after-wall-street-tumbles-worst-126461407",
-        "published_at": "2025-10-13T10:29:55Z"
+        "link": "https://abcnews.go.com/Business/wireStory/greece-sees-2nd-general-strike-month-unions-protest-126502439",
+        "published_at": "2025-10-14T11:55:38Z"
+      },
+      {
+        "title": "As Hostages and Prisoners Return Home, Trump Declares 'New Dawn' in Mideast",
+        "source": "New York Times (World)",
+        "link": "https://www.nytimes.com/2025/10/13/world/middleeast/israel-gaza-hostages-prisoners-freed.html",
+        "published_at": "2025-10-13T21:32:01Z"
       }
     ]
   },
-  "total_days": 34,
-  "total_headlines_collected": 19167,
+  "total_days": 35,
+  "total_headlines_collected": 19856,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-13"
+    "end": "2025-10-14"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 40,
-      "average": 31.58823529411765,
-      "total": 1074
+      "latest": 46,
+      "average": 32.0,
+      "total": 1120
     },
     "household": {
-      "latest": 12,
-      "average": 22.735294117647058,
-      "total": 773
+      "latest": 27,
+      "average": 22.857142857142858,
+      "total": 800
     },
     "trade": {
-      "latest": 47,
-      "average": 29.558823529411764,
-      "total": 1005
+      "latest": 51,
+      "average": 30.17142857142857,
+      "total": 1056
     },
     "corporate_earnings": {
-      "latest": 20,
-      "average": 15.323529411764707,
-      "total": 521
+      "latest": 44,
+      "average": 16.142857142857142,
+      "total": 565
     },
     "fiscal_policy": {
-      "latest": 8,
-      "average": 4.970588235294118,
-      "total": 169
+      "latest": 5,
+      "average": 4.9714285714285715,
+      "total": 174
     },
     "monetary_policy": {
-      "latest": 4,
-      "average": 12.764705882352942,
-      "total": 434
+      "latest": 7,
+      "average": 12.6,
+      "total": 441
     },
     "health_care": {
-      "latest": 1,
-      "average": 3.8529411764705883,
-      "total": 131
+      "latest": 6,
+      "average": 3.914285714285714,
+      "total": 137
     },
     "national_security": {
       "latest": 21,
-      "average": 9.235294117647058,
-      "total": 314
+      "average": 9.571428571428571,
+      "total": 335
     },
     "regulation": {
-      "latest": 1,
-      "average": 4.294117647058823,
-      "total": 146
+      "latest": 3,
+      "average": 4.257142857142857,
+      "total": 149
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.029411764705882353,
+      "average": 0.02857142857142857,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 2,
-      "average": 2.3529411764705883,
-      "total": 80
+      "latest": 1,
+      "average": 2.3142857142857145,
+      "total": 81
     },
     "policy": {
-      "latest": 8,
-      "average": 8.588235294117647,
-      "total": 292
+      "latest": 5,
+      "average": 8.485714285714286,
+      "total": 297
     }
   }
 }
