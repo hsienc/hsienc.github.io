@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-14T08:33:34.974392",
+  "last_updated": "2025-10-15T08:52:25.962591",
   "latest_scrape": {
-    "date": "2025-10-14",
-    "total_headlines": 689,
+    "date": "2025-10-15",
+    "total_headlines": 750,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -10,6 +10,7 @@
       "Bloomberg (Business)",
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
+      "CNBC (Economy)",
       "CNBC (Finance)",
       "CNBC (Business News)",
       "CNBC (Wealth)",
@@ -17,6 +18,7 @@
       "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
+      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
@@ -33,6 +35,7 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
+      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -60,119 +63,120 @@
       "Fox Business (Economy)",
       "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
+      "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Finance, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.313,
+    "relevance_score": 0.327,
     "sample_headlines": [
       {
-        "title": "Google Maps vs Waze vs Apple Maps: Which is best?",
-        "source": "Fox News (Technology)",
-        "link": "https://www.foxnews.com/tech/google-maps-vs-waze-vs-apple-maps-which-best",
-        "published_at": "2025-10-13T18:49:51Z"
+        "title": "New York health officials confirm state's first locally acquired case of chikungunya virus",
+        "source": "ABC (Health)",
+        "link": "https://abcnews.go.com/Health/wireStory/new-york-health-officials-confirm-states-locally-acquired-126531484",
+        "published_at": "2025-10-15T02:37:54Z"
       },
       {
-        "title": "Barack Obama joins fight for US House control, urges vote for California districts to counter Trump",
-        "source": "ABC (Politics)",
-        "link": "https://abcnews.go.com/Politics/wireStory/barack-obama-joins-fight-us-house-control-urges-126507551",
-        "published_at": "2025-10-14T13:18:41Z"
+        "title": "Exclusive-Assad government secretly moved mass grave to cover up killings, Reuters investigation finds",
+        "source": "Yahoo News (Latest)",
+        "link": "https://www.yahoo.com/news/articles/exclusive-assad-government-secretly-moved-194028845.html",
+        "published_at": "2025-10-14T19:40:28Z"
       },
       {
-        "title": "OpenAI Keeps Doing Deals",
-        "source": "Bloomberg (Opinion)",
-        "link": "https://www.bloomberg.com/opinion/newsletters/2025-10-13/openai-keeps-doing-deals",
-        "published_at": "2025-10-13T18:44:42Z"
+        "title": "An ancient tradition is helping girls in Zimbabwe fight child marriages",
+        "source": "ABC (International News)",
+        "link": "https://abcnews.go.com/International/wireStory/ancient-tradition-helping-girls-zimbabwe-fight-child-marriages-126535113",
+        "published_at": "2025-10-15T04:54:01Z"
       },
       {
-        "title": "Greece sees 2nd general strike this month as unions protest new labor law",
-        "source": "ABC (Business)",
-        "link": "https://abcnews.go.com/Business/wireStory/greece-sees-2nd-general-strike-month-unions-protest-126502439",
-        "published_at": "2025-10-14T11:55:38Z"
+        "title": "Fed Chair Jerome Powell says a hiring slowdown poses U.S. economic risks",
+        "source": "CBS (MoneyWatch)",
+        "link": "https://www.cbsnews.com/news/jerome-powell-speech-today-federal-reserve-labor-market-rate-cuts/",
+        "published_at": "2025-10-14T20:24:30Z"
       },
       {
-        "title": "As Hostages and Prisoners Return Home, Trump Declares 'New Dawn' in Mideast",
-        "source": "New York Times (World)",
-        "link": "https://www.nytimes.com/2025/10/13/world/middleeast/israel-gaza-hostages-prisoners-freed.html",
-        "published_at": "2025-10-13T21:32:01Z"
+        "title": "Trump is using the government shutdown to do something no president has ever done",
+        "source": "Fox News (Opinion)",
+        "link": "https://www.foxnews.com/opinion/trump-using-government-shutdown-do-something-no-president-has-ever-done",
+        "published_at": "2025-10-15T09:00:58Z"
       }
     ]
   },
-  "total_days": 35,
-  "total_headlines_collected": 19856,
+  "total_days": 36,
+  "total_headlines_collected": 20606,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-14"
+    "end": "2025-10-15"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 46,
-      "average": 32.0,
-      "total": 1120
+      "latest": 52,
+      "average": 32.55555555555556,
+      "total": 1172
     },
     "household": {
-      "latest": 27,
-      "average": 22.857142857142858,
-      "total": 800
+      "latest": 34,
+      "average": 23.166666666666668,
+      "total": 834
     },
     "trade": {
-      "latest": 51,
-      "average": 30.17142857142857,
-      "total": 1056
+      "latest": 40,
+      "average": 30.444444444444443,
+      "total": 1096
     },
     "corporate_earnings": {
-      "latest": 44,
-      "average": 16.142857142857142,
-      "total": 565
+      "latest": 57,
+      "average": 17.27777777777778,
+      "total": 622
     },
     "fiscal_policy": {
       "latest": 5,
-      "average": 4.9714285714285715,
-      "total": 174
+      "average": 4.972222222222222,
+      "total": 179
     },
     "monetary_policy": {
-      "latest": 7,
-      "average": 12.6,
-      "total": 441
+      "latest": 10,
+      "average": 12.527777777777779,
+      "total": 451
     },
     "health_care": {
-      "latest": 6,
-      "average": 3.914285714285714,
-      "total": 137
+      "latest": 4,
+      "average": 3.9166666666666665,
+      "total": 141
     },
     "national_security": {
-      "latest": 21,
-      "average": 9.571428571428571,
-      "total": 335
+      "latest": 13,
+      "average": 9.666666666666666,
+      "total": 348
     },
     "regulation": {
-      "latest": 3,
-      "average": 4.257142857142857,
-      "total": 149
+      "latest": 4,
+      "average": 4.25,
+      "total": 153
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.02857142857142857,
+      "average": 0.027777777777777776,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 1,
-      "average": 2.3142857142857145,
-      "total": 81
+      "latest": 6,
+      "average": 2.4166666666666665,
+      "total": 87
     },
     "policy": {
-      "latest": 5,
-      "average": 8.485714285714286,
-      "total": 297
+      "latest": 20,
+      "average": 8.805555555555555,
+      "total": 317
     }
   }
 }
