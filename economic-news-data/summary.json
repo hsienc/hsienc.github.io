@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-15T08:52:25.962591",
+  "last_updated": "2025-10-16T10:05:19.402920",
   "latest_scrape": {
-    "date": "2025-10-15",
-    "total_headlines": 750,
+    "date": "2025-10-16",
+    "total_headlines": 751,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -35,7 +35,7 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Technology)",
+      "CBS (Health)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -49,6 +49,7 @@
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
+      "New York Times (Small Business)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
@@ -69,114 +70,114 @@
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CBS (Health, MoneyWatch, Politics, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
       "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.327,
+    "relevance_score": 0.324,
     "sample_headlines": [
       {
-        "title": "New York health officials confirm state's first locally acquired case of chikungunya virus",
-        "source": "ABC (Health)",
-        "link": "https://abcnews.go.com/Health/wireStory/new-york-health-officials-confirm-states-locally-acquired-126531484",
-        "published_at": "2025-10-15T02:37:54Z"
+        "title": "Beta Technologies IPO could value electric air taxi maker at $7.2 billion",
+        "source": "CNBC (Top News)",
+        "link": "https://www.cnbc.com/2025/10/16/beta-technologies-ipo-value-evtol.html",
+        "published_at": "2025-10-16T14:02:59Z"
       },
       {
-        "title": "Exclusive-Assad government secretly moved mass grave to cover up killings, Reuters investigation finds",
-        "source": "Yahoo News (Latest)",
-        "link": "https://www.yahoo.com/news/articles/exclusive-assad-government-secretly-moved-194028845.html",
-        "published_at": "2025-10-14T19:40:28Z"
+        "title": "Top Walmart exec says American manufacturing comeback is real and good for business",
+        "source": "CNBC (Business News)",
+        "link": "https://www.cnbc.com/2025/10/15/walmart-exec-us-manufacturing-comeback.html",
+        "published_at": "2025-10-16T14:38:44Z"
       },
       {
-        "title": "An ancient tradition is helping girls in Zimbabwe fight child marriages",
-        "source": "ABC (International News)",
-        "link": "https://abcnews.go.com/International/wireStory/ancient-tradition-helping-girls-zimbabwe-fight-child-marriages-126535113",
-        "published_at": "2025-10-15T04:54:01Z"
+        "title": "American Bankers Are Making a Mint Helping China Inc. Go Global",
+        "source": "Wall Street Journal (Markets)",
+        "link": "https://www.wsj.com/world/china/hong-kong-us-bankers-57159442?mod=rss_markets_main",
+        "published_at": "2025-10-16T00:45:00Z"
       },
       {
-        "title": "Fed Chair Jerome Powell says a hiring slowdown poses U.S. economic risks",
-        "source": "CBS (MoneyWatch)",
-        "link": "https://www.cbsnews.com/news/jerome-powell-speech-today-federal-reserve-labor-market-rate-cuts/",
-        "published_at": "2025-10-14T20:24:30Z"
+        "title": "OpenAI would have to spend over $1 trillion to deliver its promised computing power. It may not have the cash.",
+        "source": "Yahoo News (Finance)",
+        "link": "https://finance.yahoo.com/news/openai-would-have-to-spend-over-1-trillion-to-deliver-its-promised-computing-power-it-may-not-have-the-cash-145324242.html",
+        "published_at": "2025-10-16T14:53:24Z"
       },
       {
-        "title": "Trump is using the government shutdown to do something no president has ever done",
-        "source": "Fox News (Opinion)",
-        "link": "https://www.foxnews.com/opinion/trump-using-government-shutdown-do-something-no-president-has-ever-done",
-        "published_at": "2025-10-15T09:00:58Z"
+        "title": "Jay Jones' 'two bullets' scandal over violent texts expected to dominate Virginia AG debate",
+        "source": "Fox News (Politics)",
+        "link": "https://www.foxnews.com/politics/jay-jones-two-bullets-scandal-over-violent-texts-expected-dominate-virginia-ag-debate",
+        "published_at": "2025-10-16T08:00:31Z"
       }
     ]
   },
-  "total_days": 36,
-  "total_headlines_collected": 20606,
+  "total_days": 37,
+  "total_headlines_collected": 21357,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-15"
+    "end": "2025-10-16"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 52,
-      "average": 32.55555555555556,
-      "total": 1172
+      "latest": 50,
+      "average": 33.027027027027025,
+      "total": 1222
     },
     "household": {
-      "latest": 34,
-      "average": 23.166666666666668,
-      "total": 834
+      "latest": 24,
+      "average": 23.18918918918919,
+      "total": 858
     },
     "trade": {
-      "latest": 40,
-      "average": 30.444444444444443,
-      "total": 1096
+      "latest": 42,
+      "average": 30.756756756756758,
+      "total": 1138
     },
     "corporate_earnings": {
-      "latest": 57,
-      "average": 17.27777777777778,
-      "total": 622
+      "latest": 54,
+      "average": 18.27027027027027,
+      "total": 676
     },
     "fiscal_policy": {
-      "latest": 5,
-      "average": 4.972222222222222,
-      "total": 179
+      "latest": 3,
+      "average": 4.918918918918919,
+      "total": 182
     },
     "monetary_policy": {
-      "latest": 10,
-      "average": 12.527777777777779,
-      "total": 451
+      "latest": 15,
+      "average": 12.594594594594595,
+      "total": 466
     },
     "health_care": {
-      "latest": 4,
-      "average": 3.9166666666666665,
-      "total": 141
+      "latest": 8,
+      "average": 4.027027027027027,
+      "total": 149
     },
     "national_security": {
-      "latest": 13,
-      "average": 9.666666666666666,
-      "total": 348
+      "latest": 15,
+      "average": 9.81081081081081,
+      "total": 363
     },
     "regulation": {
-      "latest": 4,
-      "average": 4.25,
-      "total": 153
+      "latest": 5,
+      "average": 4.27027027027027,
+      "total": 158
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.027777777777777776,
+      "average": 0.02702702702702703,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 6,
-      "average": 2.4166666666666665,
-      "total": 87
+      "latest": 4,
+      "average": 2.4594594594594597,
+      "total": 91
     },
     "policy": {
-      "latest": 20,
-      "average": 8.805555555555555,
-      "total": 317
+      "latest": 23,
+      "average": 9.18918918918919,
+      "total": 340
     }
   }
 }
