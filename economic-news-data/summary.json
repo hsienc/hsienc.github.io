@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-16T10:05:19.402920",
+  "last_updated": "2025-10-17T09:40:51.712287",
   "latest_scrape": {
-    "date": "2025-10-16",
-    "total_headlines": 751,
+    "date": "2025-10-17",
+    "total_headlines": 717,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -36,6 +36,7 @@
       "CBS (World News)",
       "CBS (MoneyWatch)",
       "CBS (Health)",
+      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -49,8 +50,6 @@
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
-      "New York Times (Small Business)",
-      "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
       "Fox News (Latest)",
@@ -62,7 +61,6 @@
       "Fox News (Opinion)",
       "Fox Business (Latest)",
       "Fox Business (Economy)",
-      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
       "Fox Business (Technology)",
       "Fox Business (Videos)"
@@ -70,114 +68,114 @@
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (Health, MoneyWatch, Politics, Top News, US News, World News)",
+      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
+      "New York Times (Business, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.324,
+    "relevance_score": 0.317,
     "sample_headlines": [
       {
-        "title": "Beta Technologies IPO could value electric air taxi maker at $7.2 billion",
-        "source": "CNBC (Top News)",
-        "link": "https://www.cnbc.com/2025/10/16/beta-technologies-ipo-value-evtol.html",
-        "published_at": "2025-10-16T14:02:59Z"
+        "title": "Popular medications could change your gut health for years, experts warn",
+        "source": "Fox News (Health)",
+        "link": "https://www.foxnews.com/health/popular-medications-could-change-gut-health-years-experts-warn",
+        "published_at": "2025-10-16T19:17:55Z"
       },
       {
-        "title": "Top Walmart exec says American manufacturing comeback is real and good for business",
-        "source": "CNBC (Business News)",
-        "link": "https://www.cnbc.com/2025/10/15/walmart-exec-us-manufacturing-comeback.html",
-        "published_at": "2025-10-16T14:38:44Z"
+        "title": "The $11 Billion Oura Ring Is Finding Its Voice",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/articles/2025-10-17/the-oura-ring-is-finding-its-voice",
+        "published_at": "2025-10-17T03:30:07Z"
       },
       {
-        "title": "American Bankers Are Making a Mint Helping China Inc. Go Global",
-        "source": "Wall Street Journal (Markets)",
-        "link": "https://www.wsj.com/world/china/hong-kong-us-bankers-57159442?mod=rss_markets_main",
-        "published_at": "2025-10-16T00:45:00Z"
+        "title": "WATCH: Angel Reese talks being the first pro athlete to walk the Victoria's Secret runway",
+        "source": "ABC (Top Stories)",
+        "link": "https://abcnews.go.com/Entertainment/video/angel-reese-talks-pro-athlete-walk-victorias-secret-126584425",
+        "published_at": "2025-10-16T16:41:56Z"
       },
       {
-        "title": "OpenAI would have to spend over $1 trillion to deliver its promised computing power. It may not have the cash.",
-        "source": "Yahoo News (Finance)",
-        "link": "https://finance.yahoo.com/news/openai-would-have-to-spend-over-1-trillion-to-deliver-its-promised-computing-power-it-may-not-have-the-cash-145324242.html",
-        "published_at": "2025-10-16T14:53:24Z"
+        "title": "Stocks making the biggest moves midday: Snap-on, Triumph Financial, Micron & more",
+        "source": "CNBC (Finance)",
+        "link": "https://www.cnbc.com/2025/10/16/stocks-making-the-biggest-moves-midday-sna-tfin-mu.html",
+        "published_at": "2025-10-16T16:21:36Z"
       },
       {
-        "title": "Jay Jones' 'two bullets' scandal over violent texts expected to dominate Virginia AG debate",
-        "source": "Fox News (Politics)",
-        "link": "https://www.foxnews.com/politics/jay-jones-two-bullets-scandal-over-violent-texts-expected-dominate-virginia-ag-debate",
-        "published_at": "2025-10-16T08:00:31Z"
+        "title": "Trump says he'll meet with Putin in Budapest to discuss end to Ukraine war",
+        "source": "CBS (World News)",
+        "link": "https://www.cbsnews.com/news/trump-he-and-putin-will-meet-in-budapest-russia-ukraine-war/",
+        "published_at": "2025-10-17T00:08:57Z"
       }
     ]
   },
-  "total_days": 37,
-  "total_headlines_collected": 21357,
+  "total_days": 38,
+  "total_headlines_collected": 22074,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-16"
+    "end": "2025-10-17"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 50,
-      "average": 33.027027027027025,
-      "total": 1222
+      "latest": 38,
+      "average": 33.1578947368421,
+      "total": 1260
     },
     "household": {
-      "latest": 24,
-      "average": 23.18918918918919,
-      "total": 858
+      "latest": 40,
+      "average": 23.63157894736842,
+      "total": 898
     },
     "trade": {
-      "latest": 42,
-      "average": 30.756756756756758,
-      "total": 1138
+      "latest": 41,
+      "average": 31.026315789473685,
+      "total": 1179
     },
     "corporate_earnings": {
-      "latest": 54,
-      "average": 18.27027027027027,
-      "total": 676
+      "latest": 39,
+      "average": 18.81578947368421,
+      "total": 715
     },
     "fiscal_policy": {
-      "latest": 3,
-      "average": 4.918918918918919,
-      "total": 182
+      "latest": 7,
+      "average": 4.973684210526316,
+      "total": 189
     },
     "monetary_policy": {
       "latest": 15,
-      "average": 12.594594594594595,
-      "total": 466
+      "average": 12.657894736842104,
+      "total": 481
     },
     "health_care": {
-      "latest": 8,
-      "average": 4.027027027027027,
-      "total": 149
+      "latest": 3,
+      "average": 4.0,
+      "total": 152
     },
     "national_security": {
-      "latest": 15,
-      "average": 9.81081081081081,
-      "total": 363
+      "latest": 26,
+      "average": 10.236842105263158,
+      "total": 389
     },
     "regulation": {
-      "latest": 5,
-      "average": 4.27027027027027,
-      "total": 158
+      "latest": 2,
+      "average": 4.2105263157894735,
+      "total": 160
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.02702702702702703,
+      "average": 0.02631578947368421,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 4,
-      "average": 2.4594594594594597,
-      "total": 91
+      "latest": 1,
+      "average": 2.4210526315789473,
+      "total": 92
     },
     "policy": {
-      "latest": 23,
-      "average": 9.18918918918919,
-      "total": 340
+      "latest": 15,
+      "average": 9.342105263157896,
+      "total": 355
     }
   }
 }
