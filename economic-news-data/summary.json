@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-17T09:40:51.712287",
+  "last_updated": "2025-10-18T08:55:51.014811",
   "latest_scrape": {
-    "date": "2025-10-17",
-    "total_headlines": 717,
+    "date": "2025-10-18",
+    "total_headlines": 560,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -10,15 +10,12 @@
       "Bloomberg (Business)",
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
-      "CNBC (Economy)",
       "CNBC (Finance)",
       "CNBC (Business News)",
       "CNBC (Wealth)",
       "CNBC (Top News)",
-      "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
-      "CNBC (Retail)",
       "Wall Street Journal (Economy)",
       "Wall Street Journal (US Business)",
       "Wall Street Journal (Markets)",
@@ -35,7 +32,6 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Health)",
       "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
@@ -43,8 +39,6 @@
       "ABC (International News)",
       "ABC (Politics)",
       "ABC (Business)",
-      "ABC (Technology)",
-      "ABC (Health)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
@@ -61,121 +55,122 @@
       "Fox News (Opinion)",
       "Fox Business (Latest)",
       "Fox Business (Economy)",
+      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
       "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
-      "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
+      "ABC (Business, International News, Politics, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
-      "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Technology, Videos)",
+      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CNBC (Business News, Finance, Top News, US News, Wealth, World News)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
       "New York Times (Business, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.317,
+    "relevance_score": 0.266,
     "sample_headlines": [
       {
-        "title": "Popular medications could change your gut health for years, experts warn",
-        "source": "Fox News (Health)",
-        "link": "https://www.foxnews.com/health/popular-medications-could-change-gut-health-years-experts-warn",
-        "published_at": "2025-10-16T19:17:55Z"
+        "title": "Opinion | Artificial Intelligence, Armageddon and the Antichrist",
+        "source": "Wall Street Journal (Tech)",
+        "link": "https://www.wsj.com/opinion/artificial-intelligence-armageddon-and-the-antichrist-b6986097?mod=rss_Technology",
+        "published_at": "2025-10-17T20:56:00Z"
       },
       {
-        "title": "The $11 Billion Oura Ring Is Finding Its Voice",
-        "source": "Bloomberg (Opinion)",
-        "link": "https://www.bloomberg.com/opinion/articles/2025-10-17/the-oura-ring-is-finding-its-voice",
-        "published_at": "2025-10-17T03:30:07Z"
+        "title": "Wall Street gears up for more earnings next week, with CPI data coming too",
+        "source": "CNBC (US News)",
+        "link": "https://www.cnbc.com/2025/10/17/stock-market-next-week-outlook-for-oct-20-24-2025.html",
+        "published_at": "2025-10-17T20:31:35Z"
       },
       {
-        "title": "WATCH: Angel Reese talks being the first pro athlete to walk the Victoria's Secret runway",
-        "source": "ABC (Top Stories)",
-        "link": "https://abcnews.go.com/Entertainment/video/angel-reese-talks-pro-athlete-walk-victorias-secret-126584425",
-        "published_at": "2025-10-16T16:41:56Z"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Snap-on, Triumph Financial, Micron & more",
-        "source": "CNBC (Finance)",
-        "link": "https://www.cnbc.com/2025/10/16/stocks-making-the-biggest-moves-midday-sna-tfin-mu.html",
-        "published_at": "2025-10-16T16:21:36Z"
-      },
-      {
-        "title": "Trump says he'll meet with Putin in Budapest to discuss end to Ukraine war",
+        "title": "Trump says Venezuela's Maduro offered oil to U.S. amid escalating tensions",
         "source": "CBS (World News)",
-        "link": "https://www.cbsnews.com/news/trump-he-and-putin-will-meet-in-budapest-russia-ukraine-war/",
-        "published_at": "2025-10-17T00:08:57Z"
+        "link": "https://www.cbsnews.com/video/trump-says-venezuelas-maduro-offered-oil-to-us-amid-escalating-tensions/",
+        "published_at": "2025-10-17T23:22:00Z"
+      },
+      {
+        "title": "Heavy security after deadly violence in Kenya as thousands turn out to mourn former PM Odinga",
+        "source": "ABC (International News)",
+        "link": "https://abcnews.go.com/International/wireStory/heavy-security-after-deadly-violence-kenya-thousands-turn-126640325",
+        "published_at": "2025-10-18T06:45:50Z"
+      },
+      {
+        "title": "The Shutdown Is Stretching On. Trump Doesn't Seem to Mind.",
+        "source": "New York Times (US)",
+        "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html",
+        "published_at": "2025-10-18T12:44:58Z"
       }
     ]
   },
-  "total_days": 38,
-  "total_headlines_collected": 22074,
+  "total_days": 39,
+  "total_headlines_collected": 22634,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-17"
+    "end": "2025-10-18"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 38,
-      "average": 33.1578947368421,
-      "total": 1260
+      "latest": 27,
+      "average": 33.0,
+      "total": 1287
     },
     "household": {
-      "latest": 40,
-      "average": 23.63157894736842,
-      "total": 898
+      "latest": 22,
+      "average": 23.58974358974359,
+      "total": 920
     },
     "trade": {
-      "latest": 41,
-      "average": 31.026315789473685,
-      "total": 1179
+      "latest": 37,
+      "average": 31.17948717948718,
+      "total": 1216
     },
     "corporate_earnings": {
-      "latest": 39,
-      "average": 18.81578947368421,
-      "total": 715
+      "latest": 15,
+      "average": 18.71794871794872,
+      "total": 730
     },
     "fiscal_policy": {
-      "latest": 7,
-      "average": 4.973684210526316,
-      "total": 189
+      "latest": 4,
+      "average": 4.948717948717949,
+      "total": 193
     },
     "monetary_policy": {
-      "latest": 15,
-      "average": 12.657894736842104,
-      "total": 481
+      "latest": 7,
+      "average": 12.512820512820513,
+      "total": 488
     },
     "health_care": {
-      "latest": 3,
-      "average": 4.0,
-      "total": 152
+      "latest": 6,
+      "average": 4.051282051282051,
+      "total": 158
     },
     "national_security": {
-      "latest": 26,
-      "average": 10.236842105263158,
-      "total": 389
+      "latest": 11,
+      "average": 10.256410256410257,
+      "total": 400
     },
     "regulation": {
-      "latest": 2,
-      "average": 4.2105263157894735,
-      "total": 160
+      "latest": 4,
+      "average": 4.205128205128205,
+      "total": 164
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.02631578947368421,
+      "average": 0.02564102564102564,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 1,
-      "average": 2.4210526315789473,
-      "total": 92
+      "latest": 4,
+      "average": 2.4615384615384617,
+      "total": 96
     },
     "policy": {
-      "latest": 15,
-      "average": 9.342105263157896,
-      "total": 355
+      "latest": 12,
+      "average": 9.41025641025641,
+      "total": 367
     }
   }
 }
