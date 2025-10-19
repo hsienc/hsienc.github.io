@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-18T08:55:51.014811",
+  "last_updated": "2025-10-19T08:23:38.257720",
   "latest_scrape": {
-    "date": "2025-10-18",
-    "total_headlines": 560,
+    "date": "2025-10-19",
+    "total_headlines": 271,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -11,9 +11,8 @@
       "Bloomberg (Opinion)",
       "Bloomberg (Wealth)",
       "CNBC (Finance)",
-      "CNBC (Business News)",
-      "CNBC (Wealth)",
       "CNBC (Top News)",
+      "CNBC (Earnings)",
       "CNBC (US News)",
       "CNBC (World News)",
       "Wall Street Journal (Economy)",
@@ -37,13 +36,12 @@
       "ABC (Top Stories)",
       "ABC (US News)",
       "ABC (International News)",
-      "ABC (Politics)",
       "ABC (Business)",
+      "ABC (Technology)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
-      "New York Times (Energy & Environment)",
       "New York Times (Technology)",
       "New York Times (Health)",
       "Fox News (Latest)",
@@ -54,123 +52,121 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
-      "Fox Business (Economy)",
-      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
       "Fox Business (Technology)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
-      "ABC (Business, International News, Politics, Top Stories, US News)",
+      "ABC (Business, International News, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
-      "CNBC (Business News, Finance, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Technology, Videos)",
+      "CNBC (Earnings, Finance, Top News, US News, World News)",
+      "Fox Business (Latest, Lifestyle, Technology, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Energy & Environment, Health, Politics, Technology, US, World)",
+      "New York Times (Business, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.266,
+    "relevance_score": 0.148,
     "sample_headlines": [
       {
-        "title": "Opinion | Artificial Intelligence, Armageddon and the Antichrist",
-        "source": "Wall Street Journal (Tech)",
-        "link": "https://www.wsj.com/opinion/artificial-intelligence-armageddon-and-the-antichrist-b6986097?mod=rss_Technology",
-        "published_at": "2025-10-17T20:56:00Z"
+        "title": "The GOP is reviving a culture war strategy used by Donald Trump in last year's presidential campaign ahead of critical midterm elections",
+        "source": "Wall Street Journal (Politics)",
+        "link": "https://www.wsj.com/politics/elections/republicans-target-democrats-over-transgender-policies-in-this-years-races-13877b23",
+        "published_at": "2025-10-19T12:00:00Z"
       },
       {
-        "title": "Wall Street gears up for more earnings next week, with CPI data coming too",
-        "source": "CNBC (US News)",
-        "link": "https://www.cnbc.com/2025/10/17/stock-market-next-week-outlook-for-oct-20-24-2025.html",
-        "published_at": "2025-10-17T20:31:35Z"
-      },
-      {
-        "title": "Trump says Venezuela's Maduro offered oil to U.S. amid escalating tensions",
-        "source": "CBS (World News)",
-        "link": "https://www.cbsnews.com/video/trump-says-venezuelas-maduro-offered-oil-to-us-amid-escalating-tensions/",
-        "published_at": "2025-10-17T23:22:00Z"
-      },
-      {
-        "title": "Heavy security after deadly violence in Kenya as thousands turn out to mourn former PM Odinga",
+        "title": "China accuses US of cyberattack on national time center",
         "source": "ABC (International News)",
-        "link": "https://abcnews.go.com/International/wireStory/heavy-security-after-deadly-violence-kenya-thousands-turn-126640325",
-        "published_at": "2025-10-18T06:45:50Z"
+        "link": "https://abcnews.go.com/International/wireStory/china-accuses-us-cyberattack-national-time-center-126656791",
+        "published_at": "2025-10-19T08:21:26Z"
       },
       {
-        "title": "The Shutdown Is Stretching On. Trump Doesn't Seem to Mind.",
-        "source": "New York Times (US)",
-        "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html",
-        "published_at": "2025-10-18T12:44:58Z"
+        "title": "China Is Already Winning the Trade War America Wanted",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/features/2025-10-19/us-china-trade-war-xi-is-winning-against-trump",
+        "published_at": "2025-10-19T12:00:16Z"
+      },
+      {
+        "title": "Companies are blaming AI for job cuts. Critics say it's a 'good excuse'",
+        "source": "CNBC (World News)",
+        "link": "https://www.cnbc.com/2025/10/19/firms-are-blaming-ai-for-job-cuts-critics-say-its-a-good-excuse.html",
+        "published_at": "2025-10-19T10:24:00Z"
+      },
+      {
+        "title": "Cities Fight to Get Off FEMA's Flood Maps. One Montana Town Shows the Risk.",
+        "source": "Wall Street Journal (Real Estate)",
+        "link": "https://www.wsj.com/us-news/climate-environment/cities-fight-to-get-off-femas-flood-maps-one-montana-town-shows-the-risk-47c126b9?mod=LatestNewsRealEstate",
+        "published_at": "2025-10-19T09:30:00Z"
       }
     ]
   },
-  "total_days": 39,
-  "total_headlines_collected": 22634,
+  "total_days": 40,
+  "total_headlines_collected": 22905,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-18"
+    "end": "2025-10-19"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 27,
-      "average": 33.0,
-      "total": 1287
+      "latest": 9,
+      "average": 32.4,
+      "total": 1296
     },
     "household": {
-      "latest": 22,
-      "average": 23.58974358974359,
-      "total": 920
+      "latest": 5,
+      "average": 23.125,
+      "total": 925
     },
     "trade": {
-      "latest": 37,
-      "average": 31.17948717948718,
-      "total": 1216
+      "latest": 3,
+      "average": 30.475,
+      "total": 1219
     },
     "corporate_earnings": {
-      "latest": 15,
-      "average": 18.71794871794872,
-      "total": 730
+      "latest": 6,
+      "average": 18.4,
+      "total": 736
     },
     "fiscal_policy": {
-      "latest": 4,
-      "average": 4.948717948717949,
-      "total": 193
+      "latest": 1,
+      "average": 4.85,
+      "total": 194
     },
     "monetary_policy": {
-      "latest": 7,
-      "average": 12.512820512820513,
-      "total": 488
+      "latest": 2,
+      "average": 12.25,
+      "total": 490
     },
     "health_care": {
-      "latest": 6,
-      "average": 4.051282051282051,
-      "total": 158
+      "latest": 3,
+      "average": 4.025,
+      "total": 161
     },
     "national_security": {
-      "latest": 11,
-      "average": 10.256410256410257,
-      "total": 400
+      "latest": 5,
+      "average": 10.125,
+      "total": 405
     },
     "regulation": {
-      "latest": 4,
-      "average": 4.205128205128205,
+      "latest": 0,
+      "average": 4.1,
       "total": 164
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.02564102564102564,
+      "average": 0.025,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 4,
-      "average": 2.4615384615384617,
-      "total": 96
+      "latest": 1,
+      "average": 2.425,
+      "total": 97
     },
     "policy": {
-      "latest": 12,
-      "average": 9.41025641025641,
-      "total": 367
+      "latest": 5,
+      "average": 9.3,
+      "total": 372
     }
   }
 }
