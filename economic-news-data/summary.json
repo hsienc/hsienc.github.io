@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-21T08:33:57.928816",
+  "last_updated": "2025-10-22T08:48:34.088469",
   "latest_scrape": {
-    "date": "2025-10-21",
-    "total_headlines": 685,
+    "date": "2025-10-22",
+    "total_headlines": 739,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -50,7 +50,7 @@
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
-      "New York Times (Economy)",
+      "New York Times (Small Business)",
       "New York Times (Technology)",
       "New York Times (Health)",
       "Fox News (Latest)",
@@ -62,6 +62,7 @@
       "Fox News (Opinion)",
       "Fox Business (Latest)",
       "Fox Business (Economy)",
+      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
       "Fox Business (Videos)"
     ],
@@ -70,112 +71,112 @@
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
       "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
+      "New York Times (Business, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.304,
+    "relevance_score": 0.281,
     "sample_headlines": [
       {
-        "title": "Philip Morris Lifts Outlook as Quarterly Profit, Revenue Rise",
+        "title": "Elon Musk tosses barbs at NASA's chief after SpaceX criticism",
+        "source": "Wall Street Journal (Politics)",
+        "link": "https://www.wsj.com/politics/policy/musk-tosses-barbs-at-nasa-chief-after-spacex-criticism-b506128d",
+        "published_at": "2025-10-21T22:22:00Z"
+      },
+      {
+        "title": "American Airlines' Problems Started With No Seatback Screens",
+        "source": "Bloomberg (Opinion)",
+        "link": "https://www.bloomberg.com/opinion/articles/2025-10-22/american-airlines-missed-the-flight-on-premium-passengers",
+        "published_at": "2025-10-22T13:00:10Z"
+      },
+      {
+        "title": "Inside Luigi Mangione's Missing Months",
+        "source": "New York Times (US)",
+        "link": "https://www.nytimes.com/2025/10/21/us/luigi-mangione-asia-trip.html",
+        "published_at": "2025-10-21T17:04:03Z"
+      },
+      {
+        "title": "Stitch Fix's Growth Plan: More Quality Customers, Not Just More Shoppers",
         "source": "Wall Street Journal (US Business)",
-        "link": "https://www.wsj.com/business/retail/philip-morris-lifts-outlook-as-quarterly-profit-revenue-rise-c17167f1?mod=pls_whats_news_us_business_f",
-        "published_at": "2025-10-21T11:44:00Z"
+        "link": "https://www.wsj.com/articles/stitch-fixs-growth-plan-more-quality-customers-not-just-more-shoppers-e0de2973?mod=pls_whats_news_us_business_f",
+        "published_at": "2025-10-22T09:30:00Z"
       },
       {
-        "title": "Kudlow: If Trump were king, we'd have a continuing resolution funding the government right now",
-        "source": "Fox Business (Videos)",
-        "link": "https://www.foxbusiness.com/video/6383427297112",
-        "published_at": "2025-10-20T21:51:55Z"
-      },
-      {
-        "title": "U.S., Australia Deal Advances Critical Minerals Ambitions, While Detail Light",
-        "source": "Wall Street Journal (Economy)",
-        "link": "https://www.wsj.com/economy/trade/u-s-australia-deal-advances-critical-minerals-ambitions-while-detail-light-d731e823",
-        "published_at": "2025-10-21T10:01:00Z"
-      },
-      {
-        "title": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
-        "source": "New York Times (Politics)",
-        "link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
-        "published_at": "2025-10-21T00:58:45Z"
-      },
-      {
-        "title": "Business-Sales Outlook Weakens to Two-Year Low, Bank of Canada Survey Says",
-        "source": "Wall Street Journal (World News)",
-        "link": "https://www.wsj.com/world/americas/business-sales-outlook-weakens-to-two-year-low-bank-of-canada-survey-says-a428606e",
-        "published_at": "2025-10-20T15:47:00Z"
+        "title": "Science Rules: Bill Nye, Buttigieg to boost Spanberger in key VA city as Jones scandal looms over Dem ticket",
+        "source": "Fox News (Politics)",
+        "link": "https://www.foxnews.com/politics/science-rules-bill-nye-buttigieg-boost-spanberger-key-va-city-jones-scandal-looms-over-dem-ticket",
+        "published_at": "2025-10-21T18:35:24Z"
       }
     ]
   },
-  "total_days": 42,
-  "total_headlines_collected": 24000,
+  "total_days": 43,
+  "total_headlines_collected": 24739,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-21"
+    "end": "2025-10-22"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 30,
-      "average": 32.04761904761905,
-      "total": 1346
+      "latest": 34,
+      "average": 32.093023255813954,
+      "total": 1380
     },
     "household": {
-      "latest": 25,
-      "average": 23.071428571428573,
-      "total": 969
+      "latest": 28,
+      "average": 23.186046511627907,
+      "total": 997
     },
     "trade": {
-      "latest": 38,
-      "average": 30.404761904761905,
-      "total": 1277
+      "latest": 44,
+      "average": 30.72093023255814,
+      "total": 1321
     },
     "corporate_earnings": {
-      "latest": 81,
-      "average": 19.928571428571427,
-      "total": 837
+      "latest": 56,
+      "average": 20.767441860465116,
+      "total": 893
     },
     "fiscal_policy": {
-      "latest": 5,
-      "average": 4.785714285714286,
-      "total": 201
+      "latest": 6,
+      "average": 4.813953488372093,
+      "total": 207
     },
     "monetary_policy": {
-      "latest": 7,
-      "average": 11.952380952380953,
-      "total": 502
+      "latest": 12,
+      "average": 11.953488372093023,
+      "total": 514
     },
     "health_care": {
       "latest": 6,
-      "average": 4.0476190476190474,
-      "total": 170
+      "average": 4.093023255813954,
+      "total": 176
     },
     "national_security": {
-      "latest": 7,
-      "average": 10.0,
-      "total": 420
+      "latest": 3,
+      "average": 9.837209302325581,
+      "total": 423
     },
     "regulation": {
-      "latest": 4,
-      "average": 4.023809523809524,
-      "total": 169
+      "latest": 3,
+      "average": 4.0,
+      "total": 172
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.023809523809523808,
+      "average": 0.023255813953488372,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 1,
-      "average": 2.357142857142857,
-      "total": 99
+      "latest": 3,
+      "average": 2.372093023255814,
+      "total": 102
     },
     "policy": {
-      "latest": 4,
-      "average": 9.023809523809524,
-      "total": 379
+      "latest": 13,
+      "average": 9.116279069767442,
+      "total": 392
     }
   }
 }
