@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-23T08:31:37.838298",
+  "last_updated": "2025-10-25T09:41:48.751360",
   "latest_scrape": {
-    "date": "2025-10-23",
-    "total_headlines": 748,
+    "date": "2025-10-25",
+    "total_headlines": 529,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -35,7 +35,6 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
-      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -49,7 +48,6 @@
       "New York Times (Politics)",
       "New York Times (Business)",
       "New York Times (Energy & Environment)",
-      "New York Times (Small Business)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
@@ -61,122 +59,122 @@
       "Fox News (Technology)",
       "Fox News (Opinion)",
       "Fox Business (Latest)",
-      "Fox Business (Economy)",
       "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
+      "Fox Business (College)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
       "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Technology, Top News, US News, World News)",
+      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
+      "Fox Business (College, Latest, Lifestyle, Markets, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Small Business, Technology, US, World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.369,
+    "relevance_score": 0.253,
     "sample_headlines": [
       {
-        "title": "DAVID MARCUS: 5 things New York Republicans need to hear from Andrew Cuomo",
-        "source": "Fox News (Opinion)",
-        "link": "https://www.foxnews.com/opinion/david-marcus-5-things-new-york-republicans-need-hear-from-andrew-cuomo",
-        "published_at": "2025-10-22T19:14:20Z"
+        "title": "Investment expert reveals where Chinese market is 'out-performing' US and India markets",
+        "source": "Fox Business (Videos)",
+        "link": "https://www.foxbusiness.com/video/6383800249112",
+        "published_at": "2025-10-24T20:27:26Z"
       },
       {
-        "title": "Kentucky investigators crack stolen bourbon case",
-        "source": "CBS (US News)",
-        "link": "https://www.cbsnews.com/video/kentucky-investigators-crack-stolen-bourbon-case/",
-        "published_at": "2025-10-23T02:36:24Z"
+        "title": "CEO of the Alamo's historic site has resigned after a top Republican criticized her",
+        "source": "ABC (Politics)",
+        "link": "https://abcnews.go.com/Politics/wireStory/ceo-alamos-historic-site-resigned-after-top-texas-126849695",
+        "published_at": "2025-10-24T22:36:27Z"
       },
       {
-        "title": "Alabama to execute man for 1993 murder in state's latest nitrogen gas execution",
-        "source": "ABC (US News)",
-        "link": "https://abcnews.go.com/US/wireStory/alabama-execute-man-1993-murder-states-latest-nitrogen-126782860",
-        "published_at": "2025-10-23T05:02:55Z"
+        "title": "S&P 500 Climbs to New Record on Strong Earnings",
+        "source": "Wall Street Journal (Markets)",
+        "link": "https://www.wsj.com/finance/stocks/s-p-500-climbs-to-new-record-on-strong-earnings-0be1c68f?mod=rss_markets_main",
+        "published_at": "2025-10-24T20:58:00Z"
       },
       {
-        "title": "President Trump has privately told allies he believes Democrat Zohran Mamdani is unbeatable in the New York City mayor's race, according to people familiar with the matter",
-        "source": "Wall Street Journal (Politics)",
-        "link": "https://www.wsj.com/politics/elections/trump-zohran-mamdani-nyc-mayor-election-ae987565",
-        "published_at": "2025-10-22T20:58:00Z"
+        "title": "Chicago Developer Sells Once-Distressed Cboe Building for Profit",
+        "source": "Bloomberg (Wealth)",
+        "link": "https://www.bloomberg.com/news/articles/2025-10-24/chicago-developer-sells-once-distressed-cboe-building-for-profit",
+        "published_at": "2025-10-24T20:53:26Z"
       },
       {
-        "title": "Shutterstock Founder Sells Oceanfront Hamptons Home for $57 Million",
-        "source": "Wall Street Journal (Real Estate)",
-        "link": "https://www.wsj.com/real-estate/luxury-homes/shutterstock-founder-sells-oceanfront-hamptons-home-for-57-million-c17c1e9d?mod=LatestNewsRealEstate",
-        "published_at": "2025-10-22T21:07:00Z"
+        "title": "Stocks making the biggest moves midday: Ford Motor, Alphabet, Alaska Air, Coinbase, Boston Beer and more",
+        "source": "CNBC (Finance)",
+        "link": "https://www.cnbc.com/2025/10/24/stocks-making-the-biggest-moves-midday-f-googl-alk-coin-sam-and-more.html",
+        "published_at": "2025-10-24T16:01:51Z"
       }
     ]
   },
-  "total_days": 44,
-  "total_headlines_collected": 25487,
+  "total_days": 46,
+  "total_headlines_collected": 26724,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-10-23"
+    "end": "2025-10-25"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 46,
-      "average": 32.40909090909091,
-      "total": 1426
+      "latest": 30,
+      "average": 33.15217391304348,
+      "total": 1525
     },
     "household": {
-      "latest": 38,
-      "average": 23.522727272727273,
-      "total": 1035
+      "latest": 21,
+      "average": 24.304347826086957,
+      "total": 1118
     },
     "trade": {
-      "latest": 55,
-      "average": 31.272727272727273,
-      "total": 1376
+      "latest": 37,
+      "average": 31.91304347826087,
+      "total": 1468
     },
     "corporate_earnings": {
-      "latest": 77,
-      "average": 22.045454545454547,
-      "total": 970
+      "latest": 20,
+      "average": 22.804347826086957,
+      "total": 1049
     },
     "fiscal_policy": {
-      "latest": 6,
-      "average": 4.840909090909091,
-      "total": 213
+      "latest": 2,
+      "average": 4.695652173913044,
+      "total": 216
     },
     "monetary_policy": {
-      "latest": 13,
-      "average": 11.977272727272727,
-      "total": 527
+      "latest": 4,
+      "average": 11.782608695652174,
+      "total": 542
     },
     "health_care": {
-      "latest": 7,
-      "average": 4.159090909090909,
-      "total": 183
+      "latest": 2,
+      "average": 4.195652173913044,
+      "total": 193
     },
     "national_security": {
-      "latest": 10,
-      "average": 9.840909090909092,
-      "total": 433
+      "latest": 8,
+      "average": 9.804347826086957,
+      "total": 451
     },
     "regulation": {
-      "latest": 6,
-      "average": 4.045454545454546,
-      "total": 178
+      "latest": 2,
+      "average": 4.065217391304348,
+      "total": 187
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.022727272727272728,
+      "average": 0.021739130434782608,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 6,
-      "average": 2.4545454545454546,
-      "total": 108
+      "latest": 4,
+      "average": 2.6739130434782608,
+      "total": 123
     },
     "policy": {
-      "latest": 12,
-      "average": 9.181818181818182,
-      "total": 404
+      "latest": 4,
+      "average": 9.065217391304348,
+      "total": 417
     }
   }
 }
