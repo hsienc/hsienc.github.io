@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Cycling"
 permalink: /cycling/
 author_profile: true
 ---
