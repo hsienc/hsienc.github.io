@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-11-04T08:24:00.340332",
+  "last_updated": "2025-11-26T09:31:03.943419",
   "latest_scrape": {
-    "date": "2025-11-04",
-    "total_headlines": 680,
+    "date": "2025-11-26",
+    "total_headlines": 699,
     "sources_scraped": [
       "Bloomberg (Market News)",
       "Bloomberg (Economics)",
@@ -35,6 +35,8 @@
       "CBS (US News)",
       "CBS (World News)",
       "CBS (MoneyWatch)",
+      "CBS (Health)",
+      "CBS (Technology)",
       "CBS (Politics)",
       "ABC (Top Stories)",
       "ABC (US News)",
@@ -42,10 +44,12 @@
       "ABC (Politics)",
       "ABC (Business)",
       "ABC (Technology)",
+      "ABC (Health)",
       "New York Times (US)",
       "New York Times (World)",
       "New York Times (Politics)",
       "New York Times (Business)",
+      "New York Times (Energy & Environment)",
       "New York Times (Economy)",
       "New York Times (Technology)",
       "New York Times (Health)",
@@ -58,120 +62,121 @@
       "Fox News (Opinion)",
       "Fox Business (Latest)",
       "Fox Business (Economy)",
+      "Fox Business (Markets)",
       "Fox Business (Lifestyle)",
       "Fox Business (Videos)"
     ],
     "sources_organized": [
-      "ABC (Business, International News, Politics, Technology, Top Stories, US News)",
+      "ABC (Business, Health, International News, Politics, Technology, Top Stories, US News)",
       "Bloomberg (Business, Economics, Market News, Opinion, Technology, Wealth)",
-      "CBS (MoneyWatch, Politics, Top News, US News, World News)",
+      "CBS (Health, MoneyWatch, Politics, Technology, Top News, US News, World News)",
       "CNBC (Business News, Earnings, Economy, Finance, Retail, Top News, US News, Wealth, World News)",
-      "Fox Business (Economy, Latest, Lifestyle, Videos)",
+      "Fox Business (Economy, Latest, Lifestyle, Markets, Videos)",
       "Fox News (Health, Latest, Opinion, Politics, Technology, U.S., World)",
-      "New York Times (Business, Economy, Health, Politics, Technology, US, World)",
+      "New York Times (Business, Economy, Energy & Environment, Health, Politics, Technology, US, World)",
       "Wall Street Journal (Economy, Health, Markets, Personal Finance, Politics, Real Estate, Tech, US Business, US News, World News)",
       "Yahoo News (Finance, Latest)"
     ],
-    "relevance_score": 0.35,
+    "relevance_score": 0.325,
     "sample_headlines": [
       {
-        "title": "Microsoft to Buy AI Computing Power From IREN for $9.7 Billion",
-        "source": "Bloomberg (Technology)",
-        "link": "https://www.bloomberg.com/news/videos/2025-11-03/microsoft-pays-iren-9-7-billion-for-ai-computing-power-video",
-        "published_at": "2025-11-03T16:13:26Z"
+        "title": "Jobless Claims Show Low-Hire, Low-Fire Environment Continues",
+        "source": "Wall Street Journal (Economy)",
+        "link": "https://www.wsj.com/economy/jobs/jobless-claims-show-low-hire-low-fire-environment-continues-62e57e0b",
+        "published_at": "2025-11-26T13:52:00Z"
       },
       {
-        "title": "Avalanche in Nepal kills 7 climbers on Mount Yalung Ri",
-        "source": "Fox News (World)",
-        "link": "https://www.foxnews.com/world/avalanche-nepal-kills-7-climbers-mount-yalung-ri",
-        "published_at": "2025-11-03T22:44:48Z"
+        "title": "Trader Accused by Trafigura Says There Was 'No Deception'",
+        "source": "Bloomberg (Market News)",
+        "link": "https://www.bloomberg.com/news/articles/2025-11-26/trader-accused-by-trafigura-says-there-was-no-deception",
+        "published_at": "2025-11-26T12:20:54Z"
       },
       {
-        "title": "Illegal immigrant truck drivers endanger Americans as foreign companies 'exploit' industry, exec says",
-        "source": "Fox News (Latest)",
-        "link": "https://www.foxnews.com/us/illegal-immigrant-truck-drivers-endanger-americans-foreign-companies-exploit-industry-exec-says",
-        "published_at": "2025-11-04T13:00:13Z"
+        "title": "Fraud expert: This is the first sign you're being targeted by a scammer (and most people overlook it)",
+        "source": "CNBC (Top News)",
+        "link": "https://www.cnbc.com/select/fraud-expert-the-first-sign-youre-being-targeted-by-a-scammer/",
+        "published_at": "2025-11-26T14:58:31Z"
       },
       {
-        "title": "Amazon closes at record after $38 billion OpenAI deal with AWS",
-        "source": "CNBC (World News)",
-        "link": "https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html",
-        "published_at": "2025-11-03T21:15:36Z"
+        "title": "Trump administration orders review of refugees who entered under Biden, memo shows",
+        "source": "CBS (Politics)",
+        "link": "https://www.cbsnews.com/news/trump-administration-review-refugees-who-entered-under-biden-green-card-cases/",
+        "published_at": "2025-11-26T03:29:14Z"
       },
       {
-        "title": "2 Lawsuits Challenge New Rule Limiting Student Loan Forgiveness",
-        "source": "New York Times (US)",
-        "link": "https://www.nytimes.com/2025/11/03/us/politics/student-loan-forgiveness-public-servants-trump.html",
-        "published_at": "2025-11-03T18:40:17Z"
+        "title": "A Minnesota startup alleges a Chinese company-its biggest investor-is scheming to destroy it. The case highlights concerns over U.S. export and investment policy",
+        "source": "Wall Street Journal (Politics)",
+        "link": "https://www.wsj.com/politics/national-security/a-promising-u-s-healthcare-startup-battles-for-survival-against-its-chinese-investor-319f1e7a",
+        "published_at": "2025-11-26T04:00:00Z"
       }
     ]
   },
-  "total_days": 56,
-  "total_headlines_collected": 32685,
+  "total_days": 78,
+  "total_headlines_collected": 46348,
   "date_range": {
     "start": "2025-09-10",
-    "end": "2025-11-04"
+    "end": "2025-11-26"
   },
   "categories": {
     "macroeconomics": {
-      "latest": 41,
-      "average": 33.17857142857143,
-      "total": 1858
+      "latest": 43,
+      "average": 34.57692307692308,
+      "total": 2697
     },
     "household": {
-      "latest": 27,
-      "average": 24.178571428571427,
-      "total": 1354
+      "latest": 38,
+      "average": 25.743589743589745,
+      "total": 2008
     },
     "trade": {
-      "latest": 30,
-      "average": 32.964285714285715,
-      "total": 1846
+      "latest": 11,
+      "average": 31.064102564102566,
+      "total": 2423
     },
     "corporate_earnings": {
-      "latest": 87,
-      "average": 27.696428571428573,
-      "total": 1551
+      "latest": 42,
+      "average": 31.974358974358974,
+      "total": 2494
     },
     "fiscal_policy": {
-      "latest": 8,
-      "average": 4.821428571428571,
-      "total": 270
+      "latest": 28,
+      "average": 5.384615384615385,
+      "total": 420
     },
     "monetary_policy": {
-      "latest": 13,
-      "average": 12.375,
-      "total": 693
+      "latest": 20,
+      "average": 11.64102564102564,
+      "total": 908
     },
     "health_care": {
-      "latest": 2,
-      "average": 4.517857142857143,
-      "total": 253
+      "latest": 11,
+      "average": 4.782051282051282,
+      "total": 373
     },
     "national_security": {
       "latest": 11,
-      "average": 9.857142857142858,
-      "total": 552
+      "average": 9.333333333333334,
+      "total": 728
     },
     "regulation": {
-      "latest": 10,
-      "average": 4.107142857142857,
-      "total": 230
+      "latest": 7,
+      "average": 3.9871794871794872,
+      "total": 311
     },
     "sovereign_debt_currency_crisis": {
       "latest": 0,
-      "average": 0.017857142857142856,
+      "average": 0.01282051282051282,
       "total": 1
     },
     "entitlement_programs": {
-      "latest": 0,
-      "average": 2.625,
-      "total": 147
+      "latest": 4,
+      "average": 2.3205128205128207,
+      "total": 181
     },
     "policy": {
-      "latest": 9,
-      "average": 9.017857142857142,
-      "total": 505
+      "latest": 12,
+      "average": 9.782051282051283,
+      "total": 763
     }
   }
 }
