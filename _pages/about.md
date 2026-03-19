@@ -12,4 +12,8 @@ I am a first-year PhD student in Finance at the Wisconsin School of Business (WS
 
 Email: <a href="mailto:hchu38@wisc.edu">hchu38@wisc.edu</a>
 
+UW-Madison webpage: <a href="https://business.wisc.edu/directory/profile/eric-chu/">WSB profile</a>
+
+
+
 <meta name="google-site-verification" content="JZJipXOKsAkyeXkI7YadTZj2YEOMBdSFy5SWF1x0418" />
