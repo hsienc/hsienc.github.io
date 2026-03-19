@@ -9,6 +9,38 @@ author_profile: true
 
 ### "Dynamic Retail Pricing with Learning Buyers"
 
+<details><summary markdown='span'>
+<span style="cursor:pointer"> <i> Preliminary figures </i></span>
+</summary>
+  
+<br>
+
+<div id='prelimfig' style="text-align: justify; line-height: 1.2;">
+    <img src="/images/p2_DRPLB_Theta_Path.png" alt="Aggregate informedness" title="DRPLB" style="width: 500px;" />
+</div>
+
+<br>
+
+<div id='prelimfig' style="text-align: justify; line-height: 1.2;">
+    <img src="/images/p4_DRPLB_Policy_Function.png" alt="Policy functions" title="DRPLB" style="width: 500px;" />
+</div>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!---
 
 <details><summary markdown='span'>
@@ -41,8 +73,6 @@ author_profile: true
 <div id='prelimfig' style="text-align: justify; line-height: 1.2;">
     <img src="/images/KDE_RegularPrice_Road.png" alt="Price Distribution" title="Trade Exposures in Local Retail Pricing" style="width: 500px;" />
 </div>
-
-
 </details>
 
 
