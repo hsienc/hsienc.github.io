@@ -12,7 +12,7 @@ I am a PhD student in Finance at the Wisconsin School of Business (WSB). My rese
 
 <a href="/files/EricHsienchenChu_CV_PhD.pdf" target="_blank">Curriculum Vitae</a>
 
-Email: <a href="mailto:hchu38@wisc.edu">hchu38@wisc.edu</a>
+Contact: <a href="mailto:hchu38@wisc.edu">hchu38@wisc.edu</a>
 
 Department Page: <a href="https://business.wisc.edu/directory/profile/eric-chu/">WSB profile</a>
 
