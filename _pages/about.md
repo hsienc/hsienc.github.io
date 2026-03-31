@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Finance at the Wisconsin School of Business (WSB). My research interests center on macro-finance and international economics. Prior to starting doctoral studies, I received B.S.'s in Economics with Honors and Mathematics from the University of Wisconsin–Madison in 2025. 
 
-<a href="/files/EricHsienchenChu_CV_PhD.pdf" target="_blank">Curriculum Vitae</a>
+<a href="/files/EricHsienchenChu_CV_PhD-public.pdf" target="_blank">Curriculum Vitae</a>
 
 Contact: <a href="mailto:hchu38@wisc.edu">hchu38@wisc.edu</a>
 
