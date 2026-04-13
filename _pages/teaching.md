@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+(*) = scheduled
 
-Not teaching this academic year (2025-26)!
+Fall 26 $^{*}$ &nbsp; $\mid$ &nbsp; **FIN 920 Asset Pricing Theory (Ph.D. core)**, Teaching Assistant for Hengjie Ai
+
 
 <br>
 
