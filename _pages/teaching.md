@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-($^{*}$) = scheduled
+(*) = scheduled
 
-Fall 26 $^{*}$ &nbsp; $\mid$ &nbsp; **FIN 920 Asset Pricing Theory (Ph.D. core)**, Teaching Assistant for Hengjie Ai
+Fall 26* &nbsp;&nbsp; | &nbsp;&nbsp; **FIN 920 Asset Pricing Theory (Ph.D. core)**, Teaching Assistant for Hengjie Ai
 
 
 <br>
