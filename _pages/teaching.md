@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-(*) = scheduled
+($^{*}$) = scheduled
 
 Fall 26 $^{*}$ &nbsp; $\mid$ &nbsp; **FIN 920 Asset Pricing Theory (Ph.D. core)**, Teaching Assistant for Hengjie Ai
 
